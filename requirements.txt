@@ -1,0 +1,5 @@
+﻿Flask
+python-docx
+docxtpl
+docxcompose
+Werkzeug
