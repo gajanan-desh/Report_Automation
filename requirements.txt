@@ -3,3 +3,4 @@ python-docx
 docxtpl
 docxcompose
 Werkzeug
+gunicorn
