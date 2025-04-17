@@ -21,14 +21,15 @@
         
         body {
             background-image: url('/static/background.png');
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
+            background-size: cover;              /* Scales image nicely */
+            background-repeat: no-repeat;        /* No repeated tiles */
+            background-position: center center;  /* Center image */
+            background-attachment: fixed;        /* Keeps background in place */
+            min-height: 100vh;                   /* Full screen height */
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             color: var(--dark);
             line-height: 1.5;
         }
-        
         .page-container {
             max-width: 900px;
             margin: 1.5rem auto;
@@ -261,7 +262,7 @@
         <!-- Header -->
         <div class="app-header">
             <div class="app-logo">
-                <img src="/static/cropped-RNS-HIGH-RES-Logo.png" alt="App Logo" style="height: 40px;">
+                <img src="/static/cropped-RNS-HIGH-RES-Logo.png" alt="App Logo" class="img-fluid" style="max-height: 40px; width: auto;">
             </div>
             <h1 class="app-title">RNS VA Report Generator</h1>
         </div>
