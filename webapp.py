@@ -253,4 +253,4 @@ if __name__ == '__main__':
         flash("Report template not found. Please add a template file.")
     
     logger.info("Starting web application")
-    app.run(debug=True)
+    app.run
