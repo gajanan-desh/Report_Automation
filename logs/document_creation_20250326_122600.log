@@ -1,0 +1,41 @@
+2025-03-26 12:26:00,318 - INFO - Starting web application
+2025-03-26 12:26:00,420 - WARNING -  * Debugger is active!
+2025-03-26 12:26:00,463 - INFO -  * Debugger PIN: 134-252-201
+2025-03-26 12:26:00,539 - INFO - 127.0.0.1 - - [26/Mar/2025 12:26:00] "GET / HTTP/1.1" 200 -
+2025-03-26 12:26:14,174 - INFO - File uploaded: dataset.csv
+2025-03-26 12:26:14,180 - INFO - Validating CSV columns
+2025-03-26 12:26:14,181 - INFO - All required columns found in CSV
+2025-03-26 12:26:14,377 - INFO - Copied Start.docx to temporary directory
+2025-03-26 12:26:14,463 - INFO - Copied End.docx to temporary directory
+2025-03-26 12:26:14,465 - INFO - Starting document creation process
+2025-03-26 12:26:14,605 - INFO - Created new document
+2025-03-26 12:26:14,606 - INFO - Setting document font to Helvetica, size 10.5
+2025-03-26 12:26:14,621 - INFO - Document font set successfully
+2025-03-26 12:26:14,627 - INFO - Added document title
+2025-03-26 12:26:14,627 - INFO - Using CSV file: dataset.csv
+2025-03-26 12:26:14,628 - INFO - Successfully opened CSV file
+2025-03-26 12:26:14,629 - INFO - CSV header read successfully with 13 columns
+2025-03-26 12:26:14,631 - INFO - Validating CSV columns
+2025-03-26 12:26:14,632 - INFO - All required columns found in CSV
+2025-03-26 12:26:14,633 - INFO - Processing row 1
+2025-03-26 12:26:14,638 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:26:14,640 - INFO - Processing row 2
+2025-03-26 12:26:14,640 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:26:14,641 - INFO - Found 1 unique vulnerabilities
+2025-03-26 12:26:14,642 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:26:14,643 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:26:14,771 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:26:14,772 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-03-26 12:26:14,777 - INFO - Formatting affected resources table for 2 resources
+2025-03-26 12:26:14,782 - INFO - Successfully formatted affected resources
+2025-03-26 12:26:14,793 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-03-26 12:26:14,841 - INFO - Generated document saved as output_document.docx
+2025-03-26 12:26:14,842 - INFO - Starting document merge process
+2025-03-26 12:26:14,907 - INFO - Inserting start document: Start.docx
+2025-03-26 12:26:15,097 - INFO - Appending end document: End.docx
+2025-03-26 12:26:15,212 - INFO - Merged document saved successfully as 'vulnerability_report.docx'
+2025-03-26 12:26:15,213 - INFO - Final document created at vulnerability_report.docx
+2025-03-26 12:26:15,213 - INFO - Document creation process completed successfully
+2025-03-26 12:26:15,214 - INFO - Document generated successfully
+2025-03-26 12:26:15,249 - INFO - 127.0.0.1 - - [26/Mar/2025 12:26:15] "POST / HTTP/1.1" 200 -
+2025-03-26 12:30:09,615 - INFO -  * Detected change in 'E:\\Report Automation Project\\script5.py', reloading

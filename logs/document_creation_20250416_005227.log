@@ -1,0 +1,141 @@
+2025-04-16 00:52:29,264 - INFO - Starting web application
+2025-04-16 00:52:29,539 - WARNING -  * Debugger is active!
+2025-04-16 00:52:29,610 - INFO -  * Debugger PIN: 962-905-612
+2025-04-16 00:52:31,177 - INFO - 127.0.0.1 - - [16/Apr/2025 00:52:31] "GET / HTTP/1.1" 200 -
+2025-04-16 00:52:43,598 - INFO - Processing report for Al-Nabooda, External Network
+2025-04-16 00:52:43,604 - INFO - File uploaded: Firewall_Scan_6bndj0.csv
+2025-04-16 00:52:43,746 - INFO - Validating CSV columns
+2025-04-16 00:52:43,760 - INFO - All required columns found in CSV
+2025-04-16 00:52:45,640 - INFO - Cover page generated successfully
+2025-04-16 00:52:45,641 - INFO - Starting document creation process
+2025-04-16 00:52:45,682 - INFO - Created new document
+2025-04-16 00:52:45,683 - INFO - Setting document font to Helvetica, size 10.5
+2025-04-16 00:52:45,687 - INFO - Document font set successfully
+2025-04-16 00:52:45,694 - INFO - Using CSV file: dataset.csv
+2025-04-16 00:52:45,695 - INFO - Successfully opened CSV file
+2025-04-16 00:52:45,696 - INFO - CSV header read successfully with 8 columns
+2025-04-16 00:52:45,699 - INFO - Validating CSV columns
+2025-04-16 00:52:45,700 - INFO - All required columns found in CSV
+2025-04-16 00:52:45,712 - INFO - Processing row 1
+2025-04-16 00:52:45,714 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:45,715 - INFO - Processing row 2
+2025-04-16 00:52:45,716 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-16 00:52:45,717 - INFO - Processing row 3
+2025-04-16 00:52:45,717 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:45,718 - INFO - Processing row 4
+2025-04-16 00:52:45,719 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:45,722 - INFO - Processing row 5
+2025-04-16 00:52:45,723 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-16 00:52:45,727 - INFO - Processing row 6
+2025-04-16 00:52:45,728 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:45,729 - INFO - Processing row 7
+2025-04-16 00:52:45,735 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:45,735 - INFO - Processing row 8
+2025-04-16 00:52:45,737 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-16 00:52:45,740 - INFO - Processing row 9
+2025-04-16 00:52:45,741 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:45,742 - INFO - Processing row 10
+2025-04-16 00:52:45,743 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:45,743 - INFO - Processing row 11
+2025-04-16 00:52:45,744 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-16 00:52:45,744 - INFO - Processing row 12
+2025-04-16 00:52:45,745 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:45,745 - INFO - Processing row 13
+2025-04-16 00:52:45,746 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:45,746 - INFO - Processing row 14
+2025-04-16 00:52:45,747 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-16 00:52:45,747 - INFO - Processing row 15
+2025-04-16 00:52:45,748 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:45,748 - INFO - Processing row 16
+2025-04-16 00:52:45,749 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:45,749 - INFO - Processing row 17
+2025-04-16 00:52:45,750 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:45,750 - INFO - Processing row 18
+2025-04-16 00:52:45,750 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-16 00:52:45,751 - INFO - Processing row 19
+2025-04-16 00:52:45,751 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:45,752 - INFO - Processing row 20
+2025-04-16 00:52:45,753 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:45,756 - INFO - Processing row 21
+2025-04-16 00:52:45,756 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-16 00:52:45,758 - INFO - Processing row 22
+2025-04-16 00:52:45,760 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:45,761 - INFO - Processing row 23
+2025-04-16 00:52:45,762 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:45,764 - INFO - Processing row 24
+2025-04-16 00:52:45,764 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:45,765 - INFO - Processing row 25
+2025-04-16 00:52:45,766 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:45,766 - INFO - Processing row 26
+2025-04-16 00:52:45,767 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:45,767 - INFO - Processing row 27
+2025-04-16 00:52:45,768 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:45,772 - INFO - Processing row 28
+2025-04-16 00:52:45,773 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:45,773 - INFO - Processing row 29
+2025-04-16 00:52:45,774 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:45,775 - INFO - Processing row 30
+2025-04-16 00:52:45,776 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:45,776 - INFO - Processing row 31
+2025-04-16 00:52:45,777 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:45,777 - INFO - Processing row 32
+2025-04-16 00:52:45,778 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:45,779 - INFO - Processing row 33
+2025-04-16 00:52:45,780 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:45,780 - INFO - Processing row 34
+2025-04-16 00:52:45,783 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:45,784 - INFO - Processing row 35
+2025-04-16 00:52:45,787 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:45,791 - INFO - Processing row 36
+2025-04-16 00:52:45,794 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:45,796 - INFO - Found 5 unique vulnerabilities
+2025-04-16 00:52:45,796 - INFO - Creating vulnerability summary table
+2025-04-16 00:52:45,885 - INFO - Summary table created successfully
+2025-04-16 00:52:45,888 - INFO - Creating table for vulnerability 1: SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:45,890 - INFO - Creating table with heading: 1. SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:46,018 - INFO - Table created successfully for heading: 1. SSL Certificate Cannot Be Trusted
+2025-04-16 00:52:46,021 - INFO - Added new page for next vulnerability
+2025-04-16 00:52:46,022 - INFO - Appending data for vulnerability VAS-01
+2025-04-16 00:52:46,026 - INFO - Formatting affected resources table for 8 resources
+2025-04-16 00:52:46,031 - INFO - Successfully formatted affected resources
+2025-04-16 00:52:46,047 - INFO - Successfully appended data for vulnerability VAS-01
+2025-04-16 00:52:46,050 - INFO - Creating table for vulnerability 2: SSL Self-Signed Certificate
+2025-04-16 00:52:46,051 - INFO - Creating table with heading: 2. SSL Self-Signed Certificate
+2025-04-16 00:52:46,156 - INFO - Table created successfully for heading: 2. SSL Self-Signed Certificate
+2025-04-16 00:52:46,158 - INFO - Added new page for next vulnerability
+2025-04-16 00:52:46,158 - INFO - Appending data for vulnerability VAS-02
+2025-04-16 00:52:46,162 - INFO - Formatting affected resources table for 7 resources
+2025-04-16 00:52:46,179 - INFO - Successfully formatted affected resources
+2025-04-16 00:52:46,191 - INFO - Successfully appended data for vulnerability VAS-02
+2025-04-16 00:52:46,191 - INFO - Creating table for vulnerability 3: TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:46,195 - INFO - Creating table with heading: 3. TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:46,312 - INFO - Table created successfully for heading: 3. TLS Version 1.1 Deprecated Protocol
+2025-04-16 00:52:46,314 - INFO - Added new page for next vulnerability
+2025-04-16 00:52:46,315 - INFO - Appending data for vulnerability VAS-03
+2025-04-16 00:52:46,321 - INFO - Formatting affected resources table for 7 resources
+2025-04-16 00:52:46,329 - INFO - Successfully formatted affected resources
+2025-04-16 00:52:46,335 - INFO - Successfully appended data for vulnerability VAS-03
+2025-04-16 00:52:46,338 - INFO - Creating table for vulnerability 4: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:46,339 - INFO - Creating table with heading: 4. Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:46,461 - INFO - Table created successfully for heading: 4. Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-16 00:52:46,465 - INFO - Added new page for next vulnerability
+2025-04-16 00:52:46,466 - INFO - Appending data for vulnerability VAS-04
+2025-04-16 00:52:46,471 - INFO - Formatting affected resources table for 7 resources
+2025-04-16 00:52:46,480 - INFO - Successfully formatted affected resources
+2025-04-16 00:52:46,490 - INFO - Successfully appended data for vulnerability VAS-04
+2025-04-16 00:52:46,491 - INFO - Creating table for vulnerability 5: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:46,492 - INFO - Creating table with heading: 5. SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:46,601 - INFO - Table created successfully for heading: 5. SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-16 00:52:46,601 - INFO - Appending data for vulnerability VAS-05
+2025-04-16 00:52:46,605 - INFO - Formatting affected resources table for 7 resources
+2025-04-16 00:52:46,614 - INFO - Successfully formatted affected resources
+2025-04-16 00:52:46,634 - INFO - Successfully appended data for vulnerability VAS-05
+2025-04-16 00:52:46,681 - INFO - Document saved successfully as 'output_document.docx'
+2025-04-16 00:52:46,684 - INFO - Document creation process completed successfully
+2025-04-16 00:52:46,694 - INFO - VA report generated successfully
+2025-04-16 00:52:46,694 - INFO - Merging documents
+2025-04-16 00:52:48,131 - INFO - Documents merged successfully
+2025-04-16 00:52:48,133 - INFO - Final report generated successfully
+2025-04-16 00:52:48,196 - INFO - 127.0.0.1 - - [16/Apr/2025 00:52:48] "POST / HTTP/1.1" 200 -
+2025-04-16 00:53:18,739 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\webapp.py', reloading
+2025-04-16 00:53:18,817 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\webapp.py', reloading

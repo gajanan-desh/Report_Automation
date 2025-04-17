@@ -1,0 +1,6 @@
+2025-04-14 14:09:31,552 - INFO - Starting web application
+2025-04-14 14:09:31,655 - WARNING -  * Debugger is active!
+2025-04-14 14:09:31,693 - INFO -  * Debugger PIN: 962-905-612
+2025-04-14 14:19:35,124 - INFO - 127.0.0.1 - - [14/Apr/2025 14:19:35] "GET / HTTP/1.1" 200 -
+2025-04-14 14:24:58,791 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\webapp.py', reloading
+2025-04-14 14:24:58,830 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\webapp.py', reloading

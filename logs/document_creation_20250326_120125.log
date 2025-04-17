@@ -1,0 +1,38 @@
+2025-03-26 12:01:25,254 - INFO - Starting web application
+2025-03-26 12:01:25,364 - WARNING -  * Debugger is active!
+2025-03-26 12:01:25,389 - INFO -  * Debugger PIN: 134-252-201
+2025-03-26 12:01:28,768 - INFO - 127.0.0.1 - - [26/Mar/2025 12:01:28] "GET / HTTP/1.1" 200 -
+2025-03-26 12:01:31,361 - INFO - 127.0.0.1 - - [26/Mar/2025 12:01:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-26 12:01:51,626 - INFO - File uploaded: dataset.csv
+2025-03-26 12:01:51,823 - INFO - Validating CSV columns
+2025-03-26 12:01:51,824 - INFO - All required columns found in CSV
+2025-03-26 12:01:51,828 - INFO - Starting document creation process
+2025-03-26 12:01:51,996 - INFO - Created new document
+2025-03-26 12:01:52,000 - INFO - Setting document font to Helvetica, size 10.5
+2025-03-26 12:01:52,011 - INFO - Document font set successfully
+2025-03-26 12:01:52,016 - INFO - Added document title
+2025-03-26 12:01:52,017 - INFO - Using CSV file: dataset.csv
+2025-03-26 12:01:52,019 - INFO - Successfully opened CSV file
+2025-03-26 12:01:52,021 - INFO - CSV header read successfully with 13 columns
+2025-03-26 12:01:52,022 - INFO - Validating CSV columns
+2025-03-26 12:01:52,022 - INFO - All required columns found in CSV
+2025-03-26 12:01:52,023 - INFO - Processing row 1
+2025-03-26 12:01:52,032 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:01:52,042 - INFO - Processing row 2
+2025-03-26 12:01:52,046 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:01:52,055 - INFO - Found 1 unique vulnerabilities
+2025-03-26 12:01:52,061 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:01:52,067 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:01:52,188 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:01:52,190 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-03-26 12:01:52,198 - INFO - Formatting affected resources table for 2 resources
+2025-03-26 12:01:52,207 - INFO - Successfully formatted affected resources
+2025-03-26 12:01:52,217 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-03-26 12:01:52,316 - INFO - Generated document saved as output_document.docx
+2025-03-26 12:01:52,317 - INFO - Starting document merge process
+2025-03-26 12:01:52,645 - INFO - Merged document saved successfully as 'vulnerability_report.docx'
+2025-03-26 12:01:52,646 - INFO - Final document created at vulnerability_report.docx
+2025-03-26 12:01:52,649 - INFO - Document creation process completed successfully
+2025-03-26 12:01:52,651 - INFO - Document generated successfully
+2025-03-26 12:01:52,695 - INFO - 127.0.0.1 - - [26/Mar/2025 12:01:52] "POST / HTTP/1.1" 200 -
+2025-03-26 12:21:32,752 - INFO -  * Detected change in 'E:\\Report Automation Project\\script5.py', reloading

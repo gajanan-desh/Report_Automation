@@ -1,0 +1,33 @@
+2025-03-27 16:08:33,639 - INFO - Starting web application
+2025-03-27 16:08:35,209 - WARNING -  * Debugger is active!
+2025-03-27 16:08:36,830 - INFO -  * Debugger PIN: 134-252-201
+2025-03-27 16:08:41,507 - INFO - 127.0.0.1 - - [27/Mar/2025 16:08:41] "GET / HTTP/1.1" 200 -
+2025-03-27 16:10:06,829 - INFO - File uploaded: dataset.csv
+2025-03-27 16:10:07,624 - INFO - Validating CSV columns
+2025-03-27 16:10:07,627 - INFO - All required columns found in CSV
+2025-03-27 16:10:07,635 - INFO - Starting document creation process
+2025-03-27 16:10:07,904 - INFO - Created new document
+2025-03-27 16:10:07,907 - INFO - Setting document font to Helvetica, size 10.5
+2025-03-27 16:10:07,953 - INFO - Document font set successfully
+2025-03-27 16:10:08,099 - INFO - Added document title
+2025-03-27 16:10:08,108 - INFO - Using CSV file: dataset.csv
+2025-03-27 16:10:08,111 - INFO - Successfully opened CSV file
+2025-03-27 16:10:08,111 - INFO - CSV header read successfully with 13 columns
+2025-03-27 16:10:08,112 - INFO - Validating CSV columns
+2025-03-27 16:10:08,115 - INFO - All required columns found in CSV
+2025-03-27 16:10:08,118 - INFO - Processing row 1
+2025-03-27 16:10:08,119 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-27 16:10:08,122 - INFO - Processing row 2
+2025-03-27 16:10:08,123 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-27 16:10:08,128 - INFO - Found 1 unique vulnerabilities
+2025-03-27 16:10:08,129 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-27 16:10:08,130 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-27 16:10:08,311 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-27 16:10:08,312 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-03-27 16:10:08,317 - INFO - Formatting affected resources table for 2 resources
+2025-03-27 16:10:08,321 - INFO - Successfully formatted affected resources
+2025-03-27 16:10:08,351 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-03-27 16:10:08,406 - INFO - Document saved successfully as 'output_document.docx'
+2025-03-27 16:10:08,407 - INFO - Document creation process completed successfully
+2025-03-27 16:10:08,408 - INFO - Document generated successfully
+2025-03-27 16:10:08,477 - INFO - 127.0.0.1 - - [27/Mar/2025 16:10:08] "POST / HTTP/1.1" 200 -

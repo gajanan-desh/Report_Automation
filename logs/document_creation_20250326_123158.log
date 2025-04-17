@@ -1,0 +1,79 @@
+2025-03-26 12:31:58,488 - INFO - Starting web application
+2025-03-26 12:31:58,624 - WARNING -  * Debugger is active!
+2025-03-26 12:31:58,674 - INFO -  * Debugger PIN: 134-252-201
+2025-03-26 12:32:00,480 - INFO - File uploaded: dataset.csv
+2025-03-26 12:32:00,483 - INFO - Validating CSV columns
+2025-03-26 12:32:00,484 - INFO - All required columns found in CSV
+2025-03-26 12:32:00,606 - INFO - Copied Start.docx to temporary directory
+2025-03-26 12:32:00,703 - INFO - Copied End.docx to temporary directory
+2025-03-26 12:32:00,705 - INFO - Starting document creation process
+2025-03-26 12:32:00,747 - INFO - Created new document
+2025-03-26 12:32:00,748 - INFO - Setting document font to Helvetica, size 10.5
+2025-03-26 12:32:00,758 - INFO - Document font set successfully
+2025-03-26 12:32:00,763 - INFO - Added document title
+2025-03-26 12:32:00,763 - INFO - Using CSV file: dataset.csv
+2025-03-26 12:32:00,764 - INFO - Successfully opened CSV file
+2025-03-26 12:32:00,764 - INFO - CSV header read successfully with 13 columns
+2025-03-26 12:32:00,765 - INFO - Validating CSV columns
+2025-03-26 12:32:00,765 - INFO - All required columns found in CSV
+2025-03-26 12:32:00,766 - INFO - Processing row 1
+2025-03-26 12:32:00,768 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:00,769 - INFO - Processing row 2
+2025-03-26 12:32:00,770 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:00,770 - INFO - Found 1 unique vulnerabilities
+2025-03-26 12:32:00,771 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:00,771 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:00,838 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:00,838 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-03-26 12:32:00,842 - INFO - Formatting affected resources table for 2 resources
+2025-03-26 12:32:00,843 - INFO - Successfully formatted affected resources
+2025-03-26 12:32:00,849 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-03-26 12:32:00,886 - INFO - Generated document saved as output_document.docx
+2025-03-26 12:32:00,887 - INFO - Starting document merge process
+2025-03-26 12:32:00,890 - INFO - Copied main document to: vulnerability_report.docx
+2025-03-26 12:32:01,314 - INFO - Inserting content from: Start.docx
+2025-03-26 12:32:01,437 - INFO - Appending content from: End.docx
+2025-03-26 12:32:01,544 - INFO - Merged document saved successfully as 'vulnerability_report.docx'
+2025-03-26 12:32:01,545 - INFO - Final document created at vulnerability_report.docx
+2025-03-26 12:32:01,546 - INFO - Document creation process completed successfully
+2025-03-26 12:32:01,546 - INFO - Document generated successfully
+2025-03-26 12:32:01,571 - INFO - 127.0.0.1 - - [26/Mar/2025 12:32:01] "POST / HTTP/1.1" 200 -
+2025-03-26 12:32:45,369 - INFO - 127.0.0.1 - - [26/Mar/2025 12:32:45] "GET / HTTP/1.1" 200 -
+2025-03-26 12:32:53,415 - INFO - File uploaded: dataset.csv
+2025-03-26 12:32:53,422 - INFO - Validating CSV columns
+2025-03-26 12:32:53,422 - INFO - All required columns found in CSV
+2025-03-26 12:32:53,589 - INFO - Copied Start.docx to temporary directory
+2025-03-26 12:32:53,606 - INFO - Copied End.docx to temporary directory
+2025-03-26 12:32:53,608 - INFO - Starting document creation process
+2025-03-26 12:32:53,667 - INFO - Created new document
+2025-03-26 12:32:53,668 - INFO - Setting document font to Helvetica, size 10.5
+2025-03-26 12:32:53,681 - INFO - Document font set successfully
+2025-03-26 12:32:53,686 - INFO - Added document title
+2025-03-26 12:32:53,687 - INFO - Using CSV file: dataset.csv
+2025-03-26 12:32:53,689 - INFO - Successfully opened CSV file
+2025-03-26 12:32:53,689 - INFO - CSV header read successfully with 13 columns
+2025-03-26 12:32:53,690 - INFO - Validating CSV columns
+2025-03-26 12:32:53,690 - INFO - All required columns found in CSV
+2025-03-26 12:32:53,695 - INFO - Processing row 1
+2025-03-26 12:32:53,696 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:53,696 - INFO - Processing row 2
+2025-03-26 12:32:53,697 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:53,698 - INFO - Found 1 unique vulnerabilities
+2025-03-26 12:32:53,698 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:53,699 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:53,778 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 12:32:53,779 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-03-26 12:32:53,782 - INFO - Formatting affected resources table for 2 resources
+2025-03-26 12:32:53,785 - INFO - Successfully formatted affected resources
+2025-03-26 12:32:53,791 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-03-26 12:32:53,827 - INFO - Generated document saved as output_document.docx
+2025-03-26 12:32:53,848 - INFO - Starting document merge process
+2025-03-26 12:32:53,851 - INFO - Copied main document to: vulnerability_report.docx
+2025-03-26 12:32:53,925 - INFO - Inserting content from: Start.docx
+2025-03-26 12:32:54,142 - INFO - Appending content from: End.docx
+2025-03-26 12:32:54,258 - INFO - Merged document saved successfully as 'vulnerability_report.docx'
+2025-03-26 12:32:54,259 - INFO - Final document created at vulnerability_report.docx
+2025-03-26 12:32:54,259 - INFO - Document creation process completed successfully
+2025-03-26 12:32:54,260 - INFO - Document generated successfully
+2025-03-26 12:32:54,283 - INFO - 127.0.0.1 - - [26/Mar/2025 12:32:54] "POST / HTTP/1.1" 200 -
+2025-03-26 12:36:04,360 - INFO -  * Detected change in 'E:\\Report Automation Project\\script5.py', reloading

@@ -1,0 +1,1955 @@
+2025-04-09 15:25:59,135 - INFO - Starting web application
+2025-04-09 15:25:59,504 - WARNING -  * Debugger is active!
+2025-04-09 15:25:59,526 - INFO -  * Debugger PIN: 962-905-612
+2025-04-09 15:26:00,243 - INFO - 127.0.0.1 - - [09/Apr/2025 15:26:00] "GET / HTTP/1.1" 200 -
+2025-04-09 15:26:20,836 - INFO - Processing report for Switch, External Network
+2025-04-09 15:26:20,873 - INFO - File uploaded: Switch_Scan_0mweb5.csv
+2025-04-09 15:26:20,957 - INFO - Validating CSV columns
+2025-04-09 15:26:21,044 - INFO - All required columns found in CSV
+2025-04-09 15:26:23,567 - INFO - Cover page generated successfully
+2025-04-09 15:26:23,592 - INFO - Starting document creation process
+2025-04-09 15:26:23,744 - INFO - Created new document
+2025-04-09 15:26:23,788 - INFO - Setting document font to Helvetica, size 10.5
+2025-04-09 15:26:23,808 - INFO - Document font set successfully
+2025-04-09 15:26:23,813 - INFO - Using CSV file: dataset.csv
+2025-04-09 15:26:23,874 - INFO - Successfully opened CSV file
+2025-04-09 15:26:23,941 - INFO - CSV header read successfully with 8 columns
+2025-04-09 15:26:23,959 - INFO - Validating CSV columns
+2025-04-09 15:26:24,003 - INFO - All required columns found in CSV
+2025-04-09 15:26:24,019 - INFO - Processing row 1
+2025-04-09 15:26:24,070 - INFO - Successfully processed vulnerability: Cisco IOS Software Secure Shell DoS (cisco-sa-ssh-dos-Un22sd2A)
+2025-04-09 15:26:24,128 - INFO - Processing row 2
+2025-04-09 15:26:24,135 - INFO - Successfully processed vulnerability: Cisco IOS Software SSH DoS (cisco-sa-ssh-excpt-dos-FzOBQTnk)
+2025-04-09 15:26:24,140 - INFO - Processing row 3
+2025-04-09 15:26:24,141 - INFO - Successfully processed vulnerability: Cisco IOS XE Software SSH DoS (cisco-sa-ssh-excpt-dos-FzOBQTnk)
+2025-04-09 15:26:24,148 - INFO - Processing row 4
+2025-04-09 15:26:24,150 - INFO - Successfully processed vulnerability: SSL Certificate Signed Using Weak Hashing Algorithm
+2025-04-09 15:26:24,152 - INFO - Processing row 5
+2025-04-09 15:26:24,153 - INFO - Successfully processed vulnerability: SSL Certificate Signed Using Weak Hashing Algorithm
+2025-04-09 15:26:24,153 - INFO - Processing row 6
+2025-04-09 15:26:24,154 - INFO - Successfully processed vulnerability: SSL Certificate Signed Using Weak Hashing Algorithm
+2025-04-09 15:26:24,154 - INFO - Processing row 7
+2025-04-09 15:26:24,155 - INFO - Successfully processed vulnerability: SSL Certificate Signed Using Weak Hashing Algorithm
+2025-04-09 15:26:24,155 - INFO - Processing row 8
+2025-04-09 15:26:24,156 - INFO - Successfully processed vulnerability: Cisco IOS HTTP Client Information Disclosure Vulnerability (cisco-sa-20190925-http-client)
+2025-04-09 15:26:24,157 - INFO - Processing row 9
+2025-04-09 15:26:24,205 - INFO - Successfully processed vulnerability: Cisco IOS and IOS XE Software Tcl Arbitrary Code Execution (cisco-sa-tcl-ace-C9KuVKmm)
+2025-04-09 15:26:24,256 - INFO - Processing row 10
+2025-04-09 15:26:24,291 - INFO - Successfully processed vulnerability: Cisco NX-OS Software Link Layer Discovery Protocol DoS (cisco-sa-nxos-lldp-dos-z7PncTgt)
+2025-04-09 15:26:24,335 - INFO - Processing row 11
+2025-04-09 15:26:24,387 - INFO - Successfully processed vulnerability: Cisco NX-OS Software TACACS+ or RADIUS Remote Authentication Directed Request DoS (cisco-sa-nxos-remoteauth-dos-XB6pv74m)
+2025-04-09 15:26:24,391 - INFO - Processing row 12
+2025-04-09 15:26:24,402 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-09 15:26:24,420 - INFO - Processing row 13
+2025-04-09 15:26:24,425 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-09 15:26:24,475 - INFO - Processing row 14
+2025-04-09 15:26:24,523 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-09 15:26:24,548 - INFO - Processing row 15
+2025-04-09 15:26:24,587 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-09 15:26:24,622 - INFO - Processing row 16
+2025-04-09 15:26:24,655 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-09 15:26:24,684 - INFO - Processing row 17
+2025-04-09 15:26:24,717 - INFO - Successfully processed vulnerability: Cisco IOS Zone-Based Firewall Feature Security Bypass (CSCun94946)
+2025-04-09 15:26:24,722 - INFO - Processing row 18
+2025-04-09 15:26:24,763 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-09 15:26:24,803 - INFO - Processing row 19
+2025-04-09 15:26:24,823 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-09 15:26:24,842 - INFO - Processing row 20
+2025-04-09 15:26:24,860 - INFO - Successfully processed vulnerability: Cisco IOS Zone-Based Firewall Feature Security Bypass (CSCun94946)
+2025-04-09 15:26:24,873 - INFO - Processing row 21
+2025-04-09 15:26:24,908 - INFO - Successfully processed vulnerability: Cisco IOS Zone-Based Firewall Feature Security Bypass (CSCun94946)
+2025-04-09 15:26:24,935 - INFO - Processing row 22
+2025-04-09 15:26:24,959 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-09 15:26:24,975 - INFO - Processing row 23
+2025-04-09 15:26:25,055 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-09 15:26:25,131 - INFO - Processing row 24
+2025-04-09 15:26:25,176 - INFO - Successfully processed vulnerability: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:26:25,233 - INFO - Processing row 25
+2025-04-09 15:26:25,261 - INFO - Successfully processed vulnerability: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:26:25,298 - INFO - Processing row 26
+2025-04-09 15:26:25,308 - INFO - Successfully processed vulnerability: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:26:25,325 - INFO - Processing row 27
+2025-04-09 15:26:25,344 - INFO - Successfully processed vulnerability: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:26:25,370 - INFO - Processing row 28
+2025-04-09 15:26:25,406 - INFO - Successfully processed vulnerability: Cisco IOS Software ARP Resource Management Exhaustion Denial of Service (cisco-sa-arp-mtfhBfjE)
+2025-04-09 15:26:25,428 - INFO - Processing row 29
+2025-04-09 15:26:25,442 - INFO - Successfully processed vulnerability: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:26:25,524 - INFO - Processing row 30
+2025-04-09 15:26:25,576 - INFO - Successfully processed vulnerability: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:26:25,709 - INFO - Processing row 31
+2025-04-09 15:26:25,803 - INFO - Successfully processed vulnerability: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:26:25,911 - INFO - Processing row 32
+2025-04-09 15:26:25,961 - INFO - Successfully processed vulnerability: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:26:25,974 - INFO - Processing row 33
+2025-04-09 15:26:25,994 - INFO - Successfully processed vulnerability: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:26:26,041 - INFO - Processing row 34
+2025-04-09 15:26:26,072 - INFO - Successfully processed vulnerability: Cisco IOS Software Information Disclosure (cisco-sa-info-disclosure-V4BmJBNF)
+2025-04-09 15:26:26,090 - INFO - Processing row 35
+2025-04-09 15:26:26,118 - INFO - Successfully processed vulnerability: SSL Certificate Expiry
+2025-04-09 15:26:26,143 - INFO - Processing row 36
+2025-04-09 15:26:26,159 - INFO - Successfully processed vulnerability: SSL Certificate Expiry
+2025-04-09 15:26:26,199 - INFO - Processing row 37
+2025-04-09 15:26:26,222 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,274 - INFO - Processing row 38
+2025-04-09 15:26:26,306 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,326 - INFO - Processing row 39
+2025-04-09 15:26:26,341 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,386 - INFO - Processing row 40
+2025-04-09 15:26:26,407 - INFO - Successfully processed vulnerability: SSL/TLS Diffie-Hellman Modulus <= 1024 Bits (Logjam)
+2025-04-09 15:26:26,425 - INFO - Processing row 41
+2025-04-09 15:26:26,440 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,456 - INFO - Processing row 42
+2025-04-09 15:26:26,473 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,504 - INFO - Processing row 43
+2025-04-09 15:26:26,540 - INFO - Successfully processed vulnerability: SSH Server CBC Mode Ciphers Enabled
+2025-04-09 15:26:26,560 - INFO - Processing row 44
+2025-04-09 15:26:26,615 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,628 - INFO - Processing row 45
+2025-04-09 15:26:26,643 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,673 - INFO - Processing row 46
+2025-04-09 15:26:26,690 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,706 - INFO - Processing row 47
+2025-04-09 15:26:26,718 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,738 - INFO - Processing row 48
+2025-04-09 15:26:26,793 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,804 - INFO - Processing row 49
+2025-04-09 15:26:26,858 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,891 - INFO - Processing row 50
+2025-04-09 15:26:26,894 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,895 - INFO - Processing row 51
+2025-04-09 15:26:26,903 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,904 - INFO - Processing row 52
+2025-04-09 15:26:26,907 - INFO - Successfully processed vulnerability: SSH Server CBC Mode Ciphers Enabled
+2025-04-09 15:26:26,909 - INFO - Processing row 53
+2025-04-09 15:26:26,916 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:26,975 - INFO - Processing row 54
+2025-04-09 15:26:27,006 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:27,059 - INFO - Processing row 55
+2025-04-09 15:26:27,101 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:27,141 - INFO - Processing row 56
+2025-04-09 15:26:27,160 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:26:27,170 - INFO - Processing row 57
+2025-04-09 15:26:27,195 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,238 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,273 - INFO - Processing row 58
+2025-04-09 15:26:27,294 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,342 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,369 - INFO - Processing row 59
+2025-04-09 15:26:27,392 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,407 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,422 - INFO - Processing row 60
+2025-04-09 15:26:27,445 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,461 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,475 - INFO - Processing row 61
+2025-04-09 15:26:27,492 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,554 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,561 - INFO - Processing row 62
+2025-04-09 15:26:27,571 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,585 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,591 - INFO - Processing row 63
+2025-04-09 15:26:27,622 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,642 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,653 - INFO - Processing row 64
+2025-04-09 15:26:27,707 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,726 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,740 - INFO - Processing row 65
+2025-04-09 15:26:27,760 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,761 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,793 - INFO - Processing row 66
+2025-04-09 15:26:27,824 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,875 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,884 - INFO - Processing row 67
+2025-04-09 15:26:27,909 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:27,938 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:27,976 - INFO - Processing row 68
+2025-04-09 15:26:28,004 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,011 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,044 - INFO - Processing row 69
+2025-04-09 15:26:28,089 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,108 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,110 - INFO - Processing row 70
+2025-04-09 15:26:28,123 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,139 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,141 - INFO - Processing row 71
+2025-04-09 15:26:28,149 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,155 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,158 - INFO - Processing row 72
+2025-04-09 15:26:28,171 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,175 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,219 - INFO - Processing row 73
+2025-04-09 15:26:28,223 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,226 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,240 - INFO - Processing row 74
+2025-04-09 15:26:28,271 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,302 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,321 - INFO - Processing row 75
+2025-04-09 15:26:28,354 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,357 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,388 - INFO - Processing row 76
+2025-04-09 15:26:28,410 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,472 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,492 - INFO - Processing row 77
+2025-04-09 15:26:28,524 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,553 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,573 - INFO - Processing row 78
+2025-04-09 15:26:28,590 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,617 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,624 - INFO - Processing row 79
+2025-04-09 15:26:28,662 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,689 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,737 - INFO - Processing row 80
+2025-04-09 15:26:28,792 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,823 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,857 - INFO - Processing row 81
+2025-04-09 15:26:28,886 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,893 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,905 - INFO - Processing row 82
+2025-04-09 15:26:28,928 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:28,970 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:28,999 - INFO - Processing row 83
+2025-04-09 15:26:29,037 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,055 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,076 - INFO - Processing row 84
+2025-04-09 15:26:29,138 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,140 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,184 - INFO - Processing row 85
+2025-04-09 15:26:29,204 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,236 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,256 - INFO - Processing row 86
+2025-04-09 15:26:29,283 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,318 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,337 - INFO - Processing row 87
+2025-04-09 15:26:29,358 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,400 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,423 - INFO - Processing row 88
+2025-04-09 15:26:29,442 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,458 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,504 - INFO - Processing row 89
+2025-04-09 15:26:29,538 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,561 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,592 - INFO - Processing row 90
+2025-04-09 15:26:29,611 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,648 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,703 - INFO - Processing row 91
+2025-04-09 15:26:29,713 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,742 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,772 - INFO - Processing row 92
+2025-04-09 15:26:29,793 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,837 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,842 - INFO - Processing row 93
+2025-04-09 15:26:29,871 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,887 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:29,920 - INFO - Processing row 94
+2025-04-09 15:26:29,945 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:29,972 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,020 - INFO - Processing row 95
+2025-04-09 15:26:30,025 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,058 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,085 - INFO - Processing row 96
+2025-04-09 15:26:30,094 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,141 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,174 - INFO - Processing row 97
+2025-04-09 15:26:30,194 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,211 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,245 - INFO - Processing row 98
+2025-04-09 15:26:30,288 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,292 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,304 - INFO - Processing row 99
+2025-04-09 15:26:30,395 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,423 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,461 - INFO - Processing row 100
+2025-04-09 15:26:30,522 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,557 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,561 - INFO - Processing row 101
+2025-04-09 15:26:30,572 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,608 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,652 - INFO - Processing row 102
+2025-04-09 15:26:30,674 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,686 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,687 - INFO - Processing row 103
+2025-04-09 15:26:30,727 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,773 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,791 - INFO - Processing row 104
+2025-04-09 15:26:30,828 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,854 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,889 - INFO - Processing row 105
+2025-04-09 15:26:30,905 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,907 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:30,944 - INFO - Processing row 106
+2025-04-09 15:26:30,976 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:30,985 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,004 - INFO - Processing row 107
+2025-04-09 15:26:31,041 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,058 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,090 - INFO - Processing row 108
+2025-04-09 15:26:31,112 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,145 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,166 - INFO - Processing row 109
+2025-04-09 15:26:31,204 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,209 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,243 - INFO - Processing row 110
+2025-04-09 15:26:31,278 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,292 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,309 - INFO - Processing row 111
+2025-04-09 15:26:31,373 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,387 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,408 - INFO - Processing row 112
+2025-04-09 15:26:31,477 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,541 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,573 - INFO - Processing row 113
+2025-04-09 15:26:31,589 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,635 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,669 - INFO - Processing row 114
+2025-04-09 15:26:31,694 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,745 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,758 - INFO - Processing row 115
+2025-04-09 15:26:31,776 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,804 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,828 - INFO - Processing row 116
+2025-04-09 15:26:31,841 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:31,889 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:31,938 - INFO - Processing row 117
+2025-04-09 15:26:31,975 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:32,027 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:32,061 - INFO - Processing row 118
+2025-04-09 15:26:32,135 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:32,139 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:32,220 - INFO - Processing row 119
+2025-04-09 15:26:32,258 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:32,288 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:32,309 - INFO - Processing row 120
+2025-04-09 15:26:32,391 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:32,422 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:32,458 - INFO - Processing row 121
+2025-04-09 15:26:32,508 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:32,525 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:32,550 - INFO - Processing row 122
+2025-04-09 15:26:32,605 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:32,643 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:32,707 - INFO - Processing row 123
+2025-04-09 15:26:32,737 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:32,789 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:32,819 - INFO - Processing row 124
+2025-04-09 15:26:32,826 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:32,891 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:32,922 - INFO - Processing row 125
+2025-04-09 15:26:32,938 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:32,992 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,024 - INFO - Processing row 126
+2025-04-09 15:26:33,075 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,102 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,126 - INFO - Processing row 127
+2025-04-09 15:26:33,189 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,233 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,255 - INFO - Processing row 128
+2025-04-09 15:26:33,289 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,337 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,344 - INFO - Processing row 129
+2025-04-09 15:26:33,371 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,374 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,409 - INFO - Processing row 130
+2025-04-09 15:26:33,450 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,477 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,506 - INFO - Processing row 131
+2025-04-09 15:26:33,524 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,544 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,556 - INFO - Processing row 132
+2025-04-09 15:26:33,636 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,662 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,707 - INFO - Processing row 133
+2025-04-09 15:26:33,725 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,752 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,778 - INFO - Processing row 134
+2025-04-09 15:26:33,807 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,859 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,892 - INFO - Processing row 135
+2025-04-09 15:26:33,924 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:33,954 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:33,984 - INFO - Processing row 136
+2025-04-09 15:26:34,038 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:34,092 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:34,126 - INFO - Processing row 137
+2025-04-09 15:26:34,170 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:34,200 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:34,237 - INFO - Processing row 138
+2025-04-09 15:26:34,243 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:34,276 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:34,309 - INFO - Processing row 139
+2025-04-09 15:26:34,322 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:34,339 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:34,376 - INFO - Processing row 140
+2025-04-09 15:26:34,436 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:34,450 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:34,477 - INFO - Processing row 141
+2025-04-09 15:26:34,503 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:34,509 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:34,552 - INFO - Processing row 142
+2025-04-09 15:26:34,570 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:34,618 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:34,643 - INFO - Processing row 143
+2025-04-09 15:26:34,671 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:34,685 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:34,709 - INFO - Processing row 144
+2025-04-09 15:26:34,727 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:34,761 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:34,821 - INFO - Processing row 145
+2025-04-09 15:26:34,930 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,040 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,142 - INFO - Processing row 146
+2025-04-09 15:26:35,178 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,206 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,251 - INFO - Processing row 147
+2025-04-09 15:26:35,271 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,324 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,331 - INFO - Processing row 148
+2025-04-09 15:26:35,373 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,394 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,424 - INFO - Processing row 149
+2025-04-09 15:26:35,441 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,488 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,494 - INFO - Processing row 150
+2025-04-09 15:26:35,509 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,529 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,586 - INFO - Processing row 151
+2025-04-09 15:26:35,593 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,594 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,595 - INFO - Processing row 152
+2025-04-09 15:26:35,595 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,606 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,612 - INFO - Processing row 153
+2025-04-09 15:26:35,612 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,624 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,625 - INFO - Processing row 154
+2025-04-09 15:26:35,627 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,660 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,674 - INFO - Processing row 155
+2025-04-09 15:26:35,720 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,760 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,807 - INFO - Processing row 156
+2025-04-09 15:26:35,821 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,862 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,884 - INFO - Processing row 157
+2025-04-09 15:26:35,905 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,924 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:35,943 - INFO - Processing row 158
+2025-04-09 15:26:35,963 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:35,995 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,025 - INFO - Processing row 159
+2025-04-09 15:26:36,027 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:36,076 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,124 - INFO - Processing row 160
+2025-04-09 15:26:36,160 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:36,242 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,312 - INFO - Processing row 161
+2025-04-09 15:26:36,374 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:36,406 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,428 - INFO - Processing row 162
+2025-04-09 15:26:36,445 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:36,478 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,511 - INFO - Processing row 163
+2025-04-09 15:26:36,560 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:36,576 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,606 - INFO - Processing row 164
+2025-04-09 15:26:36,638 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:36,678 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,717 - INFO - Processing row 165
+2025-04-09 15:26:36,741 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:36,770 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,803 - INFO - Processing row 166
+2025-04-09 15:26:36,825 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:36,852 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,874 - INFO - Processing row 167
+2025-04-09 15:26:36,906 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:36,945 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:36,970 - INFO - Processing row 168
+2025-04-09 15:26:37,026 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,085 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,133 - INFO - Processing row 169
+2025-04-09 15:26:37,207 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,227 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,273 - INFO - Processing row 170
+2025-04-09 15:26:37,287 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,309 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,333 - INFO - Processing row 171
+2025-04-09 15:26:37,340 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,375 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,391 - INFO - Processing row 172
+2025-04-09 15:26:37,426 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,501 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,525 - INFO - Processing row 173
+2025-04-09 15:26:37,559 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,576 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,590 - INFO - Processing row 174
+2025-04-09 15:26:37,622 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,635 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,673 - INFO - Processing row 175
+2025-04-09 15:26:37,703 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,731 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,739 - INFO - Processing row 176
+2025-04-09 15:26:37,776 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,808 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,838 - INFO - Processing row 177
+2025-04-09 15:26:37,869 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,909 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:37,912 - INFO - Processing row 178
+2025-04-09 15:26:37,952 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:37,974 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,018 - INFO - Processing row 179
+2025-04-09 15:26:38,041 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,075 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,106 - INFO - Processing row 180
+2025-04-09 15:26:38,155 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,188 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,209 - INFO - Processing row 181
+2025-04-09 15:26:38,243 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,274 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,293 - INFO - Processing row 182
+2025-04-09 15:26:38,329 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,340 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,356 - INFO - Processing row 183
+2025-04-09 15:26:38,377 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,394 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,421 - INFO - Processing row 184
+2025-04-09 15:26:38,428 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,458 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,488 - INFO - Processing row 185
+2025-04-09 15:26:38,510 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,554 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,561 - INFO - Processing row 186
+2025-04-09 15:26:38,657 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,702 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,726 - INFO - Processing row 187
+2025-04-09 15:26:38,770 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,773 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,788 - INFO - Processing row 188
+2025-04-09 15:26:38,812 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,835 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,859 - INFO - Processing row 189
+2025-04-09 15:26:38,872 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,879 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,895 - INFO - Processing row 190
+2025-04-09 15:26:38,910 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:38,922 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:38,967 - INFO - Processing row 191
+2025-04-09 15:26:38,974 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,008 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,035 - INFO - Processing row 192
+2025-04-09 15:26:39,070 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,088 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,120 - INFO - Processing row 193
+2025-04-09 15:26:39,144 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,161 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,176 - INFO - Processing row 194
+2025-04-09 15:26:39,217 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,239 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,241 - INFO - Processing row 195
+2025-04-09 15:26:39,279 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,293 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,308 - INFO - Processing row 196
+2025-04-09 15:26:39,338 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,344 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,359 - INFO - Processing row 197
+2025-04-09 15:26:39,390 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,408 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,428 - INFO - Processing row 198
+2025-04-09 15:26:39,457 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,469 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,508 - INFO - Processing row 199
+2025-04-09 15:26:39,524 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,542 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,561 - INFO - Processing row 200
+2025-04-09 15:26:39,579 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,625 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,633 - INFO - Processing row 201
+2025-04-09 15:26:39,654 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,708 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,739 - INFO - Processing row 202
+2025-04-09 15:26:39,742 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,755 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,772 - INFO - Processing row 203
+2025-04-09 15:26:39,791 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,804 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,855 - INFO - Processing row 204
+2025-04-09 15:26:39,859 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,889 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,919 - INFO - Processing row 205
+2025-04-09 15:26:39,925 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:39,953 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:39,977 - INFO - Processing row 206
+2025-04-09 15:26:40,005 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,061 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,088 - INFO - Processing row 207
+2025-04-09 15:26:40,122 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,146 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,170 - INFO - Processing row 208
+2025-04-09 15:26:40,186 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,194 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,224 - INFO - Processing row 209
+2025-04-09 15:26:40,262 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,274 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,310 - INFO - Processing row 210
+2025-04-09 15:26:40,339 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,356 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,376 - INFO - Processing row 211
+2025-04-09 15:26:40,411 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,444 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,457 - INFO - Processing row 212
+2025-04-09 15:26:40,505 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,529 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,554 - INFO - Processing row 213
+2025-04-09 15:26:40,572 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,573 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,606 - INFO - Processing row 214
+2025-04-09 15:26:40,639 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,660 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,676 - INFO - Processing row 215
+2025-04-09 15:26:40,694 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,712 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,757 - INFO - Processing row 216
+2025-04-09 15:26:40,795 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,826 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,861 - INFO - Processing row 217
+2025-04-09 15:26:40,877 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,908 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,936 - INFO - Processing row 218
+2025-04-09 15:26:40,952 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:40,988 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:40,999 - INFO - Processing row 219
+2025-04-09 15:26:41,054 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,058 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,093 - INFO - Processing row 220
+2025-04-09 15:26:41,128 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,160 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,172 - INFO - Processing row 221
+2025-04-09 15:26:41,207 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,229 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,288 - INFO - Processing row 222
+2025-04-09 15:26:41,311 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,369 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,434 - INFO - Processing row 223
+2025-04-09 15:26:41,470 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,490 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,519 - INFO - Processing row 224
+2025-04-09 15:26:41,617 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,661 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,672 - INFO - Processing row 225
+2025-04-09 15:26:41,676 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,717 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,761 - INFO - Processing row 226
+2025-04-09 15:26:41,777 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,794 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,825 - INFO - Processing row 227
+2025-04-09 15:26:41,827 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,870 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,910 - INFO - Processing row 228
+2025-04-09 15:26:41,934 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:41,984 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:41,989 - INFO - Processing row 229
+2025-04-09 15:26:42,048 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:42,093 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:42,121 - INFO - Processing row 230
+2025-04-09 15:26:42,173 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:42,241 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:42,277 - INFO - Processing row 231
+2025-04-09 15:26:42,323 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:42,377 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:42,424 - INFO - Processing row 232
+2025-04-09 15:26:42,475 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:42,510 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:42,546 - INFO - Processing row 233
+2025-04-09 15:26:42,577 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:42,602 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:42,610 - INFO - Processing row 234
+2025-04-09 15:26:42,629 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:42,675 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:42,711 - INFO - Processing row 235
+2025-04-09 15:26:42,727 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:42,758 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:42,789 - INFO - Processing row 236
+2025-04-09 15:26:42,844 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:42,862 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:42,875 - INFO - Processing row 237
+2025-04-09 15:26:42,916 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:42,959 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:42,995 - INFO - Processing row 238
+2025-04-09 15:26:43,042 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,058 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,090 - INFO - Processing row 239
+2025-04-09 15:26:43,125 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,169 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,176 - INFO - Processing row 240
+2025-04-09 15:26:43,190 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,241 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,271 - INFO - Processing row 241
+2025-04-09 15:26:43,276 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,290 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,339 - INFO - Processing row 242
+2025-04-09 15:26:43,385 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,455 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,506 - INFO - Processing row 243
+2025-04-09 15:26:43,540 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,562 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,594 - INFO - Processing row 244
+2025-04-09 15:26:43,620 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,662 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,711 - INFO - Processing row 245
+2025-04-09 15:26:43,739 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,791 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,806 - INFO - Processing row 246
+2025-04-09 15:26:43,836 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,860 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,875 - INFO - Processing row 247
+2025-04-09 15:26:43,901 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,909 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,945 - INFO - Processing row 248
+2025-04-09 15:26:43,957 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:43,986 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:43,994 - INFO - Processing row 249
+2025-04-09 15:26:44,025 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:44,054 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:44,078 - INFO - Processing row 250
+2025-04-09 15:26:44,108 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:44,161 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:44,189 - INFO - Processing row 251
+2025-04-09 15:26:44,208 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:44,224 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:44,268 - INFO - Processing row 252
+2025-04-09 15:26:44,292 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:44,304 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:44,307 - INFO - Processing row 253
+2025-04-09 15:26:44,308 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:44,323 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:44,327 - INFO - Processing row 254
+2025-04-09 15:26:44,344 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:44,640 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:44,907 - INFO - Processing row 255
+2025-04-09 15:26:44,908 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,108 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,267 - INFO - Processing row 256
+2025-04-09 15:26:45,268 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,268 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,268 - INFO - Processing row 257
+2025-04-09 15:26:45,269 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,269 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,269 - INFO - Processing row 258
+2025-04-09 15:26:45,269 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,270 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,270 - INFO - Processing row 259
+2025-04-09 15:26:45,270 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,270 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,270 - INFO - Processing row 260
+2025-04-09 15:26:45,271 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,271 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,271 - INFO - Processing row 261
+2025-04-09 15:26:45,271 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,271 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,272 - INFO - Processing row 262
+2025-04-09 15:26:45,272 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,272 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,272 - INFO - Processing row 263
+2025-04-09 15:26:45,273 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,273 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,273 - INFO - Processing row 264
+2025-04-09 15:26:45,273 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,273 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,274 - INFO - Processing row 265
+2025-04-09 15:26:45,274 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,274 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,274 - INFO - Processing row 266
+2025-04-09 15:26:45,274 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,275 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,275 - INFO - Processing row 267
+2025-04-09 15:26:45,275 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,275 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,276 - INFO - Processing row 268
+2025-04-09 15:26:45,276 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,276 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,276 - INFO - Processing row 269
+2025-04-09 15:26:45,276 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,277 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,277 - INFO - Processing row 270
+2025-04-09 15:26:45,277 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,277 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,278 - INFO - Processing row 271
+2025-04-09 15:26:45,278 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,278 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,278 - INFO - Processing row 272
+2025-04-09 15:26:45,279 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,279 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,279 - INFO - Processing row 273
+2025-04-09 15:26:45,279 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,280 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,280 - INFO - Processing row 274
+2025-04-09 15:26:45,283 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,283 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,284 - INFO - Processing row 275
+2025-04-09 15:26:45,284 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,284 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,284 - INFO - Processing row 276
+2025-04-09 15:26:45,285 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,285 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,285 - INFO - Processing row 277
+2025-04-09 15:26:45,286 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,286 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,286 - INFO - Processing row 278
+2025-04-09 15:26:45,286 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,286 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,287 - INFO - Processing row 279
+2025-04-09 15:26:45,287 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,287 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,287 - INFO - Processing row 280
+2025-04-09 15:26:45,288 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,288 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,288 - INFO - Processing row 281
+2025-04-09 15:26:45,289 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,289 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,289 - INFO - Processing row 282
+2025-04-09 15:26:45,289 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,289 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,290 - INFO - Processing row 283
+2025-04-09 15:26:45,290 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,290 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,291 - INFO - Processing row 284
+2025-04-09 15:26:45,291 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,291 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,292 - INFO - Processing row 285
+2025-04-09 15:26:45,292 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,292 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,293 - INFO - Processing row 286
+2025-04-09 15:26:45,293 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,293 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,293 - INFO - Processing row 287
+2025-04-09 15:26:45,294 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,294 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,294 - INFO - Processing row 288
+2025-04-09 15:26:45,294 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,295 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,295 - INFO - Processing row 289
+2025-04-09 15:26:45,295 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,296 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,296 - INFO - Processing row 290
+2025-04-09 15:26:45,296 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,296 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,297 - INFO - Processing row 291
+2025-04-09 15:26:45,299 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,300 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,300 - INFO - Processing row 292
+2025-04-09 15:26:45,300 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,300 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,301 - INFO - Processing row 293
+2025-04-09 15:26:45,301 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,301 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,301 - INFO - Processing row 294
+2025-04-09 15:26:45,301 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,302 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,302 - INFO - Processing row 295
+2025-04-09 15:26:45,302 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,302 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,303 - INFO - Processing row 296
+2025-04-09 15:26:45,303 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,303 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,303 - INFO - Processing row 297
+2025-04-09 15:26:45,304 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,304 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,304 - INFO - Processing row 298
+2025-04-09 15:26:45,304 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,305 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,305 - INFO - Processing row 299
+2025-04-09 15:26:45,305 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,305 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,306 - INFO - Processing row 300
+2025-04-09 15:26:45,306 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,306 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,306 - INFO - Processing row 301
+2025-04-09 15:26:45,307 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,307 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,307 - INFO - Processing row 302
+2025-04-09 15:26:45,307 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,308 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,308 - INFO - Processing row 303
+2025-04-09 15:26:45,308 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,308 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,309 - INFO - Processing row 304
+2025-04-09 15:26:45,309 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,309 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,310 - INFO - Processing row 305
+2025-04-09 15:26:45,310 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,310 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,311 - INFO - Processing row 306
+2025-04-09 15:26:45,311 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,311 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,312 - INFO - Processing row 307
+2025-04-09 15:26:45,356 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,372 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,386 - INFO - Processing row 308
+2025-04-09 15:26:45,443 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,454 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,490 - INFO - Processing row 309
+2025-04-09 15:26:45,503 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,506 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,523 - INFO - Processing row 310
+2025-04-09 15:26:45,546 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,575 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,611 - INFO - Processing row 311
+2025-04-09 15:26:45,624 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,638 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,655 - INFO - Processing row 312
+2025-04-09 15:26:45,672 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,683 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,693 - INFO - Processing row 313
+2025-04-09 15:26:45,741 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,803 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,839 - INFO - Processing row 314
+2025-04-09 15:26:45,841 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,843 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,875 - INFO - Processing row 315
+2025-04-09 15:26:45,892 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,923 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,929 - INFO - Processing row 316
+2025-04-09 15:26:45,938 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,944 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,954 - INFO - Processing row 317
+2025-04-09 15:26:45,958 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:45,972 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:45,975 - INFO - Processing row 318
+2025-04-09 15:26:46,008 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,057 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,091 - INFO - Processing row 319
+2025-04-09 15:26:46,125 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,135 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,146 - INFO - Processing row 320
+2025-04-09 15:26:46,176 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,178 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,210 - INFO - Processing row 321
+2025-04-09 15:26:46,220 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,235 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,257 - INFO - Processing row 322
+2025-04-09 15:26:46,274 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,278 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,302 - INFO - Processing row 323
+2025-04-09 15:26:46,307 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,311 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,329 - INFO - Processing row 324
+2025-04-09 15:26:46,344 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,369 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,373 - INFO - Processing row 325
+2025-04-09 15:26:46,379 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,392 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,410 - INFO - Processing row 326
+2025-04-09 15:26:46,425 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,440 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,491 - INFO - Processing row 327
+2025-04-09 15:26:46,503 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,510 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,513 - INFO - Processing row 328
+2025-04-09 15:26:46,545 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,571 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,594 - INFO - Processing row 329
+2025-04-09 15:26:46,609 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,613 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,642 - INFO - Processing row 330
+2025-04-09 15:26:46,662 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,673 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,704 - INFO - Processing row 331
+2025-04-09 15:26:46,722 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,738 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,762 - INFO - Processing row 332
+2025-04-09 15:26:46,774 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,777 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,779 - INFO - Processing row 333
+2025-04-09 15:26:46,806 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,812 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,823 - INFO - Processing row 334
+2025-04-09 15:26:46,856 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,870 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,872 - INFO - Processing row 335
+2025-04-09 15:26:46,874 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,877 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,892 - INFO - Processing row 336
+2025-04-09 15:26:46,908 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,911 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:46,940 - INFO - Processing row 337
+2025-04-09 15:26:46,958 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:46,989 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,005 - INFO - Processing row 338
+2025-04-09 15:26:47,029 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,074 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,078 - INFO - Processing row 339
+2025-04-09 15:26:47,111 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,123 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,163 - INFO - Processing row 340
+2025-04-09 15:26:47,172 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,187 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,190 - INFO - Processing row 341
+2025-04-09 15:26:47,211 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,219 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,227 - INFO - Processing row 342
+2025-04-09 15:26:47,229 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,243 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,262 - INFO - Processing row 343
+2025-04-09 15:26:47,286 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,308 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,340 - INFO - Processing row 344
+2025-04-09 15:26:47,357 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,393 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,395 - INFO - Processing row 345
+2025-04-09 15:26:47,426 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,470 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,509 - INFO - Processing row 346
+2025-04-09 15:26:47,557 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,562 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,574 - INFO - Processing row 347
+2025-04-09 15:26:47,610 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,639 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,656 - INFO - Processing row 348
+2025-04-09 15:26:47,663 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,692 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,703 - INFO - Processing row 349
+2025-04-09 15:26:47,740 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,757 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,787 - INFO - Processing row 350
+2025-04-09 15:26:47,823 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,838 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,860 - INFO - Processing row 351
+2025-04-09 15:26:47,888 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,923 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:47,939 - INFO - Processing row 352
+2025-04-09 15:26:47,961 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:47,990 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,010 - INFO - Processing row 353
+2025-04-09 15:26:48,041 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,089 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,101 - INFO - Processing row 354
+2025-04-09 15:26:48,128 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,161 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,169 - INFO - Processing row 355
+2025-04-09 15:26:48,203 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,224 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,258 - INFO - Processing row 356
+2025-04-09 15:26:48,276 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,279 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,297 - INFO - Processing row 357
+2025-04-09 15:26:48,312 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,345 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,360 - INFO - Processing row 358
+2025-04-09 15:26:48,387 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,394 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,427 - INFO - Processing row 359
+2025-04-09 15:26:48,442 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,457 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,476 - INFO - Processing row 360
+2025-04-09 15:26:48,496 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,530 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,542 - INFO - Processing row 361
+2025-04-09 15:26:48,568 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,574 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,622 - INFO - Processing row 362
+2025-04-09 15:26:48,636 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,660 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,678 - INFO - Processing row 363
+2025-04-09 15:26:48,709 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,743 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,757 - INFO - Processing row 364
+2025-04-09 15:26:48,789 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,806 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,822 - INFO - Processing row 365
+2025-04-09 15:26:48,830 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,844 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,863 - INFO - Processing row 366
+2025-04-09 15:26:48,904 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,911 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,923 - INFO - Processing row 367
+2025-04-09 15:26:48,958 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:48,976 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:48,993 - INFO - Processing row 368
+2025-04-09 15:26:49,011 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,054 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,062 - INFO - Processing row 369
+2025-04-09 15:26:49,105 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,130 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,156 - INFO - Processing row 370
+2025-04-09 15:26:49,161 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,195 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,209 - INFO - Processing row 371
+2025-04-09 15:26:49,245 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,258 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,267 - INFO - Processing row 372
+2025-04-09 15:26:49,301 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,358 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,376 - INFO - Processing row 373
+2025-04-09 15:26:49,413 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,451 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,495 - INFO - Processing row 374
+2025-04-09 15:26:49,513 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,545 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,588 - INFO - Processing row 375
+2025-04-09 15:26:49,618 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,640 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,644 - INFO - Processing row 376
+2025-04-09 15:26:49,660 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,693 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,713 - INFO - Processing row 377
+2025-04-09 15:26:49,736 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,772 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,793 - INFO - Processing row 378
+2025-04-09 15:26:49,824 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,869 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,894 - INFO - Processing row 379
+2025-04-09 15:26:49,921 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:49,946 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:49,994 - INFO - Processing row 380
+2025-04-09 15:26:50,005 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,030 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,052 - INFO - Processing row 381
+2025-04-09 15:26:50,105 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,145 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,173 - INFO - Processing row 382
+2025-04-09 15:26:50,191 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,226 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,241 - INFO - Processing row 383
+2025-04-09 15:26:50,272 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,297 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,318 - INFO - Processing row 384
+2025-04-09 15:26:50,328 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,352 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,390 - INFO - Processing row 385
+2025-04-09 15:26:50,422 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,455 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,462 - INFO - Processing row 386
+2025-04-09 15:26:50,477 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,496 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,552 - INFO - Processing row 387
+2025-04-09 15:26:50,593 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,608 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,641 - INFO - Processing row 388
+2025-04-09 15:26:50,659 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,689 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,725 - INFO - Processing row 389
+2025-04-09 15:26:50,740 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,756 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,760 - INFO - Processing row 390
+2025-04-09 15:26:50,789 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,795 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,806 - INFO - Processing row 391
+2025-04-09 15:26:50,857 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,904 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,931 - INFO - Processing row 392
+2025-04-09 15:26:50,945 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:50,961 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:50,996 - INFO - Processing row 393
+2025-04-09 15:26:51,008 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,022 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,024 - INFO - Processing row 394
+2025-04-09 15:26:51,030 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,053 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,056 - INFO - Processing row 395
+2025-04-09 15:26:51,070 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,086 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,106 - INFO - Processing row 396
+2025-04-09 15:26:51,113 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,129 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,133 - INFO - Processing row 397
+2025-04-09 15:26:51,141 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,144 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,145 - INFO - Processing row 398
+2025-04-09 15:26:51,146 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,156 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,158 - INFO - Processing row 399
+2025-04-09 15:26:51,158 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,159 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,159 - INFO - Processing row 400
+2025-04-09 15:26:51,160 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,160 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,160 - INFO - Processing row 401
+2025-04-09 15:26:51,161 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,161 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,162 - INFO - Processing row 402
+2025-04-09 15:26:51,162 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,163 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,163 - INFO - Processing row 403
+2025-04-09 15:26:51,163 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,165 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,167 - INFO - Processing row 404
+2025-04-09 15:26:51,168 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,170 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,172 - INFO - Processing row 405
+2025-04-09 15:26:51,173 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,173 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,174 - INFO - Processing row 406
+2025-04-09 15:26:51,175 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,176 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,177 - INFO - Processing row 407
+2025-04-09 15:26:51,178 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,178 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,179 - INFO - Processing row 408
+2025-04-09 15:26:51,179 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,180 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,180 - INFO - Processing row 409
+2025-04-09 15:26:51,184 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,186 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,190 - INFO - Processing row 410
+2025-04-09 15:26:51,191 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,191 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,192 - INFO - Processing row 411
+2025-04-09 15:26:51,192 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,193 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,193 - INFO - Processing row 412
+2025-04-09 15:26:51,194 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,194 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,194 - INFO - Processing row 413
+2025-04-09 15:26:51,194 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,195 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,195 - INFO - Processing row 414
+2025-04-09 15:26:51,195 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,196 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,223 - INFO - Processing row 415
+2025-04-09 15:26:51,259 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,275 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,280 - INFO - Processing row 416
+2025-04-09 15:26:51,307 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,326 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,342 - INFO - Processing row 417
+2025-04-09 15:26:51,393 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,413 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,419 - INFO - Processing row 418
+2025-04-09 15:26:51,421 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,421 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,423 - INFO - Processing row 419
+2025-04-09 15:26:51,424 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,425 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,425 - INFO - Processing row 420
+2025-04-09 15:26:51,426 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,443 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,476 - INFO - Processing row 421
+2025-04-09 15:26:51,513 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,525 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,608 - INFO - Processing row 422
+2025-04-09 15:26:51,635 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,656 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,678 - INFO - Processing row 423
+2025-04-09 15:26:51,710 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,724 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,760 - INFO - Processing row 424
+2025-04-09 15:26:51,775 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,825 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,870 - INFO - Processing row 425
+2025-04-09 15:26:51,895 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:51,912 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:51,952 - INFO - Processing row 426
+2025-04-09 15:26:51,994 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,012 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,044 - INFO - Processing row 427
+2025-04-09 15:26:52,074 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,111 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,161 - INFO - Processing row 428
+2025-04-09 15:26:52,183 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,222 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,257 - INFO - Processing row 429
+2025-04-09 15:26:52,280 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,291 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,294 - INFO - Processing row 430
+2025-04-09 15:26:52,338 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,362 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,388 - INFO - Processing row 431
+2025-04-09 15:26:52,427 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,446 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,487 - INFO - Processing row 432
+2025-04-09 15:26:52,507 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,526 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,562 - INFO - Processing row 433
+2025-04-09 15:26:52,626 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,639 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,675 - INFO - Processing row 434
+2025-04-09 15:26:52,680 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,709 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,718 - INFO - Processing row 435
+2025-04-09 15:26:52,740 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,755 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,780 - INFO - Processing row 436
+2025-04-09 15:26:52,823 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,862 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,881 - INFO - Processing row 437
+2025-04-09 15:26:52,893 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:52,913 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:52,969 - INFO - Processing row 438
+2025-04-09 15:26:53,023 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,057 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,106 - INFO - Processing row 439
+2025-04-09 15:26:53,130 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,178 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,209 - INFO - Processing row 440
+2025-04-09 15:26:53,222 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,239 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,261 - INFO - Processing row 441
+2025-04-09 15:26:53,287 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,311 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,340 - INFO - Processing row 442
+2025-04-09 15:26:53,375 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,413 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,477 - INFO - Processing row 443
+2025-04-09 15:26:53,527 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,560 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,593 - INFO - Processing row 444
+2025-04-09 15:26:53,606 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,609 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,641 - INFO - Processing row 445
+2025-04-09 15:26:53,675 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,702 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,726 - INFO - Processing row 446
+2025-04-09 15:26:53,762 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,804 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,822 - INFO - Processing row 447
+2025-04-09 15:26:53,828 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,866 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:53,909 - INFO - Processing row 448
+2025-04-09 15:26:53,927 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:53,971 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,014 - INFO - Processing row 449
+2025-04-09 15:26:54,055 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:54,071 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,139 - INFO - Processing row 450
+2025-04-09 15:26:54,210 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:54,240 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,279 - INFO - Processing row 451
+2025-04-09 15:26:54,296 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:54,337 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,518 - INFO - Processing row 452
+2025-04-09 15:26:54,608 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:54,648 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,678 - INFO - Processing row 453
+2025-04-09 15:26:54,768 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:54,783 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,787 - INFO - Processing row 454
+2025-04-09 15:26:54,790 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:54,791 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,792 - INFO - Processing row 455
+2025-04-09 15:26:54,793 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:54,793 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,794 - INFO - Processing row 456
+2025-04-09 15:26:54,795 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:54,795 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,844 - INFO - Processing row 457
+2025-04-09 15:26:54,871 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:54,926 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:54,974 - INFO - Processing row 458
+2025-04-09 15:26:55,000 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,025 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,057 - INFO - Processing row 459
+2025-04-09 15:26:55,089 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,126 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,129 - INFO - Processing row 460
+2025-04-09 15:26:55,141 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,176 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,193 - INFO - Processing row 461
+2025-04-09 15:26:55,212 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,214 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,244 - INFO - Processing row 462
+2025-04-09 15:26:55,296 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,343 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,364 - INFO - Processing row 463
+2025-04-09 15:26:55,425 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,439 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,458 - INFO - Processing row 464
+2025-04-09 15:26:55,491 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,546 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,625 - INFO - Processing row 465
+2025-04-09 15:26:55,660 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,713 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,792 - INFO - Processing row 466
+2025-04-09 15:26:55,826 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,874 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,886 - INFO - Processing row 467
+2025-04-09 15:26:55,926 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:55,946 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:55,959 - INFO - Processing row 468
+2025-04-09 15:26:55,978 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,011 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,042 - INFO - Processing row 469
+2025-04-09 15:26:56,079 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,107 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,117 - INFO - Processing row 470
+2025-04-09 15:26:56,161 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,169 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,190 - INFO - Processing row 471
+2025-04-09 15:26:56,225 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,240 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,270 - INFO - Processing row 472
+2025-04-09 15:26:56,277 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,289 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,310 - INFO - Processing row 473
+2025-04-09 15:26:56,326 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,328 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,375 - INFO - Processing row 474
+2025-04-09 15:26:56,411 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,424 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,443 - INFO - Processing row 475
+2025-04-09 15:26:56,472 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,489 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,520 - INFO - Processing row 476
+2025-04-09 15:26:56,544 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,545 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,591 - INFO - Processing row 477
+2025-04-09 15:26:56,652 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,739 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,758 - INFO - Processing row 478
+2025-04-09 15:26:56,790 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,794 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,796 - INFO - Processing row 479
+2025-04-09 15:26:56,856 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,887 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:56,907 - INFO - Processing row 480
+2025-04-09 15:26:56,946 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:56,973 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,010 - INFO - Processing row 481
+2025-04-09 15:26:57,079 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:57,124 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,139 - INFO - Processing row 482
+2025-04-09 15:26:57,146 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:57,180 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,212 - INFO - Processing row 483
+2025-04-09 15:26:57,244 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:57,279 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,308 - INFO - Processing row 484
+2025-04-09 15:26:57,362 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:57,407 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,439 - INFO - Processing row 485
+2025-04-09 15:26:57,530 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:57,577 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,608 - INFO - Processing row 486
+2025-04-09 15:26:57,622 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:57,690 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,709 - INFO - Processing row 487
+2025-04-09 15:26:57,741 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:57,778 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,839 - INFO - Processing row 488
+2025-04-09 15:26:57,845 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:57,856 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,891 - INFO - Processing row 489
+2025-04-09 15:26:57,927 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:57,943 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:57,989 - INFO - Processing row 490
+2025-04-09 15:26:58,010 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,040 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,058 - INFO - Processing row 491
+2025-04-09 15:26:58,079 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,107 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,139 - INFO - Processing row 492
+2025-04-09 15:26:58,276 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,357 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,433 - INFO - Processing row 493
+2025-04-09 15:26:58,446 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,464 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,489 - INFO - Processing row 494
+2025-04-09 15:26:58,508 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,525 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,537 - INFO - Processing row 495
+2025-04-09 15:26:58,541 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,547 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,592 - INFO - Processing row 496
+2025-04-09 15:26:58,627 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,646 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,661 - INFO - Processing row 497
+2025-04-09 15:26:58,709 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,755 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,777 - INFO - Processing row 498
+2025-04-09 15:26:58,784 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,844 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,888 - INFO - Processing row 499
+2025-04-09 15:26:58,906 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:58,944 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:58,969 - INFO - Processing row 500
+2025-04-09 15:26:59,006 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,026 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,063 - INFO - Processing row 501
+2025-04-09 15:26:59,097 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,108 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,126 - INFO - Processing row 502
+2025-04-09 15:26:59,161 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,188 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,190 - INFO - Processing row 503
+2025-04-09 15:26:59,196 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,228 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,262 - INFO - Processing row 504
+2025-04-09 15:26:59,274 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,308 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,341 - INFO - Processing row 505
+2025-04-09 15:26:59,376 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,395 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,442 - INFO - Processing row 506
+2025-04-09 15:26:59,462 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,512 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,540 - INFO - Processing row 507
+2025-04-09 15:26:59,572 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,576 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,593 - INFO - Processing row 508
+2025-04-09 15:26:59,597 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,628 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,656 - INFO - Processing row 509
+2025-04-09 15:26:59,661 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,692 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,709 - INFO - Processing row 510
+2025-04-09 15:26:59,739 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,779 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,803 - INFO - Processing row 511
+2025-04-09 15:26:59,845 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,856 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,906 - INFO - Processing row 512
+2025-04-09 15:26:59,921 - ERROR - Invalid CVSS score: 
+2025-04-09 15:26:59,925 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:26:59,958 - INFO - Processing row 513
+2025-04-09 15:26:59,978 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,042 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,106 - INFO - Processing row 514
+2025-04-09 15:27:00,184 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,208 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,246 - INFO - Processing row 515
+2025-04-09 15:27:00,261 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,268 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,307 - INFO - Processing row 516
+2025-04-09 15:27:00,322 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,344 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,376 - INFO - Processing row 517
+2025-04-09 15:27:00,389 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,409 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,428 - INFO - Processing row 518
+2025-04-09 15:27:00,472 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,523 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,581 - INFO - Processing row 519
+2025-04-09 15:27:00,609 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,629 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,660 - INFO - Processing row 520
+2025-04-09 15:27:00,664 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,672 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,674 - INFO - Processing row 521
+2025-04-09 15:27:00,677 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,693 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,712 - INFO - Processing row 522
+2025-04-09 15:27:00,712 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,714 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,723 - INFO - Processing row 523
+2025-04-09 15:27:00,728 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,729 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,747 - INFO - Processing row 524
+2025-04-09 15:27:00,789 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,830 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,862 - INFO - Processing row 525
+2025-04-09 15:27:00,896 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,914 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:00,956 - INFO - Processing row 526
+2025-04-09 15:27:00,971 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:00,975 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,024 - INFO - Processing row 527
+2025-04-09 15:27:01,060 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,087 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,095 - INFO - Processing row 528
+2025-04-09 15:27:01,143 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,164 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,190 - INFO - Processing row 529
+2025-04-09 15:27:01,205 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,238 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,256 - INFO - Processing row 530
+2025-04-09 15:27:01,274 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,297 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,341 - INFO - Processing row 531
+2025-04-09 15:27:01,359 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,397 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,444 - INFO - Processing row 532
+2025-04-09 15:27:01,462 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,493 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,511 - INFO - Processing row 533
+2025-04-09 15:27:01,539 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,592 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,604 - INFO - Processing row 534
+2025-04-09 15:27:01,609 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,641 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,670 - INFO - Processing row 535
+2025-04-09 15:27:01,678 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,725 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,741 - INFO - Processing row 536
+2025-04-09 15:27:01,776 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,780 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,823 - INFO - Processing row 537
+2025-04-09 15:27:01,846 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,858 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,895 - INFO - Processing row 538
+2025-04-09 15:27:01,920 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:01,959 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:01,990 - INFO - Processing row 539
+2025-04-09 15:27:02,041 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:02,090 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:02,092 - INFO - Processing row 540
+2025-04-09 15:27:02,112 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:02,164 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:02,201 - INFO - Processing row 541
+2025-04-09 15:27:02,211 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:02,267 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:02,280 - INFO - Processing row 542
+2025-04-09 15:27:02,315 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:02,326 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:02,329 - INFO - Processing row 543
+2025-04-09 15:27:02,362 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:02,394 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:02,426 - INFO - Processing row 544
+2025-04-09 15:27:02,441 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:02,473 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:02,511 - INFO - Processing row 545
+2025-04-09 15:27:02,525 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:02,700 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:02,783 - INFO - Processing row 546
+2025-04-09 15:27:02,872 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:02,890 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:02,940 - INFO - Processing row 547
+2025-04-09 15:27:02,955 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:02,962 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,005 - INFO - Processing row 548
+2025-04-09 15:27:03,040 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,073 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,093 - INFO - Processing row 549
+2025-04-09 15:27:03,155 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,179 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,209 - INFO - Processing row 550
+2025-04-09 15:27:03,255 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,261 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,272 - INFO - Processing row 551
+2025-04-09 15:27:03,322 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,339 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,379 - INFO - Processing row 552
+2025-04-09 15:27:03,384 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,389 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,408 - INFO - Processing row 553
+2025-04-09 15:27:03,409 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,409 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,414 - INFO - Processing row 554
+2025-04-09 15:27:03,425 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,427 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,445 - INFO - Processing row 555
+2025-04-09 15:27:03,448 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,452 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,471 - INFO - Processing row 556
+2025-04-09 15:27:03,506 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,512 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,542 - INFO - Processing row 557
+2025-04-09 15:27:03,543 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,595 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,626 - INFO - Processing row 558
+2025-04-09 15:27:03,630 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,673 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,693 - INFO - Processing row 559
+2025-04-09 15:27:03,714 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,737 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,747 - INFO - Processing row 560
+2025-04-09 15:27:03,777 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,797 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,809 - INFO - Processing row 561
+2025-04-09 15:27:03,843 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,869 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:03,879 - INFO - Processing row 562
+2025-04-09 15:27:03,905 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:03,984 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,031 - INFO - Processing row 563
+2025-04-09 15:27:04,047 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,090 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,108 - INFO - Processing row 564
+2025-04-09 15:27:04,196 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,230 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,245 - INFO - Processing row 565
+2025-04-09 15:27:04,261 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,296 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,340 - INFO - Processing row 566
+2025-04-09 15:27:04,358 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,370 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,409 - INFO - Processing row 567
+2025-04-09 15:27:04,444 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,474 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,494 - INFO - Processing row 568
+2025-04-09 15:27:04,511 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,559 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,564 - INFO - Processing row 569
+2025-04-09 15:27:04,585 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,606 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,639 - INFO - Processing row 570
+2025-04-09 15:27:04,670 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,694 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,725 - INFO - Processing row 571
+2025-04-09 15:27:04,764 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,780 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,814 - INFO - Processing row 572
+2025-04-09 15:27:04,857 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,861 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,881 - INFO - Processing row 573
+2025-04-09 15:27:04,913 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:04,955 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:04,962 - INFO - Processing row 574
+2025-04-09 15:27:04,979 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,013 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,057 - INFO - Processing row 575
+2025-04-09 15:27:05,089 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,112 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,123 - INFO - Processing row 576
+2025-04-09 15:27:05,126 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,161 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,164 - INFO - Processing row 577
+2025-04-09 15:27:05,193 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,214 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,239 - INFO - Processing row 578
+2025-04-09 15:27:05,263 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,329 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,348 - INFO - Processing row 579
+2025-04-09 15:27:05,390 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,397 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,408 - INFO - Processing row 580
+2025-04-09 15:27:05,437 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,461 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,475 - INFO - Processing row 581
+2025-04-09 15:27:05,507 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,529 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,548 - INFO - Processing row 582
+2025-04-09 15:27:05,571 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,614 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,625 - INFO - Processing row 583
+2025-04-09 15:27:05,660 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,676 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,706 - INFO - Processing row 584
+2025-04-09 15:27:05,739 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,778 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,825 - INFO - Processing row 585
+2025-04-09 15:27:05,928 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:05,946 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:05,980 - INFO - Processing row 586
+2025-04-09 15:27:06,015 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:06,080 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:06,124 - INFO - Processing row 587
+2025-04-09 15:27:06,141 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:06,191 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:06,243 - INFO - Processing row 588
+2025-04-09 15:27:06,277 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:06,309 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:06,360 - INFO - Processing row 589
+2025-04-09 15:27:06,374 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:06,426 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:06,463 - INFO - Processing row 590
+2025-04-09 15:27:06,478 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:06,525 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:06,537 - INFO - Processing row 591
+2025-04-09 15:27:06,595 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:06,621 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:06,635 - INFO - Processing row 592
+2025-04-09 15:27:06,676 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:06,694 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:06,739 - INFO - Processing row 593
+2025-04-09 15:27:06,758 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:06,775 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:06,803 - INFO - Processing row 594
+2025-04-09 15:27:06,825 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:06,862 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:06,913 - INFO - Processing row 595
+2025-04-09 15:27:06,942 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:07,011 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:07,060 - INFO - Processing row 596
+2025-04-09 15:27:07,079 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:07,304 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:07,377 - INFO - Processing row 597
+2025-04-09 15:27:07,424 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:07,430 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:07,477 - INFO - Processing row 598
+2025-04-09 15:27:07,481 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:07,539 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:07,574 - INFO - Processing row 599
+2025-04-09 15:27:07,581 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:07,611 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:07,660 - INFO - Processing row 600
+2025-04-09 15:27:07,674 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:07,713 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:07,747 - INFO - Processing row 601
+2025-04-09 15:27:07,774 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:07,780 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:07,815 - INFO - Processing row 602
+2025-04-09 15:27:07,842 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:07,877 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:07,891 - INFO - Processing row 603
+2025-04-09 15:27:07,913 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:07,938 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:07,964 - INFO - Processing row 604
+2025-04-09 15:27:07,992 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:08,046 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:08,061 - INFO - Processing row 605
+2025-04-09 15:27:08,078 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:08,111 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:08,119 - INFO - Processing row 606
+2025-04-09 15:27:08,131 - ERROR - Invalid CVSS score: 
+2025-04-09 15:27:08,142 - INFO - Successfully processed vulnerability: 
+2025-04-09 15:27:08,164 - INFO - Found 21 unique vulnerabilities
+2025-04-09 15:27:08,191 - INFO - Creating table for vulnerability 1: Cisco IOS Software Secure Shell DoS (cisco-sa-ssh-dos-Un22sd2A)
+2025-04-09 15:27:08,223 - INFO - Creating table with heading: 1. Cisco IOS Software Secure Shell DoS (cisco-sa-ssh-dos-Un22sd2A)
+2025-04-09 15:27:08,498 - INFO - Table created successfully for heading: 1. Cisco IOS Software Secure Shell DoS (cisco-sa-ssh-dos-Un22sd2A)
+2025-04-09 15:27:08,516 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:08,523 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-04-09 15:27:08,530 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:08,615 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:08,648 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-04-09 15:27:08,692 - INFO - Creating table for vulnerability 2: Cisco IOS Software SSH DoS (cisco-sa-ssh-excpt-dos-FzOBQTnk)
+2025-04-09 15:27:08,729 - INFO - Creating table with heading: 2. Cisco IOS Software SSH DoS (cisco-sa-ssh-excpt-dos-FzOBQTnk)
+2025-04-09 15:27:09,002 - INFO - Table created successfully for heading: 2. Cisco IOS Software SSH DoS (cisco-sa-ssh-excpt-dos-FzOBQTnk)
+2025-04-09 15:27:09,022 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:09,076 - INFO - Appending data for vulnerability ABCXYZ-2
+2025-04-09 15:27:09,107 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:09,157 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:09,227 - INFO - Successfully appended data for vulnerability ABCXYZ-2
+2025-04-09 15:27:09,241 - INFO - Creating table for vulnerability 3: Cisco IOS XE Software SSH DoS (cisco-sa-ssh-excpt-dos-FzOBQTnk)
+2025-04-09 15:27:09,275 - INFO - Creating table with heading: 3. Cisco IOS XE Software SSH DoS (cisco-sa-ssh-excpt-dos-FzOBQTnk)
+2025-04-09 15:27:09,547 - INFO - Table created successfully for heading: 3. Cisco IOS XE Software SSH DoS (cisco-sa-ssh-excpt-dos-FzOBQTnk)
+2025-04-09 15:27:09,578 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:09,606 - INFO - Appending data for vulnerability ABCXYZ-3
+2025-04-09 15:27:09,650 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:09,692 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:09,725 - INFO - Successfully appended data for vulnerability ABCXYZ-3
+2025-04-09 15:27:09,752 - INFO - Creating table for vulnerability 4: SSL Certificate Signed Using Weak Hashing Algorithm
+2025-04-09 15:27:09,789 - INFO - Creating table with heading: 4. SSL Certificate Signed Using Weak Hashing Algorithm
+2025-04-09 15:27:10,036 - INFO - Table created successfully for heading: 4. SSL Certificate Signed Using Weak Hashing Algorithm
+2025-04-09 15:27:10,064 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:10,098 - INFO - Appending data for vulnerability ABCXYZ-4
+2025-04-09 15:27:10,129 - INFO - Formatting affected resources table for 2 resources
+2025-04-09 15:27:10,159 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:10,195 - INFO - Successfully appended data for vulnerability ABCXYZ-4
+2025-04-09 15:27:10,207 - INFO - Creating table for vulnerability 5: Cisco IOS HTTP Client Information Disclosure Vulnerability (cisco-sa-20190925-http-client)
+2025-04-09 15:27:10,242 - INFO - Creating table with heading: 5. Cisco IOS HTTP Client Information Disclosure Vulnerability (cisco-sa-20190925-http-client)
+2025-04-09 15:27:10,453 - INFO - Table created successfully for heading: 5. Cisco IOS HTTP Client Information Disclosure Vulnerability (cisco-sa-20190925-http-client)
+2025-04-09 15:27:10,459 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:10,497 - INFO - Appending data for vulnerability ABCXYZ-5
+2025-04-09 15:27:10,521 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:10,559 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:10,605 - INFO - Successfully appended data for vulnerability ABCXYZ-5
+2025-04-09 15:27:10,628 - INFO - Creating table for vulnerability 6: Cisco IOS and IOS XE Software Tcl Arbitrary Code Execution (cisco-sa-tcl-ace-C9KuVKmm)
+2025-04-09 15:27:10,660 - INFO - Creating table with heading: 6. Cisco IOS and IOS XE Software Tcl Arbitrary Code Execution (cisco-sa-tcl-ace-C9KuVKmm)
+2025-04-09 15:27:10,848 - INFO - Table created successfully for heading: 6. Cisco IOS and IOS XE Software Tcl Arbitrary Code Execution (cisco-sa-tcl-ace-C9KuVKmm)
+2025-04-09 15:27:10,852 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:10,898 - INFO - Appending data for vulnerability ABCXYZ-6
+2025-04-09 15:27:10,955 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:11,013 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:11,046 - INFO - Successfully appended data for vulnerability ABCXYZ-6
+2025-04-09 15:27:11,061 - INFO - Creating table for vulnerability 7: Cisco NX-OS Software Link Layer Discovery Protocol DoS (cisco-sa-nxos-lldp-dos-z7PncTgt)
+2025-04-09 15:27:11,073 - INFO - Creating table with heading: 7. Cisco NX-OS Software Link Layer Discovery Protocol DoS (cisco-sa-nxos-lldp-dos-z7PncTgt)
+2025-04-09 15:27:11,336 - INFO - Table created successfully for heading: 7. Cisco NX-OS Software Link Layer Discovery Protocol DoS (cisco-sa-nxos-lldp-dos-z7PncTgt)
+2025-04-09 15:27:11,358 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:11,388 - INFO - Appending data for vulnerability ABCXYZ-7
+2025-04-09 15:27:11,412 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:11,444 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:11,474 - INFO - Successfully appended data for vulnerability ABCXYZ-7
+2025-04-09 15:27:11,498 - INFO - Creating table for vulnerability 8: Cisco NX-OS Software TACACS+ or RADIUS Remote Authentication Directed Request DoS (cisco-sa-nxos-remoteauth-dos-XB6pv74m)
+2025-04-09 15:27:11,522 - INFO - Creating table with heading: 8. Cisco NX-OS Software TACACS+ or RADIUS Remote Authentication Directed Request DoS (cisco-sa-nxos-remoteauth-dos-XB6pv74m)
+2025-04-09 15:27:11,733 - INFO - Table created successfully for heading: 8. Cisco NX-OS Software TACACS+ or RADIUS Remote Authentication Directed Request DoS (cisco-sa-nxos-remoteauth-dos-XB6pv74m)
+2025-04-09 15:27:11,778 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:11,811 - INFO - Appending data for vulnerability ABCXYZ-8
+2025-04-09 15:27:11,859 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:11,880 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:11,913 - INFO - Successfully appended data for vulnerability ABCXYZ-8
+2025-04-09 15:27:11,958 - INFO - Creating table for vulnerability 9: SSL Certificate Cannot Be Trusted
+2025-04-09 15:27:12,023 - INFO - Creating table with heading: 9. SSL Certificate Cannot Be Trusted
+2025-04-09 15:27:12,306 - INFO - Table created successfully for heading: 9. SSL Certificate Cannot Be Trusted
+2025-04-09 15:27:12,328 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:12,372 - INFO - Appending data for vulnerability ABCXYZ-9
+2025-04-09 15:27:12,381 - INFO - Formatting affected resources table for 3 resources
+2025-04-09 15:27:12,421 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:12,469 - INFO - Successfully appended data for vulnerability ABCXYZ-9
+2025-04-09 15:27:12,509 - INFO - Creating table for vulnerability 10: SSL Self-Signed Certificate
+2025-04-09 15:27:12,537 - INFO - Creating table with heading: 10. SSL Self-Signed Certificate
+2025-04-09 15:27:12,824 - INFO - Table created successfully for heading: 10. SSL Self-Signed Certificate
+2025-04-09 15:27:12,879 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:12,945 - INFO - Appending data for vulnerability ABCXYZ-10
+2025-04-09 15:27:12,980 - INFO - Formatting affected resources table for 3 resources
+2025-04-09 15:27:13,042 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:13,130 - INFO - Successfully appended data for vulnerability ABCXYZ-10
+2025-04-09 15:27:13,172 - INFO - Creating table for vulnerability 11: TLS Version 1.1 Deprecated Protocol
+2025-04-09 15:27:13,212 - INFO - Creating table with heading: 11. TLS Version 1.1 Deprecated Protocol
+2025-04-09 15:27:13,633 - INFO - Table created successfully for heading: 11. TLS Version 1.1 Deprecated Protocol
+2025-04-09 15:27:13,756 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:13,882 - INFO - Appending data for vulnerability ABCXYZ-11
+2025-04-09 15:27:13,992 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:14,009 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:14,060 - INFO - Successfully appended data for vulnerability ABCXYZ-11
+2025-04-09 15:27:14,071 - INFO - Creating table for vulnerability 12: Cisco IOS Zone-Based Firewall Feature Security Bypass (CSCun94946)
+2025-04-09 15:27:14,082 - INFO - Creating table with heading: 12. Cisco IOS Zone-Based Firewall Feature Security Bypass (CSCun94946)
+2025-04-09 15:27:14,410 - INFO - Table created successfully for heading: 12. Cisco IOS Zone-Based Firewall Feature Security Bypass (CSCun94946)
+2025-04-09 15:27:14,447 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:14,459 - INFO - Appending data for vulnerability ABCXYZ-12
+2025-04-09 15:27:14,481 - INFO - Formatting affected resources table for 3 resources
+2025-04-09 15:27:14,512 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:14,540 - INFO - Successfully appended data for vulnerability ABCXYZ-12
+2025-04-09 15:27:14,560 - INFO - Creating table for vulnerability 13: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-09 15:27:14,580 - INFO - Creating table with heading: 13. SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-09 15:27:14,786 - INFO - Table created successfully for heading: 13. SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-09 15:27:14,813 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:14,826 - INFO - Appending data for vulnerability ABCXYZ-13
+2025-04-09 15:27:14,845 - INFO - Formatting affected resources table for 2 resources
+2025-04-09 15:27:14,865 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:14,907 - INFO - Successfully appended data for vulnerability ABCXYZ-13
+2025-04-09 15:27:14,912 - INFO - Creating table for vulnerability 14: Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:27:14,928 - INFO - Creating table with heading: 14. Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:27:15,261 - INFO - Table created successfully for heading: 14. Network Time Protocol (NTP) Mode 6 Scanner
+2025-04-09 15:27:15,277 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:15,292 - INFO - Appending data for vulnerability ABCXYZ-14
+2025-04-09 15:27:15,309 - INFO - Formatting affected resources table for 9 resources
+2025-04-09 15:27:15,331 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:15,374 - INFO - Successfully appended data for vulnerability ABCXYZ-14
+2025-04-09 15:27:15,382 - INFO - Creating table for vulnerability 15: Cisco IOS Software ARP Resource Management Exhaustion Denial of Service (cisco-sa-arp-mtfhBfjE)
+2025-04-09 15:27:15,395 - INFO - Creating table with heading: 15. Cisco IOS Software ARP Resource Management Exhaustion Denial of Service (cisco-sa-arp-mtfhBfjE)
+2025-04-09 15:27:15,629 - INFO - Table created successfully for heading: 15. Cisco IOS Software ARP Resource Management Exhaustion Denial of Service (cisco-sa-arp-mtfhBfjE)
+2025-04-09 15:27:15,646 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:15,648 - INFO - Appending data for vulnerability ABCXYZ-15
+2025-04-09 15:27:15,660 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:15,678 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:15,713 - INFO - Successfully appended data for vulnerability ABCXYZ-15
+2025-04-09 15:27:15,727 - INFO - Creating table for vulnerability 16: Cisco IOS Software Information Disclosure (cisco-sa-info-disclosure-V4BmJBNF)
+2025-04-09 15:27:15,737 - INFO - Creating table with heading: 16. Cisco IOS Software Information Disclosure (cisco-sa-info-disclosure-V4BmJBNF)
+2025-04-09 15:27:16,048 - INFO - Table created successfully for heading: 16. Cisco IOS Software Information Disclosure (cisco-sa-info-disclosure-V4BmJBNF)
+2025-04-09 15:27:16,053 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:16,058 - INFO - Appending data for vulnerability ABCXYZ-16
+2025-04-09 15:27:16,065 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:16,101 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:16,229 - INFO - Successfully appended data for vulnerability ABCXYZ-16
+2025-04-09 15:27:16,253 - INFO - Creating table for vulnerability 17: SSL Certificate Expiry
+2025-04-09 15:27:16,274 - INFO - Creating table with heading: 17. SSL Certificate Expiry
+2025-04-09 15:27:16,455 - INFO - Table created successfully for heading: 17. SSL Certificate Expiry
+2025-04-09 15:27:16,460 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:16,471 - INFO - Appending data for vulnerability ABCXYZ-17
+2025-04-09 15:27:16,484 - INFO - Formatting affected resources table for 2 resources
+2025-04-09 15:27:16,491 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:16,520 - INFO - Successfully appended data for vulnerability ABCXYZ-17
+2025-04-09 15:27:16,526 - INFO - Creating table for vulnerability 18: SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:27:16,542 - INFO - Creating table with heading: 18. SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:27:16,825 - INFO - Table created successfully for heading: 18. SSH Weak Key Exchange Algorithms Enabled
+2025-04-09 15:27:16,858 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:16,879 - INFO - Appending data for vulnerability ABCXYZ-18
+2025-04-09 15:27:16,927 - INFO - Formatting affected resources table for 17 resources
+2025-04-09 15:27:16,976 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:17,036 - INFO - Successfully appended data for vulnerability ABCXYZ-18
+2025-04-09 15:27:17,057 - INFO - Creating table for vulnerability 19: SSL/TLS Diffie-Hellman Modulus <= 1024 Bits (Logjam)
+2025-04-09 15:27:17,079 - INFO - Creating table with heading: 19. SSL/TLS Diffie-Hellman Modulus <= 1024 Bits (Logjam)
+2025-04-09 15:27:17,263 - INFO - Table created successfully for heading: 19. SSL/TLS Diffie-Hellman Modulus <= 1024 Bits (Logjam)
+2025-04-09 15:27:17,279 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:17,307 - INFO - Appending data for vulnerability ABCXYZ-19
+2025-04-09 15:27:17,338 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:17,357 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:17,378 - INFO - Successfully appended data for vulnerability ABCXYZ-19
+2025-04-09 15:27:17,380 - INFO - Creating table for vulnerability 20: SSH Server CBC Mode Ciphers Enabled
+2025-04-09 15:27:17,387 - INFO - Creating table with heading: 20. SSH Server CBC Mode Ciphers Enabled
+2025-04-09 15:27:17,628 - INFO - Table created successfully for heading: 20. SSH Server CBC Mode Ciphers Enabled
+2025-04-09 15:27:17,637 - INFO - Added new page for next vulnerability
+2025-04-09 15:27:17,658 - INFO - Appending data for vulnerability ABCXYZ-20
+2025-04-09 15:27:17,685 - INFO - Formatting affected resources table for 2 resources
+2025-04-09 15:27:17,693 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:17,706 - INFO - Successfully appended data for vulnerability ABCXYZ-20
+2025-04-09 15:27:17,724 - INFO - Creating table for vulnerability 21: 
+2025-04-09 15:27:17,727 - INFO - Creating table with heading: 21. 
+2025-04-09 15:27:17,901 - INFO - Table created successfully for heading: 21. 
+2025-04-09 15:27:17,908 - INFO - Appending data for vulnerability ABCXYZ-21
+2025-04-09 15:27:17,915 - INFO - Formatting affected resources table for 1 resources
+2025-04-09 15:27:17,941 - INFO - Successfully formatted affected resources
+2025-04-09 15:27:17,959 - INFO - Successfully appended data for vulnerability ABCXYZ-21
+2025-04-09 15:27:18,053 - INFO - Document saved successfully as 'output_document.docx'
+2025-04-09 15:27:18,071 - INFO - Document creation process completed successfully
+2025-04-09 15:27:18,105 - INFO - VA report generated successfully
+2025-04-09 15:27:18,122 - INFO - Merging documents
+2025-04-09 15:27:19,330 - INFO - Documents merged successfully
+2025-04-09 15:27:19,345 - INFO - Final report generated successfully
+2025-04-09 15:27:19,405 - INFO - 127.0.0.1 - - [09/Apr/2025 15:27:19] "POST / HTTP/1.1" 200 -

@@ -1,0 +1,36 @@
+2025-04-07 22:18:13,996 - INFO - Starting web application
+2025-04-07 22:18:15,935 - WARNING -  * Debugger is active!
+2025-04-07 22:18:18,548 - INFO -  * Debugger PIN: 960-943-513
+2025-04-07 22:22:46,238 - INFO - Processing report for DNI, Internal Network
+2025-04-07 22:22:46,613 - INFO - File uploaded: dataset.csv
+2025-04-07 22:22:46,675 - INFO - Validating CSV columns
+2025-04-07 22:22:46,676 - INFO - All required columns found in CSV
+2025-04-07 22:22:51,805 - INFO - Cover page generated successfully
+2025-04-07 22:22:51,845 - INFO - Starting document creation process
+2025-04-07 22:22:52,008 - INFO - Created new document
+2025-04-07 22:22:52,010 - INFO - Setting document font to Helvetica, size 10.5
+2025-04-07 22:22:52,782 - INFO - Document font set successfully
+2025-04-07 22:22:52,783 - INFO - Using CSV file: dataset.csv
+2025-04-07 22:22:52,803 - INFO - Successfully opened CSV file
+2025-04-07 22:22:52,804 - INFO - CSV header read successfully with 13 columns
+2025-04-07 22:22:52,805 - INFO - Validating CSV columns
+2025-04-07 22:22:52,805 - INFO - All required columns found in CSV
+2025-04-07 22:22:52,807 - INFO - Processing row 1
+2025-04-07 22:22:52,808 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 22:22:52,808 - INFO - Processing row 2
+2025-04-07 22:22:52,809 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 22:22:52,810 - INFO - Found 1 unique vulnerabilities
+2025-04-07 22:22:52,810 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 22:22:52,811 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 22:22:52,967 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 22:22:52,968 - INFO - Appending data for vulnerability ANBFED-1
+2025-04-07 22:22:52,977 - INFO - Formatting affected resources table for 2 resources
+2025-04-07 22:22:53,008 - INFO - Successfully formatted affected resources
+2025-04-07 22:22:53,015 - INFO - Successfully appended data for vulnerability ANBFED-1
+2025-04-07 22:22:53,328 - INFO - Document saved successfully as 'output_document.docx'
+2025-04-07 22:22:53,329 - INFO - Document creation process completed successfully
+2025-04-07 22:22:53,331 - INFO - VA report generated successfully
+2025-04-07 22:22:53,331 - INFO - Merging documents
+2025-04-07 22:22:59,321 - INFO - Documents merged successfully
+2025-04-07 22:22:59,322 - INFO - Final report generated successfully
+2025-04-07 22:22:59,802 - INFO - 127.0.0.1 - - [07/Apr/2025 22:22:59] "POST / HTTP/1.1" 200 -

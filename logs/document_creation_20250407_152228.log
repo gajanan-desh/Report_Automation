@@ -1,0 +1,38 @@
+2025-04-07 15:22:29,239 - INFO - Starting web application
+2025-04-07 15:22:29,301 - WARNING -  * Debugger is active!
+2025-04-07 15:22:29,311 - INFO -  * Debugger PIN: 960-943-513
+2025-04-07 15:22:34,849 - INFO - 127.0.0.1 - - [07/Apr/2025 15:22:34] "GET / HTTP/1.1" 200 -
+2025-04-07 15:45:22,265 - INFO - Processing report for Al-Buhaira, External Network
+2025-04-07 15:45:22,634 - INFO - File uploaded: dataset.csv
+2025-04-07 15:45:22,728 - INFO - Validating CSV columns
+2025-04-07 15:45:22,728 - INFO - All required columns found in CSV
+2025-04-07 15:45:27,530 - INFO - Cover page generated successfully
+2025-04-07 15:45:27,776 - INFO - Starting document creation process
+2025-04-07 15:45:28,141 - INFO - Created new document
+2025-04-07 15:45:28,142 - INFO - Setting document font to Helvetica, size 10.5
+2025-04-07 15:45:28,224 - INFO - Document font set successfully
+2025-04-07 15:45:28,247 - INFO - Added document title
+2025-04-07 15:45:28,248 - INFO - Using CSV file: dataset.csv
+2025-04-07 15:45:28,296 - INFO - Successfully opened CSV file
+2025-04-07 15:45:28,297 - INFO - CSV header read successfully with 13 columns
+2025-04-07 15:45:28,298 - INFO - Validating CSV columns
+2025-04-07 15:45:28,298 - INFO - All required columns found in CSV
+2025-04-07 15:45:28,298 - INFO - Processing row 1
+2025-04-07 15:45:28,298 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:45:28,298 - INFO - Processing row 2
+2025-04-07 15:45:28,299 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:45:28,299 - INFO - Found 1 unique vulnerabilities
+2025-04-07 15:45:28,299 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:45:28,299 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:45:28,441 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:45:28,441 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-04-07 15:45:28,444 - INFO - Formatting affected resources table for 2 resources
+2025-04-07 15:45:28,445 - INFO - Successfully formatted affected resources
+2025-04-07 15:45:28,450 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-04-07 15:45:28,478 - INFO - Document saved successfully as 'output_document.docx'
+2025-04-07 15:45:28,479 - INFO - Document creation process completed successfully
+2025-04-07 15:45:28,479 - INFO - VA report generated successfully
+2025-04-07 15:45:28,479 - INFO - Merging documents
+2025-04-07 15:45:37,159 - INFO - Documents merged successfully
+2025-04-07 15:45:37,163 - INFO - Final report generated successfully
+2025-04-07 15:45:37,822 - INFO - 127.0.0.1 - - [07/Apr/2025 15:45:37] "POST / HTTP/1.1" 200 -

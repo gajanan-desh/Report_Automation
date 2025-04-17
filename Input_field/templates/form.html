@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Report Generator</title>
+</head>
+<body>
+    <h1>Report Generator</h1>
+    <form action="/generate" method="post">
+        <div>
+            <label for="companyName">Company Name:</label>
+            <input type="text" id="companyName" name="companyName" value="Al-Nabooda">
+        </div>
+        <div>
+            <label for="networkType">Network Type:</label>
+            <input type="text" id="networkType" name="networkType" value="External Network">
+        </div>
+        <div>
+            <label for="assessmentDate">Assessment Date:</label>
+            <input type="date" id="assessmentDate" name="assessmentDate">
+        </div>
+        <div>
+            <label for="findingsCount">Number of Findings:</label>
+            <input type="number" id="findingsCount" name="findingsCount" value="5">
+        </div>
+        <button type="submit">Generate Document</button>
+    </form>
+</body>
+</html>

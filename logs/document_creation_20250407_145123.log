@@ -1,0 +1,72 @@
+2025-04-07 14:51:24,260 - INFO - Starting web application
+2025-04-07 14:51:24,289 - WARNING -  * Debugger is active!
+2025-04-07 14:51:24,321 - INFO -  * Debugger PIN: 960-943-513
+2025-04-07 14:51:36,852 - INFO - Processing report for Sheshadri , External Network
+2025-04-07 14:51:36,854 - INFO - File uploaded: dataset.csv
+2025-04-07 14:51:36,856 - INFO - Validating CSV columns
+2025-04-07 14:51:36,856 - INFO - All required columns found in CSV
+2025-04-07 14:51:38,651 - INFO - Cover page generated successfully
+2025-04-07 14:51:38,652 - INFO - Starting document creation process
+2025-04-07 14:51:38,703 - INFO - Created new document
+2025-04-07 14:51:38,704 - INFO - Setting document font to Helvetica, size 10.5
+2025-04-07 14:51:38,706 - INFO - Document font set successfully
+2025-04-07 14:51:38,709 - INFO - Added document title
+2025-04-07 14:51:38,709 - INFO - Using CSV file: dataset.csv
+2025-04-07 14:51:38,710 - INFO - Successfully opened CSV file
+2025-04-07 14:51:38,710 - INFO - CSV header read successfully with 13 columns
+2025-04-07 14:51:38,711 - INFO - Validating CSV columns
+2025-04-07 14:51:38,711 - INFO - All required columns found in CSV
+2025-04-07 14:51:38,711 - INFO - Processing row 1
+2025-04-07 14:51:38,712 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 14:51:38,712 - INFO - Processing row 2
+2025-04-07 14:51:38,712 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 14:51:38,713 - INFO - Found 1 unique vulnerabilities
+2025-04-07 14:51:38,713 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 14:51:38,713 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 14:51:38,773 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 14:51:38,773 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-04-07 14:51:38,776 - INFO - Formatting affected resources table for 2 resources
+2025-04-07 14:51:38,777 - INFO - Successfully formatted affected resources
+2025-04-07 14:51:38,781 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-04-07 14:51:38,825 - INFO - Document saved successfully as 'output_document.docx'
+2025-04-07 14:51:38,825 - INFO - Document creation process completed successfully
+2025-04-07 14:51:38,826 - INFO - VA report generated successfully
+2025-04-07 14:51:38,826 - INFO - Merging documents
+2025-04-07 14:51:39,616 - INFO - Documents merged successfully
+2025-04-07 14:51:39,617 - INFO - Final report generated successfully
+2025-04-07 14:51:39,690 - INFO - 127.0.0.1 - - [07/Apr/2025 14:51:39] "POST / HTTP/1.1" 200 -
+2025-04-07 15:02:26,721 - INFO - Processing report for Sheshadri , External Network
+2025-04-07 15:02:26,780 - INFO - File uploaded: dataset.csv
+2025-04-07 15:02:26,866 - INFO - Validating CSV columns
+2025-04-07 15:02:26,866 - INFO - All required columns found in CSV
+2025-04-07 15:02:27,976 - INFO - Cover page generated successfully
+2025-04-07 15:02:27,977 - INFO - Starting document creation process
+2025-04-07 15:02:28,033 - INFO - Created new document
+2025-04-07 15:02:28,034 - INFO - Setting document font to Helvetica, size 10.5
+2025-04-07 15:02:28,041 - INFO - Document font set successfully
+2025-04-07 15:02:28,048 - INFO - Added document title
+2025-04-07 15:02:28,048 - INFO - Using CSV file: dataset.csv
+2025-04-07 15:02:28,049 - INFO - Successfully opened CSV file
+2025-04-07 15:02:28,050 - INFO - CSV header read successfully with 13 columns
+2025-04-07 15:02:28,050 - INFO - Validating CSV columns
+2025-04-07 15:02:28,050 - INFO - All required columns found in CSV
+2025-04-07 15:02:28,051 - INFO - Processing row 1
+2025-04-07 15:02:28,051 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:02:28,061 - INFO - Processing row 2
+2025-04-07 15:02:28,061 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:02:28,096 - INFO - Found 1 unique vulnerabilities
+2025-04-07 15:02:28,096 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:02:28,097 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:02:28,158 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 15:02:28,159 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-04-07 15:02:28,176 - INFO - Formatting affected resources table for 2 resources
+2025-04-07 15:02:28,177 - INFO - Successfully formatted affected resources
+2025-04-07 15:02:28,181 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-04-07 15:02:28,211 - INFO - Document saved successfully as 'output_document.docx'
+2025-04-07 15:02:28,211 - INFO - Document creation process completed successfully
+2025-04-07 15:02:28,212 - INFO - VA report generated successfully
+2025-04-07 15:02:28,231 - INFO - Merging documents
+2025-04-07 15:02:28,829 - INFO - Documents merged successfully
+2025-04-07 15:02:28,830 - INFO - Final report generated successfully
+2025-04-07 15:02:28,942 - INFO - 127.0.0.1 - - [07/Apr/2025 15:02:28] "POST / HTTP/1.1" 200 -
+2025-04-07 15:02:53,067 - INFO - 127.0.0.1 - - [07/Apr/2025 15:02:53] "GET / HTTP/1.1" 200 -

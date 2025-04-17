@@ -1,0 +1,31 @@
+2025-04-07 20:49:22,152 - INFO - Starting web application
+2025-04-07 20:49:22,240 - WARNING -  * Debugger is active!
+2025-04-07 20:49:22,322 - INFO -  * Debugger PIN: 960-943-513
+2025-04-07 20:49:45,208 - INFO - Processing report for Al-Nabooda, External Network
+2025-04-07 20:49:45,210 - INFO - File uploaded: dataset.csv
+2025-04-07 20:49:45,225 - INFO - Validating CSV columns
+2025-04-07 20:49:45,226 - INFO - All required columns found in CSV
+2025-04-07 20:49:46,569 - INFO - Cover page generated successfully
+2025-04-07 20:49:46,570 - INFO - Starting document creation process
+2025-04-07 20:49:46,665 - INFO - Created new document
+2025-04-07 20:49:46,666 - INFO - Setting document font to Helvetica, size 10.5
+2025-04-07 20:49:46,673 - INFO - Document font set successfully
+2025-04-07 20:49:46,673 - INFO - Using CSV file: dataset.csv
+2025-04-07 20:49:46,674 - INFO - Successfully opened CSV file
+2025-04-07 20:49:46,674 - INFO - CSV header read successfully with 13 columns
+2025-04-07 20:49:46,674 - INFO - Validating CSV columns
+2025-04-07 20:49:46,675 - INFO - All required columns found in CSV
+2025-04-07 20:49:46,675 - INFO - Processing row 1
+2025-04-07 20:49:46,675 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 20:49:46,675 - INFO - Processing row 2
+2025-04-07 20:49:46,675 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 20:49:46,675 - INFO - Found 1 unique vulnerabilities
+2025-04-07 20:49:46,676 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 20:49:46,676 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 20:49:46,728 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-04-07 20:49:46,728 - INFO - Appending data for vulnerability ABENBMAR25-1
+2025-04-07 20:49:46,730 - ERROR - Failed to append data for ABENBMAR25-1: 'risk_factor'
+2025-04-07 20:49:46,730 - CRITICAL - Document creation failed: 'risk_factor'
+2025-04-07 20:49:46,731 - ERROR - VA report generation failed
+2025-04-07 20:49:46,793 - INFO - 127.0.0.1 - - [07/Apr/2025 20:49:46] "POST / HTTP/1.1" 200 -
+2025-04-07 20:51:14,303 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\script5.py', reloading

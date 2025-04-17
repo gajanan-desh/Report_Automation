@@ -1,0 +1,9 @@
+2025-04-14 14:33:40,465 - INFO - Starting web application
+2025-04-14 14:33:40,523 - WARNING -  * Debugger is active!
+2025-04-14 14:33:40,535 - INFO -  * Debugger PIN: 962-905-612
+2025-04-14 14:33:43,313 - INFO - 127.0.0.1 - - [14/Apr/2025 14:33:43] "GET / HTTP/1.1" 200 -
+2025-04-14 14:33:44,181 - INFO - 127.0.0.1 - - [14/Apr/2025 14:33:44] "GET / HTTP/1.1" 200 -
+2025-04-14 14:33:46,481 - INFO - 127.0.0.1 - - [14/Apr/2025 14:33:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-14 14:33:57,495 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\script5.py', reloading
+2025-04-14 14:33:57,497 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\script5.py', reloading
+2025-04-14 14:33:57,588 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\script5.py', reloading

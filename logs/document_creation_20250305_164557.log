@@ -1,0 +1,5 @@
+2025-03-05 16:45:58,117 - INFO - Starting web application
+2025-03-05 16:45:58,677 - WARNING -  * Debugger is active!
+2025-03-05 16:45:58,765 - INFO -  * Debugger PIN: 960-943-513
+2025-03-05 16:45:59,045 - INFO - 127.0.0.1 - - [05/Mar/2025 16:45:59] "GET / HTTP/1.1" 200 -
+2025-03-05 16:46:02,721 - INFO - 127.0.0.1 - - [05/Mar/2025 16:46:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

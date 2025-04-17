@@ -1,0 +1,4 @@
+2025-04-16 23:31:04,437 - INFO - Starting web application
+2025-04-16 23:31:04,480 - WARNING -  * Debugger is active!
+2025-04-16 23:31:04,484 - INFO -  * Debugger PIN: 960-943-513
+2025-04-16 23:31:04,925 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\docx\\oxml\\shared.py', reloading

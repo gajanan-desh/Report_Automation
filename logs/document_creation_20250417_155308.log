@@ -1,0 +1,23 @@
+2025-04-17 15:53:10,197 - INFO - Starting web application
+2025-04-17 15:53:10,514 - WARNING -  * Debugger is active!
+2025-04-17 15:53:10,526 - INFO -  * Debugger PIN: 960-943-513
+2025-04-17 15:53:11,366 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\docopt.py', reloading
+2025-04-17 15:53:11,367 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\docopt.py', reloading
+2025-04-17 15:53:11,432 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\__about__.py', reloading
+2025-04-17 15:53:11,435 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\__about__.py', reloading
+2025-04-17 15:53:11,437 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\__init__.py', reloading
+2025-04-17 15:53:11,440 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\__init__.py', reloading
+2025-04-17 15:53:11,444 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\client.py', reloading
+2025-04-17 15:53:11,445 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\client.py', reloading
+2025-04-17 15:53:11,446 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\exceptions.py', reloading
+2025-04-17 15:53:11,447 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\exceptions.py', reloading
+2025-04-17 15:53:11,451 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\package.py', reloading
+2025-04-17 15:53:11,452 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\package.py', reloading
+2025-04-17 15:53:11,457 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\parse.py', reloading
+2025-04-17 15:53:11,458 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\parse.py', reloading
+2025-04-17 15:53:11,460 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\release.py', reloading
+2025-04-17 15:53:11,461 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yarg\\release.py', reloading
+2025-04-17 15:53:11,618 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pipreqs\\__init__.py', reloading
+2025-04-17 15:53:11,619 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pipreqs\\__init__.py', reloading
+2025-04-17 15:53:11,622 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pipreqs\\pipreqs.py', reloading
+2025-04-17 15:53:11,623 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pipreqs\\pipreqs.py', reloading

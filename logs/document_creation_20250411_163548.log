@@ -1,0 +1,6 @@
+2025-04-11 16:35:49,102 - INFO - Starting web application
+2025-04-11 16:35:49,135 - WARNING -  * Debugger is active!
+2025-04-11 16:35:49,152 - INFO -  * Debugger PIN: 962-905-612
+2025-04-11 16:35:52,017 - INFO - 127.0.0.1 - - [11/Apr/2025 16:35:52] "GET / HTTP/1.1" 200 -
+2025-04-11 16:35:54,288 - INFO - 127.0.0.1 - - [11/Apr/2025 16:35:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-11 16:42:04,780 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\flask\\helpers.py', reloading

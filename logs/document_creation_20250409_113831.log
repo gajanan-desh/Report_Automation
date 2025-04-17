@@ -1,0 +1,8 @@
+2025-04-09 11:38:42,785 - INFO - Starting web application
+2025-04-09 11:38:43,524 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-09 11:38:43,525 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 11:38:43,548 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-09 13:13:24,561 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-09 13:31:02,412 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-09 13:58:07,820 - INFO -  * Restarting with watchdog (windowsapi)

@@ -1,0 +1,1442 @@
+2025-02-28 17:28:09,212 - INFO - Starting web application
+2025-02-28 17:28:09,267 - WARNING -  * Debugger is active!
+2025-02-28 17:28:09,278 - INFO -  * Debugger PIN: 960-943-513
+2025-02-28 17:28:17,832 - INFO - 127.0.0.1 - - [28/Feb/2025 17:28:17] "GET / HTTP/1.1" 200 -
+2025-02-28 17:28:18,877 - INFO - 127.0.0.1 - - [28/Feb/2025 17:28:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-28 17:28:29,652 - INFO - File uploaded: dataset.csv
+2025-02-28 17:28:29,661 - INFO - Validating CSV columns
+2025-02-28 17:28:29,668 - INFO - All required columns found in CSV
+2025-02-28 17:28:29,672 - INFO - Starting document creation process
+2025-02-28 17:28:29,728 - INFO - Created new document
+2025-02-28 17:28:29,732 - INFO - Setting document font to Helvetica, size 10.5
+2025-02-28 17:28:29,735 - INFO - Document font set successfully
+2025-02-28 17:28:29,740 - INFO - Added document title
+2025-02-28 17:28:29,741 - INFO - Using CSV file: dataset.csv
+2025-02-28 17:28:29,742 - INFO - Successfully opened CSV file
+2025-02-28 17:28:29,742 - INFO - CSV header read successfully with 13 columns
+2025-02-28 17:28:29,742 - INFO - Validating CSV columns
+2025-02-28 17:28:29,743 - INFO - All required columns found in CSV
+2025-02-28 17:28:29,744 - INFO - Processing row 1
+2025-02-28 17:28:29,744 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:28:29,745 - INFO - Processing row 2
+2025-02-28 17:28:29,745 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:28:29,745 - INFO - Found 1 unique vulnerabilities
+2025-02-28 17:28:29,745 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:28:29,747 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:28:29,826 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:28:29,827 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-02-28 17:28:29,830 - INFO - Formatting affected resources table for 2 resources
+2025-02-28 17:28:29,834 - INFO - Successfully formatted affected resources
+2025-02-28 17:28:29,861 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-02-28 17:28:29,894 - INFO - Document saved successfully as 'output_document.docx'
+2025-02-28 17:28:29,895 - INFO - Document creation process completed successfully
+2025-02-28 17:28:29,898 - INFO - Document generated successfully
+2025-02-28 17:28:29,981 - INFO - 127.0.0.1 - - [28/Feb/2025 17:28:29] "POST / HTTP/1.1" 200 -
+2025-02-28 17:35:11,318 - INFO - 127.0.0.1 - - [28/Feb/2025 17:35:11] "GET / HTTP/1.1" 200 -
+2025-02-28 17:35:57,191 - INFO - File uploaded: dataset.csv
+2025-02-28 17:35:57,199 - INFO - Validating CSV columns
+2025-02-28 17:35:57,200 - INFO - All required columns found in CSV
+2025-02-28 17:35:57,211 - INFO - Starting document creation process
+2025-02-28 17:35:57,296 - INFO - Created new document
+2025-02-28 17:35:57,297 - INFO - Setting document font to Helvetica, size 10.5
+2025-02-28 17:35:57,309 - INFO - Document font set successfully
+2025-02-28 17:35:57,315 - INFO - Added document title
+2025-02-28 17:35:57,316 - INFO - Using CSV file: dataset.csv
+2025-02-28 17:35:57,317 - INFO - Successfully opened CSV file
+2025-02-28 17:35:57,318 - INFO - CSV header read successfully with 13 columns
+2025-02-28 17:35:57,319 - INFO - Validating CSV columns
+2025-02-28 17:35:57,319 - INFO - All required columns found in CSV
+2025-02-28 17:35:57,319 - INFO - Processing row 1
+2025-02-28 17:35:57,320 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:35:57,320 - INFO - Processing row 2
+2025-02-28 17:35:57,320 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:35:57,321 - INFO - Found 1 unique vulnerabilities
+2025-02-28 17:35:57,321 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:35:57,325 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:35:57,407 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-02-28 17:35:57,408 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-02-28 17:35:57,412 - INFO - Formatting affected resources table for 2 resources
+2025-02-28 17:35:57,414 - INFO - Successfully formatted affected resources
+2025-02-28 17:35:57,418 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-02-28 17:35:57,461 - INFO - Document saved successfully as 'output_document.docx'
+2025-02-28 17:35:57,461 - INFO - Document creation process completed successfully
+2025-02-28 17:35:57,463 - INFO - Document generated successfully
+2025-02-28 17:35:57,557 - INFO - 127.0.0.1 - - [28/Feb/2025 17:35:57] "POST / HTTP/1.1" 200 -
+2025-02-28 17:36:53,551 - INFO - 127.0.0.1 - - [28/Feb/2025 17:36:53] "GET / HTTP/1.1" 200 -
+2025-02-28 17:37:46,562 - INFO - 127.0.0.1 - - [28/Feb/2025 17:37:46] "GET / HTTP/1.1" 200 -
+2025-02-28 17:39:28,491 - INFO - File uploaded: dataset1.csv
+2025-02-28 17:39:28,788 - INFO - Validating CSV columns
+2025-02-28 17:39:28,789 - INFO - All required columns found in CSV
+2025-02-28 17:39:28,795 - ERROR - Exception during file processing
+Traceback (most recent call last):
+  File "E:\Report Automation Project\webapp.py", line 76, in index
+    os.rename(filepath, dataset_path)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\admin\\AppData\\Local\\Temp\\tmpn2f0gfnu\\dataset1.csv' -> 'C:\\Users\\admin\\AppData\\Local\\Temp\\tmpn2f0gfnu\\dataset.csv'
+2025-02-28 17:39:28,863 - INFO - 127.0.0.1 - - [28/Feb/2025 17:39:28] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-02-28 17:39:28,911 - INFO - 127.0.0.1 - - [28/Feb/2025 17:39:28] "GET / HTTP/1.1" 200 -
+2025-02-28 17:39:58,326 - INFO - File uploaded: dataset.csv
+2025-02-28 17:39:58,412 - INFO - Validating CSV columns
+2025-02-28 17:39:58,412 - INFO - All required columns found in CSV
+2025-02-28 17:39:58,420 - INFO - Starting document creation process
+2025-02-28 17:39:58,589 - INFO - Created new document
+2025-02-28 17:39:58,591 - INFO - Setting document font to Helvetica, size 10.5
+2025-02-28 17:39:58,604 - INFO - Document font set successfully
+2025-02-28 17:39:58,613 - INFO - Added document title
+2025-02-28 17:39:58,613 - INFO - Using CSV file: dataset.csv
+2025-02-28 17:39:58,614 - INFO - Successfully opened CSV file
+2025-02-28 17:39:58,615 - INFO - CSV header read successfully with 27 columns
+2025-02-28 17:39:58,618 - INFO - Validating CSV columns
+2025-02-28 17:39:58,619 - INFO - All required columns found in CSV
+2025-02-28 17:39:58,626 - INFO - Processing row 1
+2025-02-28 17:39:58,628 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:58,629 - INFO - Processing row 2
+2025-02-28 17:39:58,631 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:58,635 - INFO - Processing row 3
+2025-02-28 17:39:58,641 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:58,645 - INFO - Processing row 4
+2025-02-28 17:39:58,654 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:58,662 - INFO - Processing row 5
+2025-02-28 17:39:58,665 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:58,669 - INFO - Processing row 6
+2025-02-28 17:39:58,670 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:58,673 - INFO - Processing row 7
+2025-02-28 17:39:58,676 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:58,678 - INFO - Processing row 8
+2025-02-28 17:39:58,680 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,053 - INFO - Processing row 9
+2025-02-28 17:39:59,054 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,054 - INFO - Processing row 10
+2025-02-28 17:39:59,056 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,057 - INFO - Processing row 11
+2025-02-28 17:39:59,057 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,058 - INFO - Processing row 12
+2025-02-28 17:39:59,060 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,063 - INFO - Processing row 13
+2025-02-28 17:39:59,077 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,110 - INFO - Processing row 14
+2025-02-28 17:39:59,124 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,137 - INFO - Processing row 15
+2025-02-28 17:39:59,138 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,139 - INFO - Processing row 16
+2025-02-28 17:39:59,140 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,141 - INFO - Processing row 17
+2025-02-28 17:39:59,157 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,159 - INFO - Processing row 18
+2025-02-28 17:39:59,160 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,164 - INFO - Processing row 19
+2025-02-28 17:39:59,177 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,181 - INFO - Processing row 20
+2025-02-28 17:39:59,187 - INFO - Successfully processed vulnerability: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,191 - INFO - Processing row 21
+2025-02-28 17:39:59,193 - INFO - Successfully processed vulnerability: Oracle Linux 7 : procps-ng (ELSA-2018-1700)
+2025-02-28 17:39:59,195 - INFO - Processing row 22
+2025-02-28 17:39:59,197 - INFO - Successfully processed vulnerability: Oracle Linux 7 : procps-ng (ELSA-2018-1700)
+2025-02-28 17:39:59,198 - INFO - Processing row 23
+2025-02-28 17:39:59,204 - INFO - Successfully processed vulnerability: Oracle Linux 7 : procps-ng (ELSA-2018-1700)
+2025-02-28 17:39:59,209 - INFO - Processing row 24
+2025-02-28 17:39:59,210 - INFO - Successfully processed vulnerability: Oracle Linux 7 : procps-ng (ELSA-2018-1700)
+2025-02-28 17:39:59,212 - INFO - Processing row 25
+2025-02-28 17:39:59,213 - INFO - Successfully processed vulnerability: Oracle Linux 7 : procps-ng (ELSA-2018-1700)
+2025-02-28 17:39:59,213 - INFO - Processing row 26
+2025-02-28 17:39:59,214 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libcdio (ELSA-2018-3246)
+2025-02-28 17:39:59,215 - INFO - Processing row 27
+2025-02-28 17:39:59,215 - INFO - Successfully processed vulnerability: Oracle Linux 7 : perl (ELSA-2019-0109)
+2025-02-28 17:39:59,229 - INFO - Processing row 28
+2025-02-28 17:39:59,230 - INFO - Successfully processed vulnerability: Oracle Linux 7 : freerdp (ELSA-2019-0697)
+2025-02-28 17:39:59,246 - INFO - Processing row 29
+2025-02-28 17:39:59,246 - INFO - Successfully processed vulnerability: Oracle Linux 7 : wget (ELSA-2019-1228)
+2025-02-28 17:39:59,247 - INFO - Processing row 30
+2025-02-28 17:39:59,253 - INFO - Successfully processed vulnerability: Oracle Linux 7 : python (ELSA-2019-1587)
+2025-02-28 17:39:59,257 - INFO - Processing row 31
+2025-02-28 17:39:59,260 - INFO - Successfully processed vulnerability: Oracle Linux 7 : pango (ELSA-2019-2571)
+2025-02-28 17:39:59,261 - INFO - Processing row 32
+2025-02-28 17:39:59,264 - INFO - Successfully processed vulnerability: Oracle Linux 7 : ppp (ELSA-2020-0630)
+2025-02-28 17:39:59,264 - INFO - Processing row 33
+2025-02-28 17:39:59,265 - INFO - Successfully processed vulnerability: Oracle Linux 7 : curl (ELSA-2020-5562)
+2025-02-28 17:39:59,270 - INFO - Processing row 34
+2025-02-28 17:39:59,273 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libpng (ELSA-2020-3901)
+2025-02-28 17:39:59,274 - INFO - Processing row 35
+2025-02-28 17:39:59,275 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libexif (ELSA-2020-5402)
+2025-02-28 17:39:59,276 - INFO - Processing row 36
+2025-02-28 17:39:59,277 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libX11 (ELSA-2021-3296)
+2025-02-28 17:39:59,278 - INFO - Processing row 37
+2025-02-28 17:39:59,279 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libxml2 (ELSA-2021-3810)
+2025-02-28 17:39:59,279 - INFO - Processing row 38
+2025-02-28 17:39:59,280 - INFO - Successfully processed vulnerability: Apache Log4j 1.x Multiple Vulnerabilities
+2025-02-28 17:39:59,281 - INFO - Processing row 39
+2025-02-28 17:39:59,281 - INFO - Successfully processed vulnerability: Oracle Linux 7 : python (ELSA-2022-5235)
+2025-02-28 17:39:59,290 - INFO - Processing row 40
+2025-02-28 17:39:59,292 - INFO - Successfully processed vulnerability: Oracle Linux 7 : systemd (ELSA-2022-6160)
+2025-02-28 17:39:59,293 - INFO - Processing row 41
+2025-02-28 17:39:59,294 - INFO - Successfully processed vulnerability: Oracle Linux 7 : zlib (ELSA-2023-1095)
+2025-02-28 17:39:59,295 - INFO - Processing row 42
+2025-02-28 17:39:59,295 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libwebp (ELSA-2023-2077)
+2025-02-28 17:39:59,297 - INFO - Processing row 43
+2025-02-28 17:39:59,297 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libssh2 (ELSA-2019-1884)
+2025-02-28 17:39:59,298 - INFO - Processing row 44
+2025-02-28 17:39:59,299 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libexif (ELSA-2020-2549)
+2025-02-28 17:39:59,303 - INFO - Processing row 45
+2025-02-28 17:39:59,304 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libvorbis (ELSA-2018-1058)
+2025-02-28 17:39:59,305 - INFO - Processing row 46
+2025-02-28 17:39:59,306 - INFO - Successfully processed vulnerability: Oracle Linux 7 : flatpak (ELSA-2018-2766)
+2025-02-28 17:39:59,306 - INFO - Processing row 47
+2025-02-28 17:39:59,307 - INFO - Successfully processed vulnerability: Oracle Linux 7 : samba (ELSA-2018-3056)
+2025-02-28 17:39:59,308 - INFO - Processing row 48
+2025-02-28 17:39:59,309 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libmspack (ELSA-2018-3327)
+2025-02-28 17:39:59,310 - INFO - Processing row 49
+2025-02-28 17:39:59,310 - INFO - Successfully processed vulnerability: Oracle Linux 7 : NetworkManager (ELSA-2018-3665)
+2025-02-28 17:39:59,311 - INFO - Processing row 50
+2025-02-28 17:39:59,312 - INFO - Successfully processed vulnerability: Oracle Linux 7 : ghostscript (ELSA-2019-3888)
+2025-02-28 17:39:59,312 - INFO - Processing row 51
+2025-02-28 17:39:59,313 - INFO - Successfully processed vulnerability: Oracle Linux 7 : nss / nss-softokn / nss-util (ELSA-2019-4190)
+2025-02-28 17:39:59,313 - INFO - Processing row 52
+2025-02-28 17:39:59,314 - INFO - Successfully processed vulnerability: Oracle Linux 7 : sqlite (ELSA-2020-0227)
+2025-02-28 17:39:59,314 - INFO - Processing row 53
+2025-02-28 17:39:59,314 - INFO - Successfully processed vulnerability: Oracle Linux 7 : icu (ELSA-2020-0897)
+2025-02-28 17:39:59,315 - INFO - Processing row 54
+2025-02-28 17:39:59,318 - INFO - Successfully processed vulnerability: Oracle Linux 7 : firefox (ELSA-2020-3253)
+2025-02-28 17:39:59,320 - INFO - Processing row 55
+2025-02-28 17:39:59,321 - INFO - Successfully processed vulnerability: Oracle Linux 7 : cups (ELSA-2020-3864)
+2025-02-28 17:39:59,323 - INFO - Processing row 56
+2025-02-28 17:39:59,324 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libtiff (ELSA-2020-3902)
+2025-02-28 17:39:59,325 - INFO - Processing row 57
+2025-02-28 17:39:59,325 - INFO - Successfully processed vulnerability: Oracle Linux 7 : gd (ELSA-2020-5443)
+2025-02-28 17:39:59,326 - INFO - Processing row 58
+2025-02-28 17:39:59,328 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libsndfile (ELSA-2021-3295)
+2025-02-28 17:39:59,329 - INFO - Processing row 59
+2025-02-28 17:39:59,329 - INFO - Successfully processed vulnerability: Oracle Linux 7 : webkitgtk4 (ELSA-2022-0059)
+2025-02-28 17:39:59,336 - INFO - Processing row 60
+2025-02-28 17:39:59,345 - INFO - Successfully processed vulnerability: Oracle Linux 7 : cyrus-sasl (ELSA-2022-0666)
+2025-02-28 17:39:59,358 - INFO - Processing row 61
+2025-02-28 17:39:59,362 - INFO - Successfully processed vulnerability: Oracle Linux 7 : gzip (ELSA-2022-2191)
+2025-02-28 17:39:59,364 - INFO - Processing row 62
+2025-02-28 17:39:59,365 - INFO - Successfully processed vulnerability: Oracle Linux 7 : xz (ELSA-2022-5052)
+2025-02-28 17:39:59,370 - INFO - Processing row 63
+2025-02-28 17:39:59,371 - INFO - Successfully processed vulnerability: Oracle Linux 7 : krb5 (ELSA-2022-8640)
+2025-02-28 17:39:59,373 - INFO - Processing row 64
+2025-02-28 17:39:59,374 - INFO - Successfully processed vulnerability: Oracle Linux 7 : xorg-x11-server (ELSA-2023-0046)
+2025-02-28 17:39:59,375 - INFO - Processing row 65
+2025-02-28 17:39:59,375 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libXpm (ELSA-2023-0377)
+2025-02-28 17:39:59,375 - INFO - Processing row 66
+2025-02-28 17:39:59,376 - INFO - Successfully processed vulnerability: Oracle Linux 7 : sssd (ELSA-2023-0403)
+2025-02-28 17:39:59,376 - INFO - Processing row 67
+2025-02-28 17:39:59,376 - INFO - Successfully processed vulnerability: Oracle Linux 7 : nss (ELSA-2023-1332)
+2025-02-28 17:39:59,377 - INFO - Processing row 68
+2025-02-28 17:39:59,377 - INFO - Successfully processed vulnerability: Oracle Linux 7 : firefox (ELSA-2023-3137)
+2025-02-28 17:39:59,379 - INFO - Processing row 69
+2025-02-28 17:39:59,379 - INFO - Successfully processed vulnerability: Oracle Linux 7 : firefox (ELSA-2023-3579)
+2025-02-28 17:39:59,381 - INFO - Processing row 70
+2025-02-28 17:39:59,381 - INFO - Successfully processed vulnerability: Oracle Linux 7 / 8 : vim (ELSA-2019-1619)
+2025-02-28 17:39:59,385 - INFO - Processing row 71
+2025-02-28 17:39:59,386 - INFO - Successfully processed vulnerability: Oracle Linux 7 : icedtea-web (ELSA-2019-2003)
+2025-02-28 17:39:59,387 - INFO - Processing row 72
+2025-02-28 17:39:59,389 - INFO - Successfully processed vulnerability: Oracle Linux 7 : bind (ELSA-2020-2344)
+2025-02-28 17:39:59,392 - INFO - Processing row 73
+2025-02-28 17:39:59,394 - INFO - Successfully processed vulnerability: Oracle Linux 7 : perl (ELSA-2021-0343)
+2025-02-28 17:39:59,396 - INFO - Processing row 74
+2025-02-28 17:39:59,397 - INFO - Successfully processed vulnerability: Oracle Linux 7 : java-1.8.0-openjdk (ELSA-2020-2968)
+2025-02-28 17:39:59,398 - INFO - Processing row 75
+2025-02-28 17:39:59,399 - INFO - Successfully processed vulnerability: Oracle Linux 7 : binutils (ELSA-2021-4033)
+2025-02-28 17:39:59,403 - INFO - Processing row 76
+2025-02-28 17:39:59,404 - INFO - Successfully processed vulnerability: Oracle Linux 7 : grub2 (ELSA-2020-5782)
+2025-02-28 17:39:59,405 - INFO - Processing row 77
+2025-02-28 17:39:59,407 - INFO - Successfully processed vulnerability: Oracle Linux 7 : yum-utils (ELSA-2018-2285)
+2025-02-28 17:39:59,408 - INFO - Processing row 78
+2025-02-28 17:39:59,409 - INFO - Successfully processed vulnerability: Oracle Linux 7 : nettle (ELSA-2021-1145)
+2025-02-28 17:39:59,409 - INFO - Processing row 79
+2025-02-28 17:39:59,410 - INFO - Successfully processed vulnerability: Oracle Linux 7 : gupnp (ELSA-2021-2417)
+2025-02-28 17:39:59,410 - INFO - Processing row 80
+2025-02-28 17:39:59,411 - INFO - Successfully processed vulnerability: Oracle Linux 7 : rsyslog (ELSA-2022-4803)
+2025-02-28 17:39:59,411 - INFO - Processing row 81
+2025-02-28 17:39:59,412 - INFO - Successfully processed vulnerability: Oracle Linux 7 : expat (ELSA-2022-6834)
+2025-02-28 17:39:59,412 - INFO - Processing row 82
+2025-02-28 17:39:59,413 - INFO - Successfully processed vulnerability: Oracle Linux 7 : samba (ELSA-2023-1090)
+2025-02-28 17:39:59,413 - INFO - Processing row 83
+2025-02-28 17:39:59,414 - INFO - Successfully processed vulnerability: Oracle Linux 7 : binutils (ELSA-2018-3032)
+2025-02-28 17:39:59,415 - INFO - Processing row 84
+2025-02-28 17:39:59,419 - INFO - Successfully processed vulnerability: Oracle Linux 7 : curl (ELSA-2020-5002)
+2025-02-28 17:39:59,421 - INFO - Processing row 85
+2025-02-28 17:39:59,422 - INFO - Successfully processed vulnerability: Oracle Linux 7 : net-snmp (ELSA-2020-5350)
+2025-02-28 17:39:59,424 - INFO - Processing row 86
+2025-02-28 17:39:59,425 - INFO - Successfully processed vulnerability: Oracle Linux 7 : sudo (ELSA-2021-0221)
+2025-02-28 17:39:59,427 - INFO - Processing row 87
+2025-02-28 17:39:59,429 - INFO - Successfully processed vulnerability: Oracle Linux 6 / 7 : Unbreakable Enterprise kernel (ELSA-2021-9395)
+2025-02-28 17:39:59,430 - INFO - Processing row 88
+2025-02-28 17:39:59,430 - INFO - Successfully processed vulnerability: Oracle Linux 7 : Unbreakable Enterprise kernel (ELSA-2022-9014)
+2025-02-28 17:39:59,431 - INFO - Processing row 89
+2025-02-28 17:39:59,432 - INFO - Successfully processed vulnerability: Oracle Linux 7 : polkit (ELSA-2022-0274)
+2025-02-28 17:39:59,438 - INFO - Processing row 90
+2025-02-28 17:39:59,440 - INFO - Successfully processed vulnerability: Oracle Linux 7 : device-mapper-multipath (ELSA-2022-7186)
+2025-02-28 17:39:59,441 - INFO - Processing row 91
+2025-02-28 17:39:59,441 - INFO - Successfully processed vulnerability: Oracle Linux 7 : sudo (ELSA-2023-0291)
+2025-02-28 17:39:59,442 - INFO - Processing row 92
+2025-02-28 17:39:59,443 - INFO - Successfully processed vulnerability: Oracle Linux 7 : tigervnc / and / xorg-x11-server (ELSA-2023-1594)
+2025-02-28 17:39:59,443 - INFO - Processing row 93
+2025-02-28 17:39:59,444 - INFO - Successfully processed vulnerability: Oracle Java SE Multiple Vulnerabilities (April 2023 CPU)
+2025-02-28 17:39:59,445 - INFO - Processing row 94
+2025-02-28 17:39:59,445 - INFO - Successfully processed vulnerability: Oracle Linux 7 : qemu (ELSA-2023-12368)
+2025-02-28 17:39:59,446 - INFO - Processing row 95
+2025-02-28 17:39:59,446 - INFO - Successfully processed vulnerability: Oracle Linux 7 : emacs (ELSA-2023-3481)
+2025-02-28 17:39:59,447 - INFO - Processing row 96
+2025-02-28 17:39:59,447 - INFO - Successfully processed vulnerability: Oracle Linux 7 : Unbreakable Enterprise kernel (ELSA-2023-12566)
+2025-02-28 17:39:59,448 - INFO - Processing row 97
+2025-02-28 17:39:59,448 - INFO - Successfully processed vulnerability: Oracle Linux 7 : mariadb (ELSA-2018-2439)
+2025-02-28 17:39:59,452 - INFO - Processing row 98
+2025-02-28 17:39:59,453 - INFO - Successfully processed vulnerability: Oracle Linux 7 : dhcp (ELSA-2018-1453)
+2025-02-28 17:39:59,454 - INFO - Processing row 99
+2025-02-28 17:39:59,455 - INFO - Successfully processed vulnerability: Oracle Linux 7 : gnupg2 (ELSA-2018-2181)
+2025-02-28 17:39:59,456 - INFO - Processing row 100
+2025-02-28 17:39:59,457 - INFO - Successfully processed vulnerability: Oracle Linux 7 : sssd (ELSA-2018-3158)
+2025-02-28 17:39:59,457 - INFO - Processing row 101
+2025-02-28 17:39:59,458 - INFO - Successfully processed vulnerability: Oracle Linux 7 : glusterfs (ELSA-2018-3242)
+2025-02-28 17:39:59,459 - INFO - Processing row 102
+2025-02-28 17:39:59,459 - INFO - Successfully processed vulnerability: Oracle Linux 7 : jasper (ELSA-2018-3253)
+2025-02-28 17:39:59,460 - INFO - Processing row 103
+2025-02-28 17:39:59,460 - INFO - Successfully processed vulnerability: Oracle Linux 7 : spice (ELSA-2019-0231)
+2025-02-28 17:39:59,461 - INFO - Processing row 104
+2025-02-28 17:39:59,461 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libarchive (ELSA-2020-0203)
+2025-02-28 17:39:59,462 - INFO - Processing row 105
+2025-02-28 17:39:59,462 - INFO - Successfully processed vulnerability: Oracle Linux 7 : unbound (ELSA-2020-2642)
+2025-02-28 17:39:59,463 - INFO - Processing row 106
+2025-02-28 17:39:59,464 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libvpx (ELSA-2020-3876)
+2025-02-28 17:39:59,464 - INFO - Processing row 107
+2025-02-28 17:39:59,465 - INFO - Successfully processed vulnerability: Oracle Linux 7 : wpa_supplicant (ELSA-2021-0808)
+2025-02-28 17:39:59,469 - INFO - Processing row 108
+2025-02-28 17:39:59,470 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libldb (ELSA-2021-1072)
+2025-02-28 17:39:59,471 - INFO - Processing row 109
+2025-02-28 17:39:59,472 - INFO - Successfully processed vulnerability: Oracle Linux 7 : glib2 (ELSA-2021-2147)
+2025-02-28 17:39:59,472 - INFO - Processing row 110
+2025-02-28 17:39:59,473 - INFO - Successfully processed vulnerability: Oracle Linux 7 : openldap (ELSA-2022-0621)
+2025-02-28 17:39:59,475 - INFO - Processing row 111
+2025-02-28 17:39:59,476 - INFO - Successfully processed vulnerability: Oracle Linux 7 : ntp (ELSA-2020-2663)
+2025-02-28 17:39:59,478 - INFO - Processing row 112
+2025-02-28 17:39:59,478 - INFO - Successfully processed vulnerability: Oracle Linux 7 : dhcp (ELSA-2021-2357)
+2025-02-28 17:39:59,479 - INFO - Processing row 113
+2025-02-28 17:39:59,480 - INFO - Successfully processed vulnerability: Oracle Linux 7 : rsync (ELSA-2022-6170)
+2025-02-28 17:39:59,480 - INFO - Processing row 114
+2025-02-28 17:39:59,481 - INFO - Successfully processed vulnerability: Oracle Linux 7 : openssl (ELSA-2023-1335)
+2025-02-28 17:39:59,482 - INFO - Processing row 115
+2025-02-28 17:39:59,487 - INFO - Successfully processed vulnerability: Oracle Linux 7 : java-1.8.0-openjdk (ELSA-2023-1904)
+2025-02-28 17:39:59,488 - INFO - Processing row 116
+2025-02-28 17:39:59,488 - INFO - Successfully processed vulnerability: Oracle Linux 7 : cpio (ELSA-2020-3908)
+2025-02-28 17:39:59,489 - INFO - Processing row 117
+2025-02-28 17:39:59,490 - INFO - Successfully processed vulnerability: Oracle Linux 7 : dbus (ELSA-2020-4032)
+2025-02-28 17:39:59,492 - INFO - Processing row 118
+2025-02-28 17:39:59,493 - INFO - Successfully processed vulnerability: Oracle Linux 7 : bluez (ELSA-2020-4001)
+2025-02-28 17:39:59,495 - INFO - Processing row 119
+2025-02-28 17:39:59,498 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libcroco (ELSA-2020-4072)
+2025-02-28 17:39:59,503 - INFO - Processing row 120
+2025-02-28 17:39:59,504 - INFO - Successfully processed vulnerability: Oracle Linux 7 : rpm (ELSA-2021-4785)
+2025-02-28 17:39:59,506 - INFO - Processing row 121
+2025-02-28 17:39:59,509 - INFO - Successfully processed vulnerability: Oracle Linux 7 : openssh (ELSA-2021-4782)
+2025-02-28 17:39:59,514 - INFO - Processing row 122
+2025-02-28 17:39:59,515 - INFO - Successfully processed vulnerability: Oracle Linux 7 : grub2 (ELSA-2022-9469)
+2025-02-28 17:39:59,519 - INFO - Processing row 123
+2025-02-28 17:39:59,521 - INFO - Successfully processed vulnerability: Oracle Linux 7 : bind (ELSA-2023-0402)
+2025-02-28 17:39:59,522 - INFO - Processing row 124
+2025-02-28 17:39:59,525 - INFO - Successfully processed vulnerability: Oracle Linux 7 : e2fsprogs (ELSA-2020-4011)
+2025-02-28 17:39:59,527 - INFO - Processing row 125
+2025-02-28 17:39:59,530 - INFO - Successfully processed vulnerability: Oracle Linux 7 : xorg-x11-server (ELSA-2018-3410)
+2025-02-28 17:39:59,538 - INFO - Processing row 126
+2025-02-28 17:39:59,542 - INFO - Successfully processed vulnerability: Oracle Linux 7 : spice / and / spice-gtk (ELSA-2020-4187)
+2025-02-28 17:39:59,545 - INFO - Processing row 127
+2025-02-28 17:39:59,549 - INFO - Successfully processed vulnerability: Oracle Linux 7 : wpa_supplicant (ELSA-2018-3107)
+2025-02-28 17:39:59,560 - INFO - Processing row 128
+2025-02-28 17:39:59,564 - INFO - Successfully processed vulnerability: Oracle Linux 7 : hunspell (ELSA-2020-3971)
+2025-02-28 17:39:59,570 - INFO - Processing row 129
+2025-02-28 17:39:59,574 - INFO - Successfully processed vulnerability: Oracle Linux 7 : freetype (ELSA-2020-4907)
+2025-02-28 17:39:59,575 - INFO - Processing row 130
+2025-02-28 17:39:59,578 - INFO - Successfully processed vulnerability: Oracle Linux 7 : shim-signed (ELSA-2022-9466)
+2025-02-28 17:39:59,579 - INFO - Processing row 131
+2025-02-28 17:39:59,580 - INFO - Successfully processed vulnerability: Oracle Linux 7 : gnutls (ELSA-2018-3050)
+2025-02-28 17:39:59,585 - INFO - Processing row 132
+2025-02-28 17:39:59,590 - INFO - Successfully processed vulnerability: Oracle Linux 7 : qemu-kvm (ELSA-2020-1208)
+2025-02-28 17:39:59,592 - INFO - Processing row 133
+2025-02-28 17:39:59,593 - INFO - Successfully processed vulnerability: Oracle Linux 7 : PackageKit (ELSA-2018-1224)
+2025-02-28 17:39:59,596 - INFO - Processing row 134
+2025-02-28 17:39:59,603 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libvirt (ELSA-2018-1997) (Spectre)
+2025-02-28 17:39:59,606 - INFO - Processing row 135
+2025-02-28 17:39:59,611 - INFO - Successfully processed vulnerability: Oracle Linux 7 : systemd (ELSA-2019-0368)
+2025-02-28 17:39:59,628 - INFO - Processing row 136
+2025-02-28 17:39:59,648 - INFO - Successfully processed vulnerability: Oracle Linux 7 : tcpdump (ELSA-2019-3976)
+2025-02-28 17:39:59,670 - INFO - Processing row 137
+2025-02-28 17:39:59,688 - INFO - Successfully processed vulnerability: Oracle Linux 7 : microcode_ctl (ELSA-2020-2432)
+2025-02-28 17:39:59,695 - INFO - Processing row 138
+2025-02-28 17:39:59,711 - INFO - Successfully processed vulnerability: Oracle Linux 7 : dbus (ELSA-2020-2894)
+2025-02-28 17:39:59,715 - INFO - Processing row 139
+2025-02-28 17:39:59,723 - INFO - Successfully processed vulnerability: Oracle Linux 7 : libmspack (ELSA-2020-3848)
+2025-02-28 17:39:59,726 - INFO - Processing row 140
+2025-02-28 17:39:59,727 - INFO - Successfully processed vulnerability: Oracle Linux 7 : microcode_ctl (ELSA-2022-9507)
+2025-02-28 17:39:59,744 - INFO - Processing row 141
+2025-02-28 17:39:59,756 - INFO - Successfully processed vulnerability: Oracle Linux 7 : setup (ELSA-2018-3249)
+2025-02-28 17:39:59,761 - INFO - Processing row 142
+2025-02-28 17:39:59,765 - INFO - Successfully processed vulnerability: Oracle Linux 7 : qt / and / qt5-qtbase (ELSA-2020-5021)
+2025-02-28 17:39:59,769 - INFO - Processing row 143
+2025-02-28 17:39:59,771 - INFO - Successfully processed vulnerability: Oracle Linux 7 : krb5 (ELSA-2018-3071)
+2025-02-28 17:39:59,775 - INFO - Processing row 144
+2025-02-28 17:39:59,778 - INFO - Successfully processed vulnerability: Oracle Linux 7 : openssl (ELSA-2019-0483)
+2025-02-28 17:39:59,780 - INFO - Processing row 145
+2025-02-28 17:39:59,782 - INFO - Successfully processed vulnerability: Oracle Linux 7 : NetworkManager (ELSA-2020-4003)
+2025-02-28 17:39:59,789 - INFO - Processing row 146
+2025-02-28 17:39:59,790 - INFO - Successfully processed vulnerability: Oracle Linux 7 : qemu-kvm (ELSA-2021-2322)
+2025-02-28 17:39:59,792 - INFO - Processing row 147
+2025-02-28 17:39:59,794 - INFO - Successfully processed vulnerability: Oracle Linux 7 : dnsmasq (ELSA-2021-0153)
+2025-02-28 17:39:59,796 - INFO - Processing row 148
+2025-02-28 17:39:59,805 - INFO - Successfully processed vulnerability: SSH Weak Key Exchange Algorithms Enabled
+2025-02-28 17:39:59,809 - INFO - Processing row 149
+2025-02-28 17:39:59,814 - INFO - Successfully processed vulnerability: Network daemons not managed by the package system
+2025-02-28 17:39:59,822 - INFO - Processing row 150
+2025-02-28 17:39:59,835 - INFO - Successfully processed vulnerability: mDNS Detection (Remote Network)
+2025-02-28 17:39:59,837 - INFO - Processing row 151
+2025-02-28 17:39:59,840 - INFO - Successfully processed vulnerability: Oracle Database Unsupported Version Detection
+2025-02-28 17:39:59,843 - INFO - Processing row 152
+2025-02-28 17:39:59,845 - INFO - Successfully processed vulnerability: SSH Server CBC Mode Ciphers Enabled
+2025-02-28 17:39:59,846 - INFO - Processing row 153
+2025-02-28 17:39:59,846 - INFO - Successfully processed vulnerability: Oracle Linux 7 : microcode_ctl (ELSA-2019-4867)
+2025-02-28 17:39:59,847 - INFO - Found 130 unique vulnerabilities
+2025-02-28 17:39:59,848 - INFO - Creating table for vulnerability 1: Apache Log4j Unsupported Version Detection
+2025-02-28 17:39:59,855 - INFO - Creating table with heading: 1. Apache Log4j Unsupported Version Detection
+2025-02-28 17:40:00,208 - INFO - Table created successfully for heading: 1. Apache Log4j Unsupported Version Detection
+2025-02-28 17:40:00,276 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:00,278 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-02-28 17:40:00,357 - INFO - Formatting affected resources table for 20 resources
+2025-02-28 17:40:00,370 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:00,378 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-02-28 17:40:00,379 - INFO - Creating table for vulnerability 2: Oracle Linux 7 : procps-ng (ELSA-2018-1700)
+2025-02-28 17:40:00,388 - INFO - Creating table with heading: 2. Oracle Linux 7 : procps-ng (ELSA-2018-1700)
+2025-02-28 17:40:00,690 - INFO - Table created successfully for heading: 2. Oracle Linux 7 : procps-ng (ELSA-2018-1700)
+2025-02-28 17:40:00,692 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:00,705 - INFO - Appending data for vulnerability ABCXYZ-2
+2025-02-28 17:40:00,728 - INFO - Formatting affected resources table for 5 resources
+2025-02-28 17:40:00,758 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:00,805 - INFO - Successfully appended data for vulnerability ABCXYZ-2
+2025-02-28 17:40:00,812 - INFO - Creating table for vulnerability 3: Oracle Linux 7 : libcdio (ELSA-2018-3246)
+2025-02-28 17:40:00,828 - INFO - Creating table with heading: 3. Oracle Linux 7 : libcdio (ELSA-2018-3246)
+2025-02-28 17:40:00,987 - INFO - Table created successfully for heading: 3. Oracle Linux 7 : libcdio (ELSA-2018-3246)
+2025-02-28 17:40:00,989 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:00,990 - INFO - Appending data for vulnerability ABCXYZ-3
+2025-02-28 17:40:01,006 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:01,011 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:01,024 - INFO - Successfully appended data for vulnerability ABCXYZ-3
+2025-02-28 17:40:01,025 - INFO - Creating table for vulnerability 4: Oracle Linux 7 : perl (ELSA-2019-0109)
+2025-02-28 17:40:01,025 - INFO - Creating table with heading: 4. Oracle Linux 7 : perl (ELSA-2019-0109)
+2025-02-28 17:40:01,120 - INFO - Table created successfully for heading: 4. Oracle Linux 7 : perl (ELSA-2019-0109)
+2025-02-28 17:40:01,128 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:01,130 - INFO - Appending data for vulnerability ABCXYZ-4
+2025-02-28 17:40:01,146 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:01,147 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:01,160 - INFO - Successfully appended data for vulnerability ABCXYZ-4
+2025-02-28 17:40:01,161 - INFO - Creating table for vulnerability 5: Oracle Linux 7 : freerdp (ELSA-2019-0697)
+2025-02-28 17:40:01,161 - INFO - Creating table with heading: 5. Oracle Linux 7 : freerdp (ELSA-2019-0697)
+2025-02-28 17:40:01,257 - INFO - Table created successfully for heading: 5. Oracle Linux 7 : freerdp (ELSA-2019-0697)
+2025-02-28 17:40:01,258 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:01,259 - INFO - Appending data for vulnerability ABCXYZ-5
+2025-02-28 17:40:01,262 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:01,265 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:01,295 - INFO - Successfully appended data for vulnerability ABCXYZ-5
+2025-02-28 17:40:01,296 - INFO - Creating table for vulnerability 6: Oracle Linux 7 : wget (ELSA-2019-1228)
+2025-02-28 17:40:01,297 - INFO - Creating table with heading: 6. Oracle Linux 7 : wget (ELSA-2019-1228)
+2025-02-28 17:40:01,428 - INFO - Table created successfully for heading: 6. Oracle Linux 7 : wget (ELSA-2019-1228)
+2025-02-28 17:40:01,429 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:01,430 - INFO - Appending data for vulnerability ABCXYZ-6
+2025-02-28 17:40:01,437 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:01,526 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:01,529 - INFO - Successfully appended data for vulnerability ABCXYZ-6
+2025-02-28 17:40:01,529 - INFO - Creating table for vulnerability 7: Oracle Linux 7 : python (ELSA-2019-1587)
+2025-02-28 17:40:01,530 - INFO - Creating table with heading: 7. Oracle Linux 7 : python (ELSA-2019-1587)
+2025-02-28 17:40:01,621 - INFO - Table created successfully for heading: 7. Oracle Linux 7 : python (ELSA-2019-1587)
+2025-02-28 17:40:01,622 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:01,623 - INFO - Appending data for vulnerability ABCXYZ-7
+2025-02-28 17:40:01,626 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:01,627 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:01,632 - INFO - Successfully appended data for vulnerability ABCXYZ-7
+2025-02-28 17:40:01,635 - INFO - Creating table for vulnerability 8: Oracle Linux 7 : pango (ELSA-2019-2571)
+2025-02-28 17:40:01,636 - INFO - Creating table with heading: 8. Oracle Linux 7 : pango (ELSA-2019-2571)
+2025-02-28 17:40:01,743 - INFO - Table created successfully for heading: 8. Oracle Linux 7 : pango (ELSA-2019-2571)
+2025-02-28 17:40:01,744 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:01,744 - INFO - Appending data for vulnerability ABCXYZ-8
+2025-02-28 17:40:01,747 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:01,749 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:01,757 - INFO - Successfully appended data for vulnerability ABCXYZ-8
+2025-02-28 17:40:01,758 - INFO - Creating table for vulnerability 9: Oracle Linux 7 : ppp (ELSA-2020-0630)
+2025-02-28 17:40:01,759 - INFO - Creating table with heading: 9. Oracle Linux 7 : ppp (ELSA-2020-0630)
+2025-02-28 17:40:01,856 - INFO - Table created successfully for heading: 9. Oracle Linux 7 : ppp (ELSA-2020-0630)
+2025-02-28 17:40:01,857 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:01,858 - INFO - Appending data for vulnerability ABCXYZ-9
+2025-02-28 17:40:01,861 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:01,862 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:01,872 - INFO - Successfully appended data for vulnerability ABCXYZ-9
+2025-02-28 17:40:01,872 - INFO - Creating table for vulnerability 10: Oracle Linux 7 : curl (ELSA-2020-5562)
+2025-02-28 17:40:01,873 - INFO - Creating table with heading: 10. Oracle Linux 7 : curl (ELSA-2020-5562)
+2025-02-28 17:40:01,996 - INFO - Table created successfully for heading: 10. Oracle Linux 7 : curl (ELSA-2020-5562)
+2025-02-28 17:40:01,999 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,002 - INFO - Appending data for vulnerability ABCXYZ-10
+2025-02-28 17:40:02,032 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,038 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,045 - INFO - Successfully appended data for vulnerability ABCXYZ-10
+2025-02-28 17:40:02,046 - INFO - Creating table for vulnerability 11: Oracle Linux 7 : libpng (ELSA-2020-3901)
+2025-02-28 17:40:02,047 - INFO - Creating table with heading: 11. Oracle Linux 7 : libpng (ELSA-2020-3901)
+2025-02-28 17:40:02,145 - INFO - Table created successfully for heading: 11. Oracle Linux 7 : libpng (ELSA-2020-3901)
+2025-02-28 17:40:02,146 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,146 - INFO - Appending data for vulnerability ABCXYZ-11
+2025-02-28 17:40:02,152 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,155 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,160 - INFO - Successfully appended data for vulnerability ABCXYZ-11
+2025-02-28 17:40:02,161 - INFO - Creating table for vulnerability 12: Oracle Linux 7 : libexif (ELSA-2020-5402)
+2025-02-28 17:40:02,162 - INFO - Creating table with heading: 12. Oracle Linux 7 : libexif (ELSA-2020-5402)
+2025-02-28 17:40:02,254 - INFO - Table created successfully for heading: 12. Oracle Linux 7 : libexif (ELSA-2020-5402)
+2025-02-28 17:40:02,258 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,259 - INFO - Appending data for vulnerability ABCXYZ-12
+2025-02-28 17:40:02,261 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,262 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,274 - INFO - Successfully appended data for vulnerability ABCXYZ-12
+2025-02-28 17:40:02,274 - INFO - Creating table for vulnerability 13: Oracle Linux 7 : libX11 (ELSA-2021-3296)
+2025-02-28 17:40:02,275 - INFO - Creating table with heading: 13. Oracle Linux 7 : libX11 (ELSA-2021-3296)
+2025-02-28 17:40:02,360 - INFO - Table created successfully for heading: 13. Oracle Linux 7 : libX11 (ELSA-2021-3296)
+2025-02-28 17:40:02,360 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,361 - INFO - Appending data for vulnerability ABCXYZ-13
+2025-02-28 17:40:02,363 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,364 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,371 - INFO - Successfully appended data for vulnerability ABCXYZ-13
+2025-02-28 17:40:02,372 - INFO - Creating table for vulnerability 14: Oracle Linux 7 : libxml2 (ELSA-2021-3810)
+2025-02-28 17:40:02,372 - INFO - Creating table with heading: 14. Oracle Linux 7 : libxml2 (ELSA-2021-3810)
+2025-02-28 17:40:02,438 - INFO - Table created successfully for heading: 14. Oracle Linux 7 : libxml2 (ELSA-2021-3810)
+2025-02-28 17:40:02,439 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,440 - INFO - Appending data for vulnerability ABCXYZ-14
+2025-02-28 17:40:02,442 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,443 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,456 - INFO - Successfully appended data for vulnerability ABCXYZ-14
+2025-02-28 17:40:02,457 - INFO - Creating table for vulnerability 15: Apache Log4j 1.x Multiple Vulnerabilities
+2025-02-28 17:40:02,457 - INFO - Creating table with heading: 15. Apache Log4j 1.x Multiple Vulnerabilities
+2025-02-28 17:40:02,522 - INFO - Table created successfully for heading: 15. Apache Log4j 1.x Multiple Vulnerabilities
+2025-02-28 17:40:02,523 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,524 - INFO - Appending data for vulnerability ABCXYZ-15
+2025-02-28 17:40:02,526 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,527 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,532 - INFO - Successfully appended data for vulnerability ABCXYZ-15
+2025-02-28 17:40:02,537 - INFO - Creating table for vulnerability 16: Oracle Linux 7 : python (ELSA-2022-5235)
+2025-02-28 17:40:02,540 - INFO - Creating table with heading: 16. Oracle Linux 7 : python (ELSA-2022-5235)
+2025-02-28 17:40:02,614 - INFO - Table created successfully for heading: 16. Oracle Linux 7 : python (ELSA-2022-5235)
+2025-02-28 17:40:02,614 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,615 - INFO - Appending data for vulnerability ABCXYZ-16
+2025-02-28 17:40:02,619 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,620 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,624 - INFO - Successfully appended data for vulnerability ABCXYZ-16
+2025-02-28 17:40:02,624 - INFO - Creating table for vulnerability 17: Oracle Linux 7 : systemd (ELSA-2022-6160)
+2025-02-28 17:40:02,624 - INFO - Creating table with heading: 17. Oracle Linux 7 : systemd (ELSA-2022-6160)
+2025-02-28 17:40:02,696 - INFO - Table created successfully for heading: 17. Oracle Linux 7 : systemd (ELSA-2022-6160)
+2025-02-28 17:40:02,697 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,697 - INFO - Appending data for vulnerability ABCXYZ-17
+2025-02-28 17:40:02,704 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,706 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,710 - INFO - Successfully appended data for vulnerability ABCXYZ-17
+2025-02-28 17:40:02,711 - INFO - Creating table for vulnerability 18: Oracle Linux 7 : zlib (ELSA-2023-1095)
+2025-02-28 17:40:02,711 - INFO - Creating table with heading: 18. Oracle Linux 7 : zlib (ELSA-2023-1095)
+2025-02-28 17:40:02,777 - INFO - Table created successfully for heading: 18. Oracle Linux 7 : zlib (ELSA-2023-1095)
+2025-02-28 17:40:02,779 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,779 - INFO - Appending data for vulnerability ABCXYZ-18
+2025-02-28 17:40:02,789 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,790 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,794 - INFO - Successfully appended data for vulnerability ABCXYZ-18
+2025-02-28 17:40:02,795 - INFO - Creating table for vulnerability 19: Oracle Linux 7 : libwebp (ELSA-2023-2077)
+2025-02-28 17:40:02,795 - INFO - Creating table with heading: 19. Oracle Linux 7 : libwebp (ELSA-2023-2077)
+2025-02-28 17:40:02,859 - INFO - Table created successfully for heading: 19. Oracle Linux 7 : libwebp (ELSA-2023-2077)
+2025-02-28 17:40:02,860 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,860 - INFO - Appending data for vulnerability ABCXYZ-19
+2025-02-28 17:40:02,863 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,864 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,871 - INFO - Successfully appended data for vulnerability ABCXYZ-19
+2025-02-28 17:40:02,872 - INFO - Creating table for vulnerability 20: Oracle Linux 7 : libssh2 (ELSA-2019-1884)
+2025-02-28 17:40:02,873 - INFO - Creating table with heading: 20. Oracle Linux 7 : libssh2 (ELSA-2019-1884)
+2025-02-28 17:40:02,945 - INFO - Table created successfully for heading: 20. Oracle Linux 7 : libssh2 (ELSA-2019-1884)
+2025-02-28 17:40:02,946 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:02,946 - INFO - Appending data for vulnerability ABCXYZ-20
+2025-02-28 17:40:02,949 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:02,952 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:02,959 - INFO - Successfully appended data for vulnerability ABCXYZ-20
+2025-02-28 17:40:02,960 - INFO - Creating table for vulnerability 21: Oracle Linux 7 : libexif (ELSA-2020-2549)
+2025-02-28 17:40:02,960 - INFO - Creating table with heading: 21. Oracle Linux 7 : libexif (ELSA-2020-2549)
+2025-02-28 17:40:03,047 - INFO - Table created successfully for heading: 21. Oracle Linux 7 : libexif (ELSA-2020-2549)
+2025-02-28 17:40:03,048 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:03,049 - INFO - Appending data for vulnerability ABCXYZ-21
+2025-02-28 17:40:03,058 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:03,060 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:03,073 - INFO - Successfully appended data for vulnerability ABCXYZ-21
+2025-02-28 17:40:03,075 - INFO - Creating table for vulnerability 22: Oracle Linux 7 : libvorbis (ELSA-2018-1058)
+2025-02-28 17:40:03,076 - INFO - Creating table with heading: 22. Oracle Linux 7 : libvorbis (ELSA-2018-1058)
+2025-02-28 17:40:03,197 - INFO - Table created successfully for heading: 22. Oracle Linux 7 : libvorbis (ELSA-2018-1058)
+2025-02-28 17:40:03,199 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:03,201 - INFO - Appending data for vulnerability ABCXYZ-22
+2025-02-28 17:40:03,212 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:03,214 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:03,224 - INFO - Successfully appended data for vulnerability ABCXYZ-22
+2025-02-28 17:40:03,226 - INFO - Creating table for vulnerability 23: Oracle Linux 7 : flatpak (ELSA-2018-2766)
+2025-02-28 17:40:03,226 - INFO - Creating table with heading: 23. Oracle Linux 7 : flatpak (ELSA-2018-2766)
+2025-02-28 17:40:03,347 - INFO - Table created successfully for heading: 23. Oracle Linux 7 : flatpak (ELSA-2018-2766)
+2025-02-28 17:40:03,348 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:03,349 - INFO - Appending data for vulnerability ABCXYZ-23
+2025-02-28 17:40:03,354 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:03,356 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:03,364 - INFO - Successfully appended data for vulnerability ABCXYZ-23
+2025-02-28 17:40:03,364 - INFO - Creating table for vulnerability 24: Oracle Linux 7 : samba (ELSA-2018-3056)
+2025-02-28 17:40:03,365 - INFO - Creating table with heading: 24. Oracle Linux 7 : samba (ELSA-2018-3056)
+2025-02-28 17:40:03,442 - INFO - Table created successfully for heading: 24. Oracle Linux 7 : samba (ELSA-2018-3056)
+2025-02-28 17:40:03,443 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:03,443 - INFO - Appending data for vulnerability ABCXYZ-24
+2025-02-28 17:40:03,446 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:03,447 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:03,457 - INFO - Successfully appended data for vulnerability ABCXYZ-24
+2025-02-28 17:40:03,457 - INFO - Creating table for vulnerability 25: Oracle Linux 7 : libmspack (ELSA-2018-3327)
+2025-02-28 17:40:03,457 - INFO - Creating table with heading: 25. Oracle Linux 7 : libmspack (ELSA-2018-3327)
+2025-02-28 17:40:03,531 - INFO - Table created successfully for heading: 25. Oracle Linux 7 : libmspack (ELSA-2018-3327)
+2025-02-28 17:40:03,532 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:03,532 - INFO - Appending data for vulnerability ABCXYZ-25
+2025-02-28 17:40:03,539 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:03,547 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:03,572 - INFO - Successfully appended data for vulnerability ABCXYZ-25
+2025-02-28 17:40:03,573 - INFO - Creating table for vulnerability 26: Oracle Linux 7 : NetworkManager (ELSA-2018-3665)
+2025-02-28 17:40:03,573 - INFO - Creating table with heading: 26. Oracle Linux 7 : NetworkManager (ELSA-2018-3665)
+2025-02-28 17:40:03,659 - INFO - Table created successfully for heading: 26. Oracle Linux 7 : NetworkManager (ELSA-2018-3665)
+2025-02-28 17:40:03,660 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:03,661 - INFO - Appending data for vulnerability ABCXYZ-26
+2025-02-28 17:40:03,664 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:03,671 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:03,678 - INFO - Successfully appended data for vulnerability ABCXYZ-26
+2025-02-28 17:40:03,679 - INFO - Creating table for vulnerability 27: Oracle Linux 7 : ghostscript (ELSA-2019-3888)
+2025-02-28 17:40:03,679 - INFO - Creating table with heading: 27. Oracle Linux 7 : ghostscript (ELSA-2019-3888)
+2025-02-28 17:40:03,778 - INFO - Table created successfully for heading: 27. Oracle Linux 7 : ghostscript (ELSA-2019-3888)
+2025-02-28 17:40:03,780 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:03,780 - INFO - Appending data for vulnerability ABCXYZ-27
+2025-02-28 17:40:03,791 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:03,794 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:03,805 - INFO - Successfully appended data for vulnerability ABCXYZ-27
+2025-02-28 17:40:03,806 - INFO - Creating table for vulnerability 28: Oracle Linux 7 : nss / nss-softokn / nss-util (ELSA-2019-4190)
+2025-02-28 17:40:03,806 - INFO - Creating table with heading: 28. Oracle Linux 7 : nss / nss-softokn / nss-util (ELSA-2019-4190)
+2025-02-28 17:40:03,938 - INFO - Table created successfully for heading: 28. Oracle Linux 7 : nss / nss-softokn / nss-util (ELSA-2019-4190)
+2025-02-28 17:40:03,940 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:03,940 - INFO - Appending data for vulnerability ABCXYZ-28
+2025-02-28 17:40:03,947 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:03,958 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:03,975 - INFO - Successfully appended data for vulnerability ABCXYZ-28
+2025-02-28 17:40:03,975 - INFO - Creating table for vulnerability 29: Oracle Linux 7 : sqlite (ELSA-2020-0227)
+2025-02-28 17:40:03,976 - INFO - Creating table with heading: 29. Oracle Linux 7 : sqlite (ELSA-2020-0227)
+2025-02-28 17:40:04,070 - INFO - Table created successfully for heading: 29. Oracle Linux 7 : sqlite (ELSA-2020-0227)
+2025-02-28 17:40:04,073 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:04,078 - INFO - Appending data for vulnerability ABCXYZ-29
+2025-02-28 17:40:04,096 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:04,108 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:04,115 - INFO - Successfully appended data for vulnerability ABCXYZ-29
+2025-02-28 17:40:04,120 - INFO - Creating table for vulnerability 30: Oracle Linux 7 : icu (ELSA-2020-0897)
+2025-02-28 17:40:04,123 - INFO - Creating table with heading: 30. Oracle Linux 7 : icu (ELSA-2020-0897)
+2025-02-28 17:40:04,398 - INFO - Table created successfully for heading: 30. Oracle Linux 7 : icu (ELSA-2020-0897)
+2025-02-28 17:40:04,410 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:04,412 - INFO - Appending data for vulnerability ABCXYZ-30
+2025-02-28 17:40:04,432 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:04,438 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:04,446 - INFO - Successfully appended data for vulnerability ABCXYZ-30
+2025-02-28 17:40:04,447 - INFO - Creating table for vulnerability 31: Oracle Linux 7 : firefox (ELSA-2020-3253)
+2025-02-28 17:40:04,448 - INFO - Creating table with heading: 31. Oracle Linux 7 : firefox (ELSA-2020-3253)
+2025-02-28 17:40:04,531 - INFO - Table created successfully for heading: 31. Oracle Linux 7 : firefox (ELSA-2020-3253)
+2025-02-28 17:40:04,532 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:04,535 - INFO - Appending data for vulnerability ABCXYZ-31
+2025-02-28 17:40:04,540 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:04,543 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:04,558 - INFO - Successfully appended data for vulnerability ABCXYZ-31
+2025-02-28 17:40:04,559 - INFO - Creating table for vulnerability 32: Oracle Linux 7 : cups (ELSA-2020-3864)
+2025-02-28 17:40:04,559 - INFO - Creating table with heading: 32. Oracle Linux 7 : cups (ELSA-2020-3864)
+2025-02-28 17:40:04,636 - INFO - Table created successfully for heading: 32. Oracle Linux 7 : cups (ELSA-2020-3864)
+2025-02-28 17:40:04,637 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:04,638 - INFO - Appending data for vulnerability ABCXYZ-32
+2025-02-28 17:40:04,643 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:04,646 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:04,676 - INFO - Successfully appended data for vulnerability ABCXYZ-32
+2025-02-28 17:40:04,677 - INFO - Creating table for vulnerability 33: Oracle Linux 7 : libtiff (ELSA-2020-3902)
+2025-02-28 17:40:04,678 - INFO - Creating table with heading: 33. Oracle Linux 7 : libtiff (ELSA-2020-3902)
+2025-02-28 17:40:04,752 - INFO - Table created successfully for heading: 33. Oracle Linux 7 : libtiff (ELSA-2020-3902)
+2025-02-28 17:40:04,754 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:04,754 - INFO - Appending data for vulnerability ABCXYZ-33
+2025-02-28 17:40:04,758 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:04,761 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:04,776 - INFO - Successfully appended data for vulnerability ABCXYZ-33
+2025-02-28 17:40:04,777 - INFO - Creating table for vulnerability 34: Oracle Linux 7 : gd (ELSA-2020-5443)
+2025-02-28 17:40:04,778 - INFO - Creating table with heading: 34. Oracle Linux 7 : gd (ELSA-2020-5443)
+2025-02-28 17:40:04,872 - INFO - Table created successfully for heading: 34. Oracle Linux 7 : gd (ELSA-2020-5443)
+2025-02-28 17:40:04,873 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:04,874 - INFO - Appending data for vulnerability ABCXYZ-34
+2025-02-28 17:40:04,877 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:04,879 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:04,892 - INFO - Successfully appended data for vulnerability ABCXYZ-34
+2025-02-28 17:40:04,893 - INFO - Creating table for vulnerability 35: Oracle Linux 7 : libsndfile (ELSA-2021-3295)
+2025-02-28 17:40:04,893 - INFO - Creating table with heading: 35. Oracle Linux 7 : libsndfile (ELSA-2021-3295)
+2025-02-28 17:40:04,997 - INFO - Table created successfully for heading: 35. Oracle Linux 7 : libsndfile (ELSA-2021-3295)
+2025-02-28 17:40:04,999 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:05,002 - INFO - Appending data for vulnerability ABCXYZ-35
+2025-02-28 17:40:05,009 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:05,013 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:05,035 - INFO - Successfully appended data for vulnerability ABCXYZ-35
+2025-02-28 17:40:05,036 - INFO - Creating table for vulnerability 36: Oracle Linux 7 : webkitgtk4 (ELSA-2022-0059)
+2025-02-28 17:40:05,038 - INFO - Creating table with heading: 36. Oracle Linux 7 : webkitgtk4 (ELSA-2022-0059)
+2025-02-28 17:40:05,123 - INFO - Table created successfully for heading: 36. Oracle Linux 7 : webkitgtk4 (ELSA-2022-0059)
+2025-02-28 17:40:05,125 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:05,126 - INFO - Appending data for vulnerability ABCXYZ-36
+2025-02-28 17:40:05,135 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:05,138 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:05,144 - INFO - Successfully appended data for vulnerability ABCXYZ-36
+2025-02-28 17:40:05,145 - INFO - Creating table for vulnerability 37: Oracle Linux 7 : cyrus-sasl (ELSA-2022-0666)
+2025-02-28 17:40:05,146 - INFO - Creating table with heading: 37. Oracle Linux 7 : cyrus-sasl (ELSA-2022-0666)
+2025-02-28 17:40:05,221 - INFO - Table created successfully for heading: 37. Oracle Linux 7 : cyrus-sasl (ELSA-2022-0666)
+2025-02-28 17:40:05,222 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:05,223 - INFO - Appending data for vulnerability ABCXYZ-37
+2025-02-28 17:40:05,230 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:05,233 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:05,242 - INFO - Successfully appended data for vulnerability ABCXYZ-37
+2025-02-28 17:40:05,243 - INFO - Creating table for vulnerability 38: Oracle Linux 7 : gzip (ELSA-2022-2191)
+2025-02-28 17:40:05,244 - INFO - Creating table with heading: 38. Oracle Linux 7 : gzip (ELSA-2022-2191)
+2025-02-28 17:40:05,330 - INFO - Table created successfully for heading: 38. Oracle Linux 7 : gzip (ELSA-2022-2191)
+2025-02-28 17:40:05,331 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:05,332 - INFO - Appending data for vulnerability ABCXYZ-38
+2025-02-28 17:40:05,337 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:05,339 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:05,347 - INFO - Successfully appended data for vulnerability ABCXYZ-38
+2025-02-28 17:40:05,348 - INFO - Creating table for vulnerability 39: Oracle Linux 7 : xz (ELSA-2022-5052)
+2025-02-28 17:40:05,349 - INFO - Creating table with heading: 39. Oracle Linux 7 : xz (ELSA-2022-5052)
+2025-02-28 17:40:05,498 - INFO - Table created successfully for heading: 39. Oracle Linux 7 : xz (ELSA-2022-5052)
+2025-02-28 17:40:05,506 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:05,511 - INFO - Appending data for vulnerability ABCXYZ-39
+2025-02-28 17:40:05,532 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:05,540 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:05,557 - INFO - Successfully appended data for vulnerability ABCXYZ-39
+2025-02-28 17:40:05,559 - INFO - Creating table for vulnerability 40: Oracle Linux 7 : krb5 (ELSA-2022-8640)
+2025-02-28 17:40:05,560 - INFO - Creating table with heading: 40. Oracle Linux 7 : krb5 (ELSA-2022-8640)
+2025-02-28 17:40:05,652 - INFO - Table created successfully for heading: 40. Oracle Linux 7 : krb5 (ELSA-2022-8640)
+2025-02-28 17:40:05,654 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:05,655 - INFO - Appending data for vulnerability ABCXYZ-40
+2025-02-28 17:40:05,661 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:05,663 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:05,681 - INFO - Successfully appended data for vulnerability ABCXYZ-40
+2025-02-28 17:40:05,682 - INFO - Creating table for vulnerability 41: Oracle Linux 7 : xorg-x11-server (ELSA-2023-0046)
+2025-02-28 17:40:05,682 - INFO - Creating table with heading: 41. Oracle Linux 7 : xorg-x11-server (ELSA-2023-0046)
+2025-02-28 17:40:05,770 - INFO - Table created successfully for heading: 41. Oracle Linux 7 : xorg-x11-server (ELSA-2023-0046)
+2025-02-28 17:40:05,771 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:05,772 - INFO - Appending data for vulnerability ABCXYZ-41
+2025-02-28 17:40:05,776 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:05,778 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:05,791 - INFO - Successfully appended data for vulnerability ABCXYZ-41
+2025-02-28 17:40:05,792 - INFO - Creating table for vulnerability 42: Oracle Linux 7 : libXpm (ELSA-2023-0377)
+2025-02-28 17:40:05,792 - INFO - Creating table with heading: 42. Oracle Linux 7 : libXpm (ELSA-2023-0377)
+2025-02-28 17:40:05,872 - INFO - Table created successfully for heading: 42. Oracle Linux 7 : libXpm (ELSA-2023-0377)
+2025-02-28 17:40:05,873 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:05,874 - INFO - Appending data for vulnerability ABCXYZ-42
+2025-02-28 17:40:05,878 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:05,881 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:05,893 - INFO - Successfully appended data for vulnerability ABCXYZ-42
+2025-02-28 17:40:05,894 - INFO - Creating table for vulnerability 43: Oracle Linux 7 : sssd (ELSA-2023-0403)
+2025-02-28 17:40:05,894 - INFO - Creating table with heading: 43. Oracle Linux 7 : sssd (ELSA-2023-0403)
+2025-02-28 17:40:05,975 - INFO - Table created successfully for heading: 43. Oracle Linux 7 : sssd (ELSA-2023-0403)
+2025-02-28 17:40:05,976 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:05,976 - INFO - Appending data for vulnerability ABCXYZ-43
+2025-02-28 17:40:05,980 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:05,989 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:05,996 - INFO - Successfully appended data for vulnerability ABCXYZ-43
+2025-02-28 17:40:05,996 - INFO - Creating table for vulnerability 44: Oracle Linux 7 : nss (ELSA-2023-1332)
+2025-02-28 17:40:05,996 - INFO - Creating table with heading: 44. Oracle Linux 7 : nss (ELSA-2023-1332)
+2025-02-28 17:40:06,089 - INFO - Table created successfully for heading: 44. Oracle Linux 7 : nss (ELSA-2023-1332)
+2025-02-28 17:40:06,090 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:06,091 - INFO - Appending data for vulnerability ABCXYZ-44
+2025-02-28 17:40:06,096 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:06,098 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:06,110 - INFO - Successfully appended data for vulnerability ABCXYZ-44
+2025-02-28 17:40:06,110 - INFO - Creating table for vulnerability 45: Oracle Linux 7 : firefox (ELSA-2023-3137)
+2025-02-28 17:40:06,111 - INFO - Creating table with heading: 45. Oracle Linux 7 : firefox (ELSA-2023-3137)
+2025-02-28 17:40:06,213 - INFO - Table created successfully for heading: 45. Oracle Linux 7 : firefox (ELSA-2023-3137)
+2025-02-28 17:40:06,215 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:06,218 - INFO - Appending data for vulnerability ABCXYZ-45
+2025-02-28 17:40:06,230 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:06,232 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:06,246 - INFO - Successfully appended data for vulnerability ABCXYZ-45
+2025-02-28 17:40:06,247 - INFO - Creating table for vulnerability 46: Oracle Linux 7 : firefox (ELSA-2023-3579)
+2025-02-28 17:40:06,247 - INFO - Creating table with heading: 46. Oracle Linux 7 : firefox (ELSA-2023-3579)
+2025-02-28 17:40:06,522 - INFO - Table created successfully for heading: 46. Oracle Linux 7 : firefox (ELSA-2023-3579)
+2025-02-28 17:40:06,530 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:06,546 - INFO - Appending data for vulnerability ABCXYZ-46
+2025-02-28 17:40:06,578 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:06,590 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:06,613 - INFO - Successfully appended data for vulnerability ABCXYZ-46
+2025-02-28 17:40:06,615 - INFO - Creating table for vulnerability 47: Oracle Linux 7 / 8 : vim (ELSA-2019-1619)
+2025-02-28 17:40:06,615 - INFO - Creating table with heading: 47. Oracle Linux 7 / 8 : vim (ELSA-2019-1619)
+2025-02-28 17:40:06,761 - INFO - Table created successfully for heading: 47. Oracle Linux 7 / 8 : vim (ELSA-2019-1619)
+2025-02-28 17:40:06,762 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:06,763 - INFO - Appending data for vulnerability ABCXYZ-47
+2025-02-28 17:40:06,771 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:06,775 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:06,782 - INFO - Successfully appended data for vulnerability ABCXYZ-47
+2025-02-28 17:40:06,789 - INFO - Creating table for vulnerability 48: Oracle Linux 7 : icedtea-web (ELSA-2019-2003)
+2025-02-28 17:40:06,791 - INFO - Creating table with heading: 48. Oracle Linux 7 : icedtea-web (ELSA-2019-2003)
+2025-02-28 17:40:06,871 - INFO - Table created successfully for heading: 48. Oracle Linux 7 : icedtea-web (ELSA-2019-2003)
+2025-02-28 17:40:06,872 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:06,873 - INFO - Appending data for vulnerability ABCXYZ-48
+2025-02-28 17:40:06,879 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:06,881 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:06,893 - INFO - Successfully appended data for vulnerability ABCXYZ-48
+2025-02-28 17:40:06,893 - INFO - Creating table for vulnerability 49: Oracle Linux 7 : bind (ELSA-2020-2344)
+2025-02-28 17:40:06,894 - INFO - Creating table with heading: 49. Oracle Linux 7 : bind (ELSA-2020-2344)
+2025-02-28 17:40:06,978 - INFO - Table created successfully for heading: 49. Oracle Linux 7 : bind (ELSA-2020-2344)
+2025-02-28 17:40:06,979 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:06,979 - INFO - Appending data for vulnerability ABCXYZ-49
+2025-02-28 17:40:06,988 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:06,990 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:06,997 - INFO - Successfully appended data for vulnerability ABCXYZ-49
+2025-02-28 17:40:06,997 - INFO - Creating table for vulnerability 50: Oracle Linux 7 : perl (ELSA-2021-0343)
+2025-02-28 17:40:06,998 - INFO - Creating table with heading: 50. Oracle Linux 7 : perl (ELSA-2021-0343)
+2025-02-28 17:40:07,095 - INFO - Table created successfully for heading: 50. Oracle Linux 7 : perl (ELSA-2021-0343)
+2025-02-28 17:40:07,096 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:07,096 - INFO - Appending data for vulnerability ABCXYZ-50
+2025-02-28 17:40:07,104 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:07,107 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:07,122 - INFO - Successfully appended data for vulnerability ABCXYZ-50
+2025-02-28 17:40:07,122 - INFO - Creating table for vulnerability 51: Oracle Linux 7 : java-1.8.0-openjdk (ELSA-2020-2968)
+2025-02-28 17:40:07,123 - INFO - Creating table with heading: 51. Oracle Linux 7 : java-1.8.0-openjdk (ELSA-2020-2968)
+2025-02-28 17:40:07,198 - INFO - Table created successfully for heading: 51. Oracle Linux 7 : java-1.8.0-openjdk (ELSA-2020-2968)
+2025-02-28 17:40:07,199 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:07,202 - INFO - Appending data for vulnerability ABCXYZ-51
+2025-02-28 17:40:07,208 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:07,211 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:07,222 - INFO - Successfully appended data for vulnerability ABCXYZ-51
+2025-02-28 17:40:07,223 - INFO - Creating table for vulnerability 52: Oracle Linux 7 : binutils (ELSA-2021-4033)
+2025-02-28 17:40:07,224 - INFO - Creating table with heading: 52. Oracle Linux 7 : binutils (ELSA-2021-4033)
+2025-02-28 17:40:07,315 - INFO - Table created successfully for heading: 52. Oracle Linux 7 : binutils (ELSA-2021-4033)
+2025-02-28 17:40:07,317 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:07,319 - INFO - Appending data for vulnerability ABCXYZ-52
+2025-02-28 17:40:07,324 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:07,327 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:07,342 - INFO - Successfully appended data for vulnerability ABCXYZ-52
+2025-02-28 17:40:07,342 - INFO - Creating table for vulnerability 53: Oracle Linux 7 : grub2 (ELSA-2020-5782)
+2025-02-28 17:40:07,342 - INFO - Creating table with heading: 53. Oracle Linux 7 : grub2 (ELSA-2020-5782)
+2025-02-28 17:40:07,429 - INFO - Table created successfully for heading: 53. Oracle Linux 7 : grub2 (ELSA-2020-5782)
+2025-02-28 17:40:07,430 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:07,430 - INFO - Appending data for vulnerability ABCXYZ-53
+2025-02-28 17:40:07,439 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:07,441 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:07,447 - INFO - Successfully appended data for vulnerability ABCXYZ-53
+2025-02-28 17:40:07,448 - INFO - Creating table for vulnerability 54: Oracle Linux 7 : yum-utils (ELSA-2018-2285)
+2025-02-28 17:40:07,448 - INFO - Creating table with heading: 54. Oracle Linux 7 : yum-utils (ELSA-2018-2285)
+2025-02-28 17:40:07,531 - INFO - Table created successfully for heading: 54. Oracle Linux 7 : yum-utils (ELSA-2018-2285)
+2025-02-28 17:40:07,533 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:07,535 - INFO - Appending data for vulnerability ABCXYZ-54
+2025-02-28 17:40:07,542 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:07,544 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:07,557 - INFO - Successfully appended data for vulnerability ABCXYZ-54
+2025-02-28 17:40:07,558 - INFO - Creating table for vulnerability 55: Oracle Linux 7 : nettle (ELSA-2021-1145)
+2025-02-28 17:40:07,558 - INFO - Creating table with heading: 55. Oracle Linux 7 : nettle (ELSA-2021-1145)
+2025-02-28 17:40:07,645 - INFO - Table created successfully for heading: 55. Oracle Linux 7 : nettle (ELSA-2021-1145)
+2025-02-28 17:40:07,646 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:07,646 - INFO - Appending data for vulnerability ABCXYZ-55
+2025-02-28 17:40:07,655 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:07,658 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:07,669 - INFO - Successfully appended data for vulnerability ABCXYZ-55
+2025-02-28 17:40:07,670 - INFO - Creating table for vulnerability 56: Oracle Linux 7 : gupnp (ELSA-2021-2417)
+2025-02-28 17:40:07,670 - INFO - Creating table with heading: 56. Oracle Linux 7 : gupnp (ELSA-2021-2417)
+2025-02-28 17:40:07,792 - INFO - Table created successfully for heading: 56. Oracle Linux 7 : gupnp (ELSA-2021-2417)
+2025-02-28 17:40:07,797 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:07,804 - INFO - Appending data for vulnerability ABCXYZ-56
+2025-02-28 17:40:07,827 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:07,829 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:07,858 - INFO - Successfully appended data for vulnerability ABCXYZ-56
+2025-02-28 17:40:07,858 - INFO - Creating table for vulnerability 57: Oracle Linux 7 : rsyslog (ELSA-2022-4803)
+2025-02-28 17:40:07,859 - INFO - Creating table with heading: 57. Oracle Linux 7 : rsyslog (ELSA-2022-4803)
+2025-02-28 17:40:07,980 - INFO - Table created successfully for heading: 57. Oracle Linux 7 : rsyslog (ELSA-2022-4803)
+2025-02-28 17:40:08,003 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:08,004 - INFO - Appending data for vulnerability ABCXYZ-57
+2025-02-28 17:40:08,010 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:08,012 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:08,032 - INFO - Successfully appended data for vulnerability ABCXYZ-57
+2025-02-28 17:40:08,039 - INFO - Creating table for vulnerability 58: Oracle Linux 7 : expat (ELSA-2022-6834)
+2025-02-28 17:40:08,039 - INFO - Creating table with heading: 58. Oracle Linux 7 : expat (ELSA-2022-6834)
+2025-02-28 17:40:08,163 - INFO - Table created successfully for heading: 58. Oracle Linux 7 : expat (ELSA-2022-6834)
+2025-02-28 17:40:08,164 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:08,165 - INFO - Appending data for vulnerability ABCXYZ-58
+2025-02-28 17:40:08,179 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:08,187 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:08,224 - INFO - Successfully appended data for vulnerability ABCXYZ-58
+2025-02-28 17:40:08,231 - INFO - Creating table for vulnerability 59: Oracle Linux 7 : samba (ELSA-2023-1090)
+2025-02-28 17:40:08,232 - INFO - Creating table with heading: 59. Oracle Linux 7 : samba (ELSA-2023-1090)
+2025-02-28 17:40:08,378 - INFO - Table created successfully for heading: 59. Oracle Linux 7 : samba (ELSA-2023-1090)
+2025-02-28 17:40:08,380 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:08,380 - INFO - Appending data for vulnerability ABCXYZ-59
+2025-02-28 17:40:08,398 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:08,404 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:08,416 - INFO - Successfully appended data for vulnerability ABCXYZ-59
+2025-02-28 17:40:08,422 - INFO - Creating table for vulnerability 60: Oracle Linux 7 : binutils (ELSA-2018-3032)
+2025-02-28 17:40:08,423 - INFO - Creating table with heading: 60. Oracle Linux 7 : binutils (ELSA-2018-3032)
+2025-02-28 17:40:08,511 - INFO - Table created successfully for heading: 60. Oracle Linux 7 : binutils (ELSA-2018-3032)
+2025-02-28 17:40:08,513 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:08,513 - INFO - Appending data for vulnerability ABCXYZ-60
+2025-02-28 17:40:08,523 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:08,525 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:08,531 - INFO - Successfully appended data for vulnerability ABCXYZ-60
+2025-02-28 17:40:08,532 - INFO - Creating table for vulnerability 61: Oracle Linux 7 : curl (ELSA-2020-5002)
+2025-02-28 17:40:08,536 - INFO - Creating table with heading: 61. Oracle Linux 7 : curl (ELSA-2020-5002)
+2025-02-28 17:40:08,628 - INFO - Table created successfully for heading: 61. Oracle Linux 7 : curl (ELSA-2020-5002)
+2025-02-28 17:40:08,629 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:08,630 - INFO - Appending data for vulnerability ABCXYZ-61
+2025-02-28 17:40:08,639 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:08,640 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:08,648 - INFO - Successfully appended data for vulnerability ABCXYZ-61
+2025-02-28 17:40:08,649 - INFO - Creating table for vulnerability 62: Oracle Linux 7 : net-snmp (ELSA-2020-5350)
+2025-02-28 17:40:08,650 - INFO - Creating table with heading: 62. Oracle Linux 7 : net-snmp (ELSA-2020-5350)
+2025-02-28 17:40:08,745 - INFO - Table created successfully for heading: 62. Oracle Linux 7 : net-snmp (ELSA-2020-5350)
+2025-02-28 17:40:08,746 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:08,747 - INFO - Appending data for vulnerability ABCXYZ-62
+2025-02-28 17:40:08,757 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:08,759 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:08,772 - INFO - Successfully appended data for vulnerability ABCXYZ-62
+2025-02-28 17:40:08,773 - INFO - Creating table for vulnerability 63: Oracle Linux 7 : sudo (ELSA-2021-0221)
+2025-02-28 17:40:08,774 - INFO - Creating table with heading: 63. Oracle Linux 7 : sudo (ELSA-2021-0221)
+2025-02-28 17:40:08,887 - INFO - Table created successfully for heading: 63. Oracle Linux 7 : sudo (ELSA-2021-0221)
+2025-02-28 17:40:08,889 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:08,890 - INFO - Appending data for vulnerability ABCXYZ-63
+2025-02-28 17:40:08,942 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:08,946 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:08,972 - INFO - Successfully appended data for vulnerability ABCXYZ-63
+2025-02-28 17:40:08,972 - INFO - Creating table for vulnerability 64: Oracle Linux 6 / 7 : Unbreakable Enterprise kernel (ELSA-2021-9395)
+2025-02-28 17:40:08,973 - INFO - Creating table with heading: 64. Oracle Linux 6 / 7 : Unbreakable Enterprise kernel (ELSA-2021-9395)
+2025-02-28 17:40:09,071 - INFO - Table created successfully for heading: 64. Oracle Linux 6 / 7 : Unbreakable Enterprise kernel (ELSA-2021-9395)
+2025-02-28 17:40:09,072 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:09,073 - INFO - Appending data for vulnerability ABCXYZ-64
+2025-02-28 17:40:09,081 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:09,086 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:09,097 - INFO - Successfully appended data for vulnerability ABCXYZ-64
+2025-02-28 17:40:09,097 - INFO - Creating table for vulnerability 65: Oracle Linux 7 : Unbreakable Enterprise kernel (ELSA-2022-9014)
+2025-02-28 17:40:09,098 - INFO - Creating table with heading: 65. Oracle Linux 7 : Unbreakable Enterprise kernel (ELSA-2022-9014)
+2025-02-28 17:40:09,190 - INFO - Table created successfully for heading: 65. Oracle Linux 7 : Unbreakable Enterprise kernel (ELSA-2022-9014)
+2025-02-28 17:40:09,191 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:09,191 - INFO - Appending data for vulnerability ABCXYZ-65
+2025-02-28 17:40:09,197 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:09,198 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:09,216 - INFO - Successfully appended data for vulnerability ABCXYZ-65
+2025-02-28 17:40:09,255 - INFO - Creating table for vulnerability 66: Oracle Linux 7 : polkit (ELSA-2022-0274)
+2025-02-28 17:40:09,264 - INFO - Creating table with heading: 66. Oracle Linux 7 : polkit (ELSA-2022-0274)
+2025-02-28 17:40:09,437 - INFO - Table created successfully for heading: 66. Oracle Linux 7 : polkit (ELSA-2022-0274)
+2025-02-28 17:40:09,438 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:09,439 - INFO - Appending data for vulnerability ABCXYZ-66
+2025-02-28 17:40:09,445 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:09,447 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:09,460 - INFO - Successfully appended data for vulnerability ABCXYZ-66
+2025-02-28 17:40:09,460 - INFO - Creating table for vulnerability 67: Oracle Linux 7 : device-mapper-multipath (ELSA-2022-7186)
+2025-02-28 17:40:09,460 - INFO - Creating table with heading: 67. Oracle Linux 7 : device-mapper-multipath (ELSA-2022-7186)
+2025-02-28 17:40:09,548 - INFO - Table created successfully for heading: 67. Oracle Linux 7 : device-mapper-multipath (ELSA-2022-7186)
+2025-02-28 17:40:09,549 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:09,552 - INFO - Appending data for vulnerability ABCXYZ-67
+2025-02-28 17:40:09,559 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:09,561 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:09,575 - INFO - Successfully appended data for vulnerability ABCXYZ-67
+2025-02-28 17:40:09,576 - INFO - Creating table for vulnerability 68: Oracle Linux 7 : sudo (ELSA-2023-0291)
+2025-02-28 17:40:09,576 - INFO - Creating table with heading: 68. Oracle Linux 7 : sudo (ELSA-2023-0291)
+2025-02-28 17:40:09,669 - INFO - Table created successfully for heading: 68. Oracle Linux 7 : sudo (ELSA-2023-0291)
+2025-02-28 17:40:09,670 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:09,671 - INFO - Appending data for vulnerability ABCXYZ-68
+2025-02-28 17:40:09,677 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:09,679 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:09,696 - INFO - Successfully appended data for vulnerability ABCXYZ-68
+2025-02-28 17:40:09,697 - INFO - Creating table for vulnerability 69: Oracle Linux 7 : tigervnc / and / xorg-x11-server (ELSA-2023-1594)
+2025-02-28 17:40:09,698 - INFO - Creating table with heading: 69. Oracle Linux 7 : tigervnc / and / xorg-x11-server (ELSA-2023-1594)
+2025-02-28 17:40:09,793 - INFO - Table created successfully for heading: 69. Oracle Linux 7 : tigervnc / and / xorg-x11-server (ELSA-2023-1594)
+2025-02-28 17:40:09,794 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:09,795 - INFO - Appending data for vulnerability ABCXYZ-69
+2025-02-28 17:40:09,805 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:09,806 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:09,815 - INFO - Successfully appended data for vulnerability ABCXYZ-69
+2025-02-28 17:40:09,815 - INFO - Creating table for vulnerability 70: Oracle Java SE Multiple Vulnerabilities (April 2023 CPU)
+2025-02-28 17:40:09,820 - INFO - Creating table with heading: 70. Oracle Java SE Multiple Vulnerabilities (April 2023 CPU)
+2025-02-28 17:40:09,926 - INFO - Table created successfully for heading: 70. Oracle Java SE Multiple Vulnerabilities (April 2023 CPU)
+2025-02-28 17:40:09,927 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:09,928 - INFO - Appending data for vulnerability ABCXYZ-70
+2025-02-28 17:40:09,938 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:09,940 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:09,949 - INFO - Successfully appended data for vulnerability ABCXYZ-70
+2025-02-28 17:40:09,956 - INFO - Creating table for vulnerability 71: Oracle Linux 7 : qemu (ELSA-2023-12368)
+2025-02-28 17:40:09,957 - INFO - Creating table with heading: 71. Oracle Linux 7 : qemu (ELSA-2023-12368)
+2025-02-28 17:40:10,114 - INFO - Table created successfully for heading: 71. Oracle Linux 7 : qemu (ELSA-2023-12368)
+2025-02-28 17:40:10,115 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:10,118 - INFO - Appending data for vulnerability ABCXYZ-71
+2025-02-28 17:40:10,125 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:10,127 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:10,143 - INFO - Successfully appended data for vulnerability ABCXYZ-71
+2025-02-28 17:40:10,143 - INFO - Creating table for vulnerability 72: Oracle Linux 7 : emacs (ELSA-2023-3481)
+2025-02-28 17:40:10,144 - INFO - Creating table with heading: 72. Oracle Linux 7 : emacs (ELSA-2023-3481)
+2025-02-28 17:40:10,241 - INFO - Table created successfully for heading: 72. Oracle Linux 7 : emacs (ELSA-2023-3481)
+2025-02-28 17:40:10,242 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:10,243 - INFO - Appending data for vulnerability ABCXYZ-72
+2025-02-28 17:40:10,248 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:10,252 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:10,260 - INFO - Successfully appended data for vulnerability ABCXYZ-72
+2025-02-28 17:40:10,260 - INFO - Creating table for vulnerability 73: Oracle Linux 7 : Unbreakable Enterprise kernel (ELSA-2023-12566)
+2025-02-28 17:40:10,261 - INFO - Creating table with heading: 73. Oracle Linux 7 : Unbreakable Enterprise kernel (ELSA-2023-12566)
+2025-02-28 17:40:10,361 - INFO - Table created successfully for heading: 73. Oracle Linux 7 : Unbreakable Enterprise kernel (ELSA-2023-12566)
+2025-02-28 17:40:10,363 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:10,363 - INFO - Appending data for vulnerability ABCXYZ-73
+2025-02-28 17:40:10,373 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:10,375 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:10,391 - INFO - Successfully appended data for vulnerability ABCXYZ-73
+2025-02-28 17:40:10,392 - INFO - Creating table for vulnerability 74: Oracle Linux 7 : mariadb (ELSA-2018-2439)
+2025-02-28 17:40:10,393 - INFO - Creating table with heading: 74. Oracle Linux 7 : mariadb (ELSA-2018-2439)
+2025-02-28 17:40:10,500 - INFO - Table created successfully for heading: 74. Oracle Linux 7 : mariadb (ELSA-2018-2439)
+2025-02-28 17:40:10,503 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:10,503 - INFO - Appending data for vulnerability ABCXYZ-74
+2025-02-28 17:40:10,509 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:10,512 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:10,526 - INFO - Successfully appended data for vulnerability ABCXYZ-74
+2025-02-28 17:40:10,527 - INFO - Creating table for vulnerability 75: Oracle Linux 7 : dhcp (ELSA-2018-1453)
+2025-02-28 17:40:10,527 - INFO - Creating table with heading: 75. Oracle Linux 7 : dhcp (ELSA-2018-1453)
+2025-02-28 17:40:10,613 - INFO - Table created successfully for heading: 75. Oracle Linux 7 : dhcp (ELSA-2018-1453)
+2025-02-28 17:40:10,614 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:10,615 - INFO - Appending data for vulnerability ABCXYZ-75
+2025-02-28 17:40:10,630 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:10,632 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:10,648 - INFO - Successfully appended data for vulnerability ABCXYZ-75
+2025-02-28 17:40:10,648 - INFO - Creating table for vulnerability 76: Oracle Linux 7 : gnupg2 (ELSA-2018-2181)
+2025-02-28 17:40:10,649 - INFO - Creating table with heading: 76. Oracle Linux 7 : gnupg2 (ELSA-2018-2181)
+2025-02-28 17:40:10,735 - INFO - Table created successfully for heading: 76. Oracle Linux 7 : gnupg2 (ELSA-2018-2181)
+2025-02-28 17:40:10,736 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:10,737 - INFO - Appending data for vulnerability ABCXYZ-76
+2025-02-28 17:40:10,744 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:10,746 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:10,761 - INFO - Successfully appended data for vulnerability ABCXYZ-76
+2025-02-28 17:40:10,761 - INFO - Creating table for vulnerability 77: Oracle Linux 7 : sssd (ELSA-2018-3158)
+2025-02-28 17:40:10,762 - INFO - Creating table with heading: 77. Oracle Linux 7 : sssd (ELSA-2018-3158)
+2025-02-28 17:40:10,847 - INFO - Table created successfully for heading: 77. Oracle Linux 7 : sssd (ELSA-2018-3158)
+2025-02-28 17:40:10,848 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:10,848 - INFO - Appending data for vulnerability ABCXYZ-77
+2025-02-28 17:40:10,861 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:10,864 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:10,878 - INFO - Successfully appended data for vulnerability ABCXYZ-77
+2025-02-28 17:40:10,879 - INFO - Creating table for vulnerability 78: Oracle Linux 7 : glusterfs (ELSA-2018-3242)
+2025-02-28 17:40:10,879 - INFO - Creating table with heading: 78. Oracle Linux 7 : glusterfs (ELSA-2018-3242)
+2025-02-28 17:40:10,974 - INFO - Table created successfully for heading: 78. Oracle Linux 7 : glusterfs (ELSA-2018-3242)
+2025-02-28 17:40:10,976 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:10,976 - INFO - Appending data for vulnerability ABCXYZ-78
+2025-02-28 17:40:10,997 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:10,998 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:11,011 - INFO - Successfully appended data for vulnerability ABCXYZ-78
+2025-02-28 17:40:11,011 - INFO - Creating table for vulnerability 79: Oracle Linux 7 : jasper (ELSA-2018-3253)
+2025-02-28 17:40:11,012 - INFO - Creating table with heading: 79. Oracle Linux 7 : jasper (ELSA-2018-3253)
+2025-02-28 17:40:11,122 - INFO - Table created successfully for heading: 79. Oracle Linux 7 : jasper (ELSA-2018-3253)
+2025-02-28 17:40:11,125 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:11,126 - INFO - Appending data for vulnerability ABCXYZ-79
+2025-02-28 17:40:11,157 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:11,164 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:11,197 - INFO - Successfully appended data for vulnerability ABCXYZ-79
+2025-02-28 17:40:11,197 - INFO - Creating table for vulnerability 80: Oracle Linux 7 : spice (ELSA-2019-0231)
+2025-02-28 17:40:11,198 - INFO - Creating table with heading: 80. Oracle Linux 7 : spice (ELSA-2019-0231)
+2025-02-28 17:40:11,314 - INFO - Table created successfully for heading: 80. Oracle Linux 7 : spice (ELSA-2019-0231)
+2025-02-28 17:40:11,315 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:11,316 - INFO - Appending data for vulnerability ABCXYZ-80
+2025-02-28 17:40:11,332 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:11,339 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:11,346 - INFO - Successfully appended data for vulnerability ABCXYZ-80
+2025-02-28 17:40:11,347 - INFO - Creating table for vulnerability 81: Oracle Linux 7 : libarchive (ELSA-2020-0203)
+2025-02-28 17:40:11,347 - INFO - Creating table with heading: 81. Oracle Linux 7 : libarchive (ELSA-2020-0203)
+2025-02-28 17:40:11,439 - INFO - Table created successfully for heading: 81. Oracle Linux 7 : libarchive (ELSA-2020-0203)
+2025-02-28 17:40:11,440 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:11,441 - INFO - Appending data for vulnerability ABCXYZ-81
+2025-02-28 17:40:11,448 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:11,453 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:11,461 - INFO - Successfully appended data for vulnerability ABCXYZ-81
+2025-02-28 17:40:11,462 - INFO - Creating table for vulnerability 82: Oracle Linux 7 : unbound (ELSA-2020-2642)
+2025-02-28 17:40:11,463 - INFO - Creating table with heading: 82. Oracle Linux 7 : unbound (ELSA-2020-2642)
+2025-02-28 17:40:11,561 - INFO - Table created successfully for heading: 82. Oracle Linux 7 : unbound (ELSA-2020-2642)
+2025-02-28 17:40:11,562 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:11,563 - INFO - Appending data for vulnerability ABCXYZ-82
+2025-02-28 17:40:11,573 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:11,576 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:11,589 - INFO - Successfully appended data for vulnerability ABCXYZ-82
+2025-02-28 17:40:11,589 - INFO - Creating table for vulnerability 83: Oracle Linux 7 : libvpx (ELSA-2020-3876)
+2025-02-28 17:40:11,590 - INFO - Creating table with heading: 83. Oracle Linux 7 : libvpx (ELSA-2020-3876)
+2025-02-28 17:40:11,687 - INFO - Table created successfully for heading: 83. Oracle Linux 7 : libvpx (ELSA-2020-3876)
+2025-02-28 17:40:11,689 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:11,689 - INFO - Appending data for vulnerability ABCXYZ-83
+2025-02-28 17:40:11,697 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:11,704 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:11,722 - INFO - Successfully appended data for vulnerability ABCXYZ-83
+2025-02-28 17:40:11,722 - INFO - Creating table for vulnerability 84: Oracle Linux 7 : wpa_supplicant (ELSA-2021-0808)
+2025-02-28 17:40:11,723 - INFO - Creating table with heading: 84. Oracle Linux 7 : wpa_supplicant (ELSA-2021-0808)
+2025-02-28 17:40:11,810 - INFO - Table created successfully for heading: 84. Oracle Linux 7 : wpa_supplicant (ELSA-2021-0808)
+2025-02-28 17:40:11,811 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:11,812 - INFO - Appending data for vulnerability ABCXYZ-84
+2025-02-28 17:40:11,826 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:11,827 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:11,843 - INFO - Successfully appended data for vulnerability ABCXYZ-84
+2025-02-28 17:40:11,843 - INFO - Creating table for vulnerability 85: Oracle Linux 7 : libldb (ELSA-2021-1072)
+2025-02-28 17:40:11,844 - INFO - Creating table with heading: 85. Oracle Linux 7 : libldb (ELSA-2021-1072)
+2025-02-28 17:40:11,930 - INFO - Table created successfully for heading: 85. Oracle Linux 7 : libldb (ELSA-2021-1072)
+2025-02-28 17:40:11,931 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:11,932 - INFO - Appending data for vulnerability ABCXYZ-85
+2025-02-28 17:40:11,945 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:11,947 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:11,963 - INFO - Successfully appended data for vulnerability ABCXYZ-85
+2025-02-28 17:40:11,964 - INFO - Creating table for vulnerability 86: Oracle Linux 7 : glib2 (ELSA-2021-2147)
+2025-02-28 17:40:11,964 - INFO - Creating table with heading: 86. Oracle Linux 7 : glib2 (ELSA-2021-2147)
+2025-02-28 17:40:12,047 - INFO - Table created successfully for heading: 86. Oracle Linux 7 : glib2 (ELSA-2021-2147)
+2025-02-28 17:40:12,048 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:12,048 - INFO - Appending data for vulnerability ABCXYZ-86
+2025-02-28 17:40:12,060 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:12,062 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:12,080 - INFO - Successfully appended data for vulnerability ABCXYZ-86
+2025-02-28 17:40:12,081 - INFO - Creating table for vulnerability 87: Oracle Linux 7 : openldap (ELSA-2022-0621)
+2025-02-28 17:40:12,081 - INFO - Creating table with heading: 87. Oracle Linux 7 : openldap (ELSA-2022-0621)
+2025-02-28 17:40:12,168 - INFO - Table created successfully for heading: 87. Oracle Linux 7 : openldap (ELSA-2022-0621)
+2025-02-28 17:40:12,170 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:12,170 - INFO - Appending data for vulnerability ABCXYZ-87
+2025-02-28 17:40:12,176 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:12,179 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:12,199 - INFO - Successfully appended data for vulnerability ABCXYZ-87
+2025-02-28 17:40:12,202 - INFO - Creating table for vulnerability 88: Oracle Linux 7 : ntp (ELSA-2020-2663)
+2025-02-28 17:40:12,206 - INFO - Creating table with heading: 88. Oracle Linux 7 : ntp (ELSA-2020-2663)
+2025-02-28 17:40:12,327 - INFO - Table created successfully for heading: 88. Oracle Linux 7 : ntp (ELSA-2020-2663)
+2025-02-28 17:40:12,328 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:12,328 - INFO - Appending data for vulnerability ABCXYZ-88
+2025-02-28 17:40:12,346 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:12,348 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:12,363 - INFO - Successfully appended data for vulnerability ABCXYZ-88
+2025-02-28 17:40:12,363 - INFO - Creating table for vulnerability 89: Oracle Linux 7 : dhcp (ELSA-2021-2357)
+2025-02-28 17:40:12,365 - INFO - Creating table with heading: 89. Oracle Linux 7 : dhcp (ELSA-2021-2357)
+2025-02-28 17:40:12,450 - INFO - Table created successfully for heading: 89. Oracle Linux 7 : dhcp (ELSA-2021-2357)
+2025-02-28 17:40:12,454 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:12,455 - INFO - Appending data for vulnerability ABCXYZ-89
+2025-02-28 17:40:12,476 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:12,478 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:12,492 - INFO - Successfully appended data for vulnerability ABCXYZ-89
+2025-02-28 17:40:12,492 - INFO - Creating table for vulnerability 90: Oracle Linux 7 : rsync (ELSA-2022-6170)
+2025-02-28 17:40:12,493 - INFO - Creating table with heading: 90. Oracle Linux 7 : rsync (ELSA-2022-6170)
+2025-02-28 17:40:12,580 - INFO - Table created successfully for heading: 90. Oracle Linux 7 : rsync (ELSA-2022-6170)
+2025-02-28 17:40:12,582 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:12,582 - INFO - Appending data for vulnerability ABCXYZ-90
+2025-02-28 17:40:12,605 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:12,608 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:12,618 - INFO - Successfully appended data for vulnerability ABCXYZ-90
+2025-02-28 17:40:12,619 - INFO - Creating table for vulnerability 91: Oracle Linux 7 : openssl (ELSA-2023-1335)
+2025-02-28 17:40:12,620 - INFO - Creating table with heading: 91. Oracle Linux 7 : openssl (ELSA-2023-1335)
+2025-02-28 17:40:12,688 - INFO - Table created successfully for heading: 91. Oracle Linux 7 : openssl (ELSA-2023-1335)
+2025-02-28 17:40:12,690 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:12,691 - INFO - Appending data for vulnerability ABCXYZ-91
+2025-02-28 17:40:12,699 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:12,703 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:12,714 - INFO - Successfully appended data for vulnerability ABCXYZ-91
+2025-02-28 17:40:12,715 - INFO - Creating table for vulnerability 92: Oracle Linux 7 : java-1.8.0-openjdk (ELSA-2023-1904)
+2025-02-28 17:40:12,715 - INFO - Creating table with heading: 92. Oracle Linux 7 : java-1.8.0-openjdk (ELSA-2023-1904)
+2025-02-28 17:40:12,788 - INFO - Table created successfully for heading: 92. Oracle Linux 7 : java-1.8.0-openjdk (ELSA-2023-1904)
+2025-02-28 17:40:12,789 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:12,789 - INFO - Appending data for vulnerability ABCXYZ-92
+2025-02-28 17:40:12,795 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:12,797 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:12,814 - INFO - Successfully appended data for vulnerability ABCXYZ-92
+2025-02-28 17:40:12,815 - INFO - Creating table for vulnerability 93: Oracle Linux 7 : cpio (ELSA-2020-3908)
+2025-02-28 17:40:12,816 - INFO - Creating table with heading: 93. Oracle Linux 7 : cpio (ELSA-2020-3908)
+2025-02-28 17:40:12,887 - INFO - Table created successfully for heading: 93. Oracle Linux 7 : cpio (ELSA-2020-3908)
+2025-02-28 17:40:12,888 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:12,888 - INFO - Appending data for vulnerability ABCXYZ-93
+2025-02-28 17:40:12,894 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:12,896 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:12,911 - INFO - Successfully appended data for vulnerability ABCXYZ-93
+2025-02-28 17:40:12,911 - INFO - Creating table for vulnerability 94: Oracle Linux 7 : dbus (ELSA-2020-4032)
+2025-02-28 17:40:12,912 - INFO - Creating table with heading: 94. Oracle Linux 7 : dbus (ELSA-2020-4032)
+2025-02-28 17:40:12,988 - INFO - Table created successfully for heading: 94. Oracle Linux 7 : dbus (ELSA-2020-4032)
+2025-02-28 17:40:12,989 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:12,990 - INFO - Appending data for vulnerability ABCXYZ-94
+2025-02-28 17:40:12,996 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:12,998 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:13,013 - INFO - Successfully appended data for vulnerability ABCXYZ-94
+2025-02-28 17:40:13,013 - INFO - Creating table for vulnerability 95: Oracle Linux 7 : bluez (ELSA-2020-4001)
+2025-02-28 17:40:13,014 - INFO - Creating table with heading: 95. Oracle Linux 7 : bluez (ELSA-2020-4001)
+2025-02-28 17:40:13,099 - INFO - Table created successfully for heading: 95. Oracle Linux 7 : bluez (ELSA-2020-4001)
+2025-02-28 17:40:13,102 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:13,103 - INFO - Appending data for vulnerability ABCXYZ-95
+2025-02-28 17:40:13,108 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:13,111 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:13,129 - INFO - Successfully appended data for vulnerability ABCXYZ-95
+2025-02-28 17:40:13,130 - INFO - Creating table for vulnerability 96: Oracle Linux 7 : libcroco (ELSA-2020-4072)
+2025-02-28 17:40:13,130 - INFO - Creating table with heading: 96. Oracle Linux 7 : libcroco (ELSA-2020-4072)
+2025-02-28 17:40:13,208 - INFO - Table created successfully for heading: 96. Oracle Linux 7 : libcroco (ELSA-2020-4072)
+2025-02-28 17:40:13,209 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:13,209 - INFO - Appending data for vulnerability ABCXYZ-96
+2025-02-28 17:40:13,218 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:13,220 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:13,231 - INFO - Successfully appended data for vulnerability ABCXYZ-96
+2025-02-28 17:40:13,232 - INFO - Creating table for vulnerability 97: Oracle Linux 7 : rpm (ELSA-2021-4785)
+2025-02-28 17:40:13,232 - INFO - Creating table with heading: 97. Oracle Linux 7 : rpm (ELSA-2021-4785)
+2025-02-28 17:40:13,320 - INFO - Table created successfully for heading: 97. Oracle Linux 7 : rpm (ELSA-2021-4785)
+2025-02-28 17:40:13,321 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:13,322 - INFO - Appending data for vulnerability ABCXYZ-97
+2025-02-28 17:40:13,330 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:13,339 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:13,361 - INFO - Successfully appended data for vulnerability ABCXYZ-97
+2025-02-28 17:40:13,363 - INFO - Creating table for vulnerability 98: Oracle Linux 7 : openssh (ELSA-2021-4782)
+2025-02-28 17:40:13,364 - INFO - Creating table with heading: 98. Oracle Linux 7 : openssh (ELSA-2021-4782)
+2025-02-28 17:40:13,454 - INFO - Table created successfully for heading: 98. Oracle Linux 7 : openssh (ELSA-2021-4782)
+2025-02-28 17:40:13,455 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:13,456 - INFO - Appending data for vulnerability ABCXYZ-98
+2025-02-28 17:40:13,464 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:13,465 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:13,478 - INFO - Successfully appended data for vulnerability ABCXYZ-98
+2025-02-28 17:40:13,479 - INFO - Creating table for vulnerability 99: Oracle Linux 7 : grub2 (ELSA-2022-9469)
+2025-02-28 17:40:13,479 - INFO - Creating table with heading: 99. Oracle Linux 7 : grub2 (ELSA-2022-9469)
+2025-02-28 17:40:13,556 - INFO - Table created successfully for heading: 99. Oracle Linux 7 : grub2 (ELSA-2022-9469)
+2025-02-28 17:40:13,558 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:13,559 - INFO - Appending data for vulnerability ABCXYZ-99
+2025-02-28 17:40:13,568 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:13,570 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:13,579 - INFO - Successfully appended data for vulnerability ABCXYZ-99
+2025-02-28 17:40:13,580 - INFO - Creating table for vulnerability 100: Oracle Linux 7 : bind (ELSA-2023-0402)
+2025-02-28 17:40:13,580 - INFO - Creating table with heading: 100. Oracle Linux 7 : bind (ELSA-2023-0402)
+2025-02-28 17:40:13,662 - INFO - Table created successfully for heading: 100. Oracle Linux 7 : bind (ELSA-2023-0402)
+2025-02-28 17:40:13,663 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:13,663 - INFO - Appending data for vulnerability ABCXYZ-100
+2025-02-28 17:40:13,675 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:13,677 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:13,689 - INFO - Successfully appended data for vulnerability ABCXYZ-100
+2025-02-28 17:40:13,690 - INFO - Creating table for vulnerability 101: Oracle Linux 7 : e2fsprogs (ELSA-2020-4011)
+2025-02-28 17:40:13,690 - INFO - Creating table with heading: 101. Oracle Linux 7 : e2fsprogs (ELSA-2020-4011)
+2025-02-28 17:40:13,907 - INFO - Table created successfully for heading: 101. Oracle Linux 7 : e2fsprogs (ELSA-2020-4011)
+2025-02-28 17:40:13,909 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:13,909 - INFO - Appending data for vulnerability ABCXYZ-101
+2025-02-28 17:40:13,920 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:13,922 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:13,932 - INFO - Successfully appended data for vulnerability ABCXYZ-101
+2025-02-28 17:40:13,932 - INFO - Creating table for vulnerability 102: Oracle Linux 7 : xorg-x11-server (ELSA-2018-3410)
+2025-02-28 17:40:13,933 - INFO - Creating table with heading: 102. Oracle Linux 7 : xorg-x11-server (ELSA-2018-3410)
+2025-02-28 17:40:14,014 - INFO - Table created successfully for heading: 102. Oracle Linux 7 : xorg-x11-server (ELSA-2018-3410)
+2025-02-28 17:40:14,015 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:14,015 - INFO - Appending data for vulnerability ABCXYZ-102
+2025-02-28 17:40:14,031 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:14,033 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:14,058 - INFO - Successfully appended data for vulnerability ABCXYZ-102
+2025-02-28 17:40:14,059 - INFO - Creating table for vulnerability 103: Oracle Linux 7 : spice / and / spice-gtk (ELSA-2020-4187)
+2025-02-28 17:40:14,059 - INFO - Creating table with heading: 103. Oracle Linux 7 : spice / and / spice-gtk (ELSA-2020-4187)
+2025-02-28 17:40:14,159 - INFO - Table created successfully for heading: 103. Oracle Linux 7 : spice / and / spice-gtk (ELSA-2020-4187)
+2025-02-28 17:40:14,160 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:14,161 - INFO - Appending data for vulnerability ABCXYZ-103
+2025-02-28 17:40:14,171 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:14,174 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:14,188 - INFO - Successfully appended data for vulnerability ABCXYZ-103
+2025-02-28 17:40:14,189 - INFO - Creating table for vulnerability 104: Oracle Linux 7 : wpa_supplicant (ELSA-2018-3107)
+2025-02-28 17:40:14,189 - INFO - Creating table with heading: 104. Oracle Linux 7 : wpa_supplicant (ELSA-2018-3107)
+2025-02-28 17:40:14,261 - INFO - Table created successfully for heading: 104. Oracle Linux 7 : wpa_supplicant (ELSA-2018-3107)
+2025-02-28 17:40:14,262 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:14,263 - INFO - Appending data for vulnerability ABCXYZ-104
+2025-02-28 17:40:14,276 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:14,278 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:14,295 - INFO - Successfully appended data for vulnerability ABCXYZ-104
+2025-02-28 17:40:14,296 - INFO - Creating table for vulnerability 105: Oracle Linux 7 : hunspell (ELSA-2020-3971)
+2025-02-28 17:40:14,296 - INFO - Creating table with heading: 105. Oracle Linux 7 : hunspell (ELSA-2020-3971)
+2025-02-28 17:40:14,395 - INFO - Table created successfully for heading: 105. Oracle Linux 7 : hunspell (ELSA-2020-3971)
+2025-02-28 17:40:14,396 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:14,397 - INFO - Appending data for vulnerability ABCXYZ-105
+2025-02-28 17:40:14,412 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:14,414 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:14,430 - INFO - Successfully appended data for vulnerability ABCXYZ-105
+2025-02-28 17:40:14,431 - INFO - Creating table for vulnerability 106: Oracle Linux 7 : freetype (ELSA-2020-4907)
+2025-02-28 17:40:14,432 - INFO - Creating table with heading: 106. Oracle Linux 7 : freetype (ELSA-2020-4907)
+2025-02-28 17:40:14,530 - INFO - Table created successfully for heading: 106. Oracle Linux 7 : freetype (ELSA-2020-4907)
+2025-02-28 17:40:14,532 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:14,533 - INFO - Appending data for vulnerability ABCXYZ-106
+2025-02-28 17:40:14,542 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:14,544 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:14,565 - INFO - Successfully appended data for vulnerability ABCXYZ-106
+2025-02-28 17:40:14,566 - INFO - Creating table for vulnerability 107: Oracle Linux 7 : shim-signed (ELSA-2022-9466)
+2025-02-28 17:40:14,566 - INFO - Creating table with heading: 107. Oracle Linux 7 : shim-signed (ELSA-2022-9466)
+2025-02-28 17:40:14,645 - INFO - Table created successfully for heading: 107. Oracle Linux 7 : shim-signed (ELSA-2022-9466)
+2025-02-28 17:40:14,646 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:14,646 - INFO - Appending data for vulnerability ABCXYZ-107
+2025-02-28 17:40:14,658 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:14,660 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:14,671 - INFO - Successfully appended data for vulnerability ABCXYZ-107
+2025-02-28 17:40:14,672 - INFO - Creating table for vulnerability 108: Oracle Linux 7 : gnutls (ELSA-2018-3050)
+2025-02-28 17:40:14,672 - INFO - Creating table with heading: 108. Oracle Linux 7 : gnutls (ELSA-2018-3050)
+2025-02-28 17:40:14,737 - INFO - Table created successfully for heading: 108. Oracle Linux 7 : gnutls (ELSA-2018-3050)
+2025-02-28 17:40:14,738 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:14,738 - INFO - Appending data for vulnerability ABCXYZ-108
+2025-02-28 17:40:14,745 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:14,747 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:14,765 - INFO - Successfully appended data for vulnerability ABCXYZ-108
+2025-02-28 17:40:14,766 - INFO - Creating table for vulnerability 109: Oracle Linux 7 : qemu-kvm (ELSA-2020-1208)
+2025-02-28 17:40:14,766 - INFO - Creating table with heading: 109. Oracle Linux 7 : qemu-kvm (ELSA-2020-1208)
+2025-02-28 17:40:14,838 - INFO - Table created successfully for heading: 109. Oracle Linux 7 : qemu-kvm (ELSA-2020-1208)
+2025-02-28 17:40:14,839 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:14,839 - INFO - Appending data for vulnerability ABCXYZ-109
+2025-02-28 17:40:14,847 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:14,848 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:14,861 - INFO - Successfully appended data for vulnerability ABCXYZ-109
+2025-02-28 17:40:14,861 - INFO - Creating table for vulnerability 110: Oracle Linux 7 : PackageKit (ELSA-2018-1224)
+2025-02-28 17:40:14,862 - INFO - Creating table with heading: 110. Oracle Linux 7 : PackageKit (ELSA-2018-1224)
+2025-02-28 17:40:14,928 - INFO - Table created successfully for heading: 110. Oracle Linux 7 : PackageKit (ELSA-2018-1224)
+2025-02-28 17:40:14,929 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:14,929 - INFO - Appending data for vulnerability ABCXYZ-110
+2025-02-28 17:40:14,940 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:14,942 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:14,957 - INFO - Successfully appended data for vulnerability ABCXYZ-110
+2025-02-28 17:40:14,958 - INFO - Creating table for vulnerability 111: Oracle Linux 7 : libvirt (ELSA-2018-1997) (Spectre)
+2025-02-28 17:40:14,958 - INFO - Creating table with heading: 111. Oracle Linux 7 : libvirt (ELSA-2018-1997) (Spectre)
+2025-02-28 17:40:15,024 - INFO - Table created successfully for heading: 111. Oracle Linux 7 : libvirt (ELSA-2018-1997) (Spectre)
+2025-02-28 17:40:15,026 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:15,026 - INFO - Appending data for vulnerability ABCXYZ-111
+2025-02-28 17:40:15,038 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:15,041 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:15,058 - INFO - Successfully appended data for vulnerability ABCXYZ-111
+2025-02-28 17:40:15,059 - INFO - Creating table for vulnerability 112: Oracle Linux 7 : systemd (ELSA-2019-0368)
+2025-02-28 17:40:15,061 - INFO - Creating table with heading: 112. Oracle Linux 7 : systemd (ELSA-2019-0368)
+2025-02-28 17:40:15,147 - INFO - Table created successfully for heading: 112. Oracle Linux 7 : systemd (ELSA-2019-0368)
+2025-02-28 17:40:15,148 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:15,149 - INFO - Appending data for vulnerability ABCXYZ-112
+2025-02-28 17:40:15,159 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:15,161 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:15,177 - INFO - Successfully appended data for vulnerability ABCXYZ-112
+2025-02-28 17:40:15,178 - INFO - Creating table for vulnerability 113: Oracle Linux 7 : tcpdump (ELSA-2019-3976)
+2025-02-28 17:40:15,178 - INFO - Creating table with heading: 113. Oracle Linux 7 : tcpdump (ELSA-2019-3976)
+2025-02-28 17:40:15,244 - INFO - Table created successfully for heading: 113. Oracle Linux 7 : tcpdump (ELSA-2019-3976)
+2025-02-28 17:40:15,245 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:15,246 - INFO - Appending data for vulnerability ABCXYZ-113
+2025-02-28 17:40:15,258 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:15,259 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:15,273 - INFO - Successfully appended data for vulnerability ABCXYZ-113
+2025-02-28 17:40:15,274 - INFO - Creating table for vulnerability 114: Oracle Linux 7 : microcode_ctl (ELSA-2020-2432)
+2025-02-28 17:40:15,274 - INFO - Creating table with heading: 114. Oracle Linux 7 : microcode_ctl (ELSA-2020-2432)
+2025-02-28 17:40:15,353 - INFO - Table created successfully for heading: 114. Oracle Linux 7 : microcode_ctl (ELSA-2020-2432)
+2025-02-28 17:40:15,354 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:15,355 - INFO - Appending data for vulnerability ABCXYZ-114
+2025-02-28 17:40:15,362 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:15,364 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:15,379 - INFO - Successfully appended data for vulnerability ABCXYZ-114
+2025-02-28 17:40:15,379 - INFO - Creating table for vulnerability 115: Oracle Linux 7 : dbus (ELSA-2020-2894)
+2025-02-28 17:40:15,380 - INFO - Creating table with heading: 115. Oracle Linux 7 : dbus (ELSA-2020-2894)
+2025-02-28 17:40:15,459 - INFO - Table created successfully for heading: 115. Oracle Linux 7 : dbus (ELSA-2020-2894)
+2025-02-28 17:40:15,460 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:15,460 - INFO - Appending data for vulnerability ABCXYZ-115
+2025-02-28 17:40:15,472 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:15,474 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:15,482 - INFO - Successfully appended data for vulnerability ABCXYZ-115
+2025-02-28 17:40:15,482 - INFO - Creating table for vulnerability 116: Oracle Linux 7 : libmspack (ELSA-2020-3848)
+2025-02-28 17:40:15,486 - INFO - Creating table with heading: 116. Oracle Linux 7 : libmspack (ELSA-2020-3848)
+2025-02-28 17:40:15,579 - INFO - Table created successfully for heading: 116. Oracle Linux 7 : libmspack (ELSA-2020-3848)
+2025-02-28 17:40:15,582 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:15,586 - INFO - Appending data for vulnerability ABCXYZ-116
+2025-02-28 17:40:15,646 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:15,669 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:15,744 - INFO - Successfully appended data for vulnerability ABCXYZ-116
+2025-02-28 17:40:15,745 - INFO - Creating table for vulnerability 117: Oracle Linux 7 : microcode_ctl (ELSA-2022-9507)
+2025-02-28 17:40:15,745 - INFO - Creating table with heading: 117. Oracle Linux 7 : microcode_ctl (ELSA-2022-9507)
+2025-02-28 17:40:15,873 - INFO - Table created successfully for heading: 117. Oracle Linux 7 : microcode_ctl (ELSA-2022-9507)
+2025-02-28 17:40:15,874 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:15,875 - INFO - Appending data for vulnerability ABCXYZ-117
+2025-02-28 17:40:15,896 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:15,897 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:15,912 - INFO - Successfully appended data for vulnerability ABCXYZ-117
+2025-02-28 17:40:15,913 - INFO - Creating table for vulnerability 118: Oracle Linux 7 : setup (ELSA-2018-3249)
+2025-02-28 17:40:15,913 - INFO - Creating table with heading: 118. Oracle Linux 7 : setup (ELSA-2018-3249)
+2025-02-28 17:40:15,979 - INFO - Table created successfully for heading: 118. Oracle Linux 7 : setup (ELSA-2018-3249)
+2025-02-28 17:40:15,980 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:15,980 - INFO - Appending data for vulnerability ABCXYZ-118
+2025-02-28 17:40:15,992 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:15,994 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:16,012 - INFO - Successfully appended data for vulnerability ABCXYZ-118
+2025-02-28 17:40:16,013 - INFO - Creating table for vulnerability 119: Oracle Linux 7 : qt / and / qt5-qtbase (ELSA-2020-5021)
+2025-02-28 17:40:16,013 - INFO - Creating table with heading: 119. Oracle Linux 7 : qt / and / qt5-qtbase (ELSA-2020-5021)
+2025-02-28 17:40:16,080 - INFO - Table created successfully for heading: 119. Oracle Linux 7 : qt / and / qt5-qtbase (ELSA-2020-5021)
+2025-02-28 17:40:16,082 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:16,082 - INFO - Appending data for vulnerability ABCXYZ-119
+2025-02-28 17:40:16,091 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:16,092 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:16,108 - INFO - Successfully appended data for vulnerability ABCXYZ-119
+2025-02-28 17:40:16,108 - INFO - Creating table for vulnerability 120: Oracle Linux 7 : krb5 (ELSA-2018-3071)
+2025-02-28 17:40:16,109 - INFO - Creating table with heading: 120. Oracle Linux 7 : krb5 (ELSA-2018-3071)
+2025-02-28 17:40:16,174 - INFO - Table created successfully for heading: 120. Oracle Linux 7 : krb5 (ELSA-2018-3071)
+2025-02-28 17:40:16,175 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:16,175 - INFO - Appending data for vulnerability ABCXYZ-120
+2025-02-28 17:40:16,190 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:16,191 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:16,205 - INFO - Successfully appended data for vulnerability ABCXYZ-120
+2025-02-28 17:40:16,206 - INFO - Creating table for vulnerability 121: Oracle Linux 7 : openssl (ELSA-2019-0483)
+2025-02-28 17:40:16,206 - INFO - Creating table with heading: 121. Oracle Linux 7 : openssl (ELSA-2019-0483)
+2025-02-28 17:40:16,273 - INFO - Table created successfully for heading: 121. Oracle Linux 7 : openssl (ELSA-2019-0483)
+2025-02-28 17:40:16,274 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:16,274 - INFO - Appending data for vulnerability ABCXYZ-121
+2025-02-28 17:40:16,281 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:16,283 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:16,296 - INFO - Successfully appended data for vulnerability ABCXYZ-121
+2025-02-28 17:40:16,296 - INFO - Creating table for vulnerability 122: Oracle Linux 7 : NetworkManager (ELSA-2020-4003)
+2025-02-28 17:40:16,296 - INFO - Creating table with heading: 122. Oracle Linux 7 : NetworkManager (ELSA-2020-4003)
+2025-02-28 17:40:16,380 - INFO - Table created successfully for heading: 122. Oracle Linux 7 : NetworkManager (ELSA-2020-4003)
+2025-02-28 17:40:16,381 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:16,382 - INFO - Appending data for vulnerability ABCXYZ-122
+2025-02-28 17:40:16,392 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:16,394 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:16,409 - INFO - Successfully appended data for vulnerability ABCXYZ-122
+2025-02-28 17:40:16,410 - INFO - Creating table for vulnerability 123: Oracle Linux 7 : qemu-kvm (ELSA-2021-2322)
+2025-02-28 17:40:16,410 - INFO - Creating table with heading: 123. Oracle Linux 7 : qemu-kvm (ELSA-2021-2322)
+2025-02-28 17:40:16,479 - INFO - Table created successfully for heading: 123. Oracle Linux 7 : qemu-kvm (ELSA-2021-2322)
+2025-02-28 17:40:16,481 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:16,481 - INFO - Appending data for vulnerability ABCXYZ-123
+2025-02-28 17:40:16,496 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:16,497 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:16,511 - INFO - Successfully appended data for vulnerability ABCXYZ-123
+2025-02-28 17:40:16,511 - INFO - Creating table for vulnerability 124: Oracle Linux 7 : dnsmasq (ELSA-2021-0153)
+2025-02-28 17:40:16,512 - INFO - Creating table with heading: 124. Oracle Linux 7 : dnsmasq (ELSA-2021-0153)
+2025-02-28 17:40:16,577 - INFO - Table created successfully for heading: 124. Oracle Linux 7 : dnsmasq (ELSA-2021-0153)
+2025-02-28 17:40:16,578 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:16,578 - INFO - Appending data for vulnerability ABCXYZ-124
+2025-02-28 17:40:16,594 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:16,595 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:16,611 - INFO - Successfully appended data for vulnerability ABCXYZ-124
+2025-02-28 17:40:16,612 - INFO - Creating table for vulnerability 125: SSH Weak Key Exchange Algorithms Enabled
+2025-02-28 17:40:16,612 - INFO - Creating table with heading: 125. SSH Weak Key Exchange Algorithms Enabled
+2025-02-28 17:40:16,686 - INFO - Table created successfully for heading: 125. SSH Weak Key Exchange Algorithms Enabled
+2025-02-28 17:40:16,688 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:16,688 - INFO - Appending data for vulnerability ABCXYZ-125
+2025-02-28 17:40:16,729 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:16,749 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:16,804 - INFO - Successfully appended data for vulnerability ABCXYZ-125
+2025-02-28 17:40:16,806 - INFO - Creating table for vulnerability 126: Network daemons not managed by the package system
+2025-02-28 17:40:16,806 - INFO - Creating table with heading: 126. Network daemons not managed by the package system
+2025-02-28 17:40:16,886 - INFO - Table created successfully for heading: 126. Network daemons not managed by the package system
+2025-02-28 17:40:16,887 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:16,888 - INFO - Appending data for vulnerability ABCXYZ-126
+2025-02-28 17:40:16,896 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:16,897 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:16,912 - INFO - Successfully appended data for vulnerability ABCXYZ-126
+2025-02-28 17:40:16,913 - INFO - Creating table for vulnerability 127: mDNS Detection (Remote Network)
+2025-02-28 17:40:16,913 - INFO - Creating table with heading: 127. mDNS Detection (Remote Network)
+2025-02-28 17:40:16,987 - INFO - Table created successfully for heading: 127. mDNS Detection (Remote Network)
+2025-02-28 17:40:16,989 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:16,989 - INFO - Appending data for vulnerability ABCXYZ-127
+2025-02-28 17:40:16,998 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:16,999 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:17,013 - INFO - Successfully appended data for vulnerability ABCXYZ-127
+2025-02-28 17:40:17,014 - INFO - Creating table for vulnerability 128: Oracle Database Unsupported Version Detection
+2025-02-28 17:40:17,015 - INFO - Creating table with heading: 128. Oracle Database Unsupported Version Detection
+2025-02-28 17:40:17,092 - INFO - Table created successfully for heading: 128. Oracle Database Unsupported Version Detection
+2025-02-28 17:40:17,094 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:17,094 - INFO - Appending data for vulnerability ABCXYZ-128
+2025-02-28 17:40:17,108 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:17,110 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:17,125 - INFO - Successfully appended data for vulnerability ABCXYZ-128
+2025-02-28 17:40:17,126 - INFO - Creating table for vulnerability 129: SSH Server CBC Mode Ciphers Enabled
+2025-02-28 17:40:17,126 - INFO - Creating table with heading: 129. SSH Server CBC Mode Ciphers Enabled
+2025-02-28 17:40:17,204 - INFO - Table created successfully for heading: 129. SSH Server CBC Mode Ciphers Enabled
+2025-02-28 17:40:17,205 - INFO - Added new page for next vulnerability
+2025-02-28 17:40:17,205 - INFO - Appending data for vulnerability ABCXYZ-129
+2025-02-28 17:40:17,214 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:17,215 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:17,332 - INFO - Successfully appended data for vulnerability ABCXYZ-129
+2025-02-28 17:40:17,332 - INFO - Creating table for vulnerability 130: Oracle Linux 7 : microcode_ctl (ELSA-2019-4867)
+2025-02-28 17:40:17,333 - INFO - Creating table with heading: 130. Oracle Linux 7 : microcode_ctl (ELSA-2019-4867)
+2025-02-28 17:40:17,392 - INFO - Table created successfully for heading: 130. Oracle Linux 7 : microcode_ctl (ELSA-2019-4867)
+2025-02-28 17:40:17,393 - INFO - Appending data for vulnerability ABCXYZ-130
+2025-02-28 17:40:17,407 - INFO - Formatting affected resources table for 1 resources
+2025-02-28 17:40:17,409 - INFO - Successfully formatted affected resources
+2025-02-28 17:40:17,428 - INFO - Successfully appended data for vulnerability ABCXYZ-130
+2025-02-28 17:40:17,494 - INFO - Document saved successfully as 'output_document.docx'
+2025-02-28 17:40:17,495 - INFO - Document creation process completed successfully
+2025-02-28 17:40:17,495 - INFO - Document generated successfully
+2025-02-28 17:40:17,656 - INFO - 127.0.0.1 - - [28/Feb/2025 17:40:17] "POST / HTTP/1.1" 200 -
+2025-02-28 17:41:37,208 - INFO - 127.0.0.1 - - [28/Feb/2025 17:41:37] "GET / HTTP/1.1" 200 -
+2025-02-28 17:41:57,070 - INFO - 127.0.0.1 - - [28/Feb/2025 17:41:57] "POST / HTTP/1.1" 200 -

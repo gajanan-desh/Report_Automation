@@ -1,0 +1,4 @@
+2025-03-03 12:24:42,729 - INFO - Starting web application
+2025-03-03 12:24:42,839 - WARNING -  * Debugger is active!
+2025-03-03 12:24:42,873 - INFO -  * Debugger PIN: 960-943-513
+2025-03-03 12:24:49,835 - INFO - 127.0.0.1 - - [03/Mar/2025 12:24:49] "GET / HTTP/1.1" 200 -

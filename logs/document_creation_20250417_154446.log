@@ -1,0 +1,5 @@
+2025-04-17 15:44:47,636 - INFO - Starting web application
+2025-04-17 15:44:47,717 - WARNING -  * Debugger is active!
+2025-04-17 15:44:47,743 - INFO -  * Debugger PIN: 960-943-513
+2025-04-17 15:46:31,607 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\docx\\oxml\\xmlchemy.py', reloading
+2025-04-17 15:46:31,624 - INFO -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\lxml\\__init__.py', reloading

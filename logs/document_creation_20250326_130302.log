@@ -1,0 +1,100 @@
+2025-03-26 13:03:02,697 - INFO - Starting web application
+2025-03-26 13:03:02,777 - WARNING -  * Debugger is active!
+2025-03-26 13:03:02,801 - INFO -  * Debugger PIN: 134-252-201
+2025-03-26 13:04:10,080 - INFO - File uploaded: dataset.csv
+2025-03-26 13:04:10,447 - INFO - Validating CSV columns
+2025-03-26 13:04:10,451 - INFO - All required columns found in CSV
+2025-03-26 13:04:10,454 - INFO - Starting document creation process
+2025-03-26 13:04:10,542 - INFO - Created new document
+2025-03-26 13:04:10,543 - INFO - Setting document font to Helvetica, size 10.5
+2025-03-26 13:04:10,562 - INFO - Document font set successfully
+2025-03-26 13:04:10,579 - INFO - Added document title
+2025-03-26 13:04:10,613 - INFO - Using CSV file: dataset.csv
+2025-03-26 13:04:10,615 - INFO - Successfully opened CSV file
+2025-03-26 13:04:10,616 - INFO - CSV header read successfully with 13 columns
+2025-03-26 13:04:10,616 - INFO - Validating CSV columns
+2025-03-26 13:04:10,617 - INFO - All required columns found in CSV
+2025-03-26 13:04:10,618 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:10,618 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:10,619 - INFO - Found 1 unique vulnerabilities
+2025-03-26 13:04:10,619 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:10,620 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:10,711 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:10,712 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-03-26 13:04:10,716 - INFO - Formatting affected resources table for 2 resources
+2025-03-26 13:04:10,719 - INFO - Successfully formatted affected resources
+2025-03-26 13:04:10,732 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-03-26 13:04:10,770 - INFO - Generated document saved as output_document.docx
+2025-03-26 13:04:11,170 - INFO - Final document created at vulnerability_report.docx
+2025-03-26 13:04:11,192 - ERROR - Exception during file processing
+Traceback (most recent call last):
+  File "E:\Report Automation Project\webapp.py", line 86, in index
+    return send_file(
+        output_path,
+    ...<2 lines>...
+        mimetype='application/vnd.openxmlformats-officedocument.wordprocessingml.document'
+    )
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\helpers.py", line 511, in send_file
+    return werkzeug.utils.send_file(  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        **_prepare_send_file_kwargs(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+        )
+        ^
+    )
+    ^
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python313\Lib\site-packages\werkzeug\utils.py", line 428, in send_file
+    stat = os.stat(path)
+FileNotFoundError: [WinError 2] The system cannot find the file specified: 'E:\\Report Automation Project\\vulnerability_report.docx'
+2025-03-26 13:04:11,687 - INFO - 127.0.0.1 - - [26/Mar/2025 13:04:11] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-03-26 13:04:11,752 - INFO - 127.0.0.1 - - [26/Mar/2025 13:04:11] "GET / HTTP/1.1" 200 -
+2025-03-26 13:04:24,748 - INFO - File uploaded: dataset.csv
+2025-03-26 13:04:24,797 - INFO - Validating CSV columns
+2025-03-26 13:04:24,802 - INFO - All required columns found in CSV
+2025-03-26 13:04:24,805 - INFO - Starting document creation process
+2025-03-26 13:04:24,844 - INFO - Created new document
+2025-03-26 13:04:24,845 - INFO - Setting document font to Helvetica, size 10.5
+2025-03-26 13:04:24,848 - INFO - Document font set successfully
+2025-03-26 13:04:24,853 - INFO - Added document title
+2025-03-26 13:04:24,854 - INFO - Using CSV file: dataset.csv
+2025-03-26 13:04:24,860 - INFO - Successfully opened CSV file
+2025-03-26 13:04:24,861 - INFO - CSV header read successfully with 13 columns
+2025-03-26 13:04:24,867 - INFO - Validating CSV columns
+2025-03-26 13:04:24,868 - INFO - All required columns found in CSV
+2025-03-26 13:04:24,868 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:24,869 - INFO - Successfully processed vulnerability: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:24,870 - INFO - Found 1 unique vulnerabilities
+2025-03-26 13:04:24,871 - INFO - Creating table for vulnerability 1: DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:24,871 - INFO - Creating table with heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:25,083 - INFO - Table created successfully for heading: 1. DNS Server Recursive Query Cache Poisoning Weakness
+2025-03-26 13:04:25,085 - INFO - Appending data for vulnerability ABCXYZ-1
+2025-03-26 13:04:25,094 - INFO - Formatting affected resources table for 2 resources
+2025-03-26 13:04:25,101 - INFO - Successfully formatted affected resources
+2025-03-26 13:04:25,131 - INFO - Successfully appended data for vulnerability ABCXYZ-1
+2025-03-26 13:04:25,215 - INFO - Generated document saved as output_document.docx
+2025-03-26 13:04:25,437 - INFO - Final document created at vulnerability_report.docx
+2025-03-26 13:04:25,442 - ERROR - Exception during file processing
+Traceback (most recent call last):
+  File "E:\Report Automation Project\webapp.py", line 86, in index
+    return send_file(
+        output_path,
+    ...<2 lines>...
+        mimetype='application/vnd.openxmlformats-officedocument.wordprocessingml.document'
+    )
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\helpers.py", line 511, in send_file
+    return werkzeug.utils.send_file(  # type: ignore[return-value]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        **_prepare_send_file_kwargs(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+        )
+        ^
+    )
+    ^
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python313\Lib\site-packages\werkzeug\utils.py", line 428, in send_file
+    stat = os.stat(path)
+FileNotFoundError: [WinError 2] The system cannot find the file specified: 'E:\\Report Automation Project\\vulnerability_report.docx'
+2025-03-26 13:04:25,450 - INFO - 127.0.0.1 - - [26/Mar/2025 13:04:25] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-03-26 13:04:25,462 - INFO - 127.0.0.1 - - [26/Mar/2025 13:04:25] "GET / HTTP/1.1" 200 -
+2025-03-26 13:04:32,831 - INFO -  * Detected change in 'E:\\Report Automation Project\\webapp.py', reloading

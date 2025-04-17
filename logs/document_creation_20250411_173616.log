@@ -1,0 +1,545 @@
+2025-04-11 17:36:17,417 - INFO - Starting web application
+2025-04-11 17:36:17,489 - WARNING -  * Debugger is active!
+2025-04-11 17:36:17,503 - INFO -  * Debugger PIN: 962-905-612
+2025-04-11 17:36:25,980 - INFO - Processing report for Al nabooda, Internal Network
+2025-04-11 17:36:25,983 - INFO - File uploaded: Firewall_Scan_pt_2_owpmrp.csv
+2025-04-11 17:36:26,093 - INFO - Validating CSV columns
+2025-04-11 17:36:26,093 - INFO - All required columns found in CSV
+2025-04-11 17:36:27,279 - INFO - Cover page generated successfully
+2025-04-11 17:36:27,281 - INFO - Starting document creation process
+2025-04-11 17:36:27,301 - INFO - Created new document
+2025-04-11 17:36:27,301 - INFO - Setting document font to Helvetica, size 10.5
+2025-04-11 17:36:27,305 - INFO - Document font set successfully
+2025-04-11 17:36:27,306 - INFO - Using CSV file: dataset.csv
+2025-04-11 17:36:27,306 - INFO - Successfully opened CSV file
+2025-04-11 17:36:27,306 - INFO - CSV header read successfully with 8 columns
+2025-04-11 17:36:27,307 - INFO - Validating CSV columns
+2025-04-11 17:36:27,307 - INFO - All required columns found in CSV
+2025-04-11 17:36:27,307 - INFO - Processing row 1
+2025-04-11 17:36:27,308 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:27,308 - INFO - Processing row 2
+2025-04-11 17:36:27,308 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:27,308 - INFO - Processing row 3
+2025-04-11 17:36:27,308 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-11 17:36:27,309 - INFO - Processing row 4
+2025-04-11 17:36:27,309 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:27,309 - INFO - Processing row 5
+2025-04-11 17:36:27,310 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:27,310 - INFO - Processing row 6
+2025-04-11 17:36:27,311 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-11 17:36:27,311 - INFO - Processing row 7
+2025-04-11 17:36:27,311 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:27,312 - INFO - Processing row 8
+2025-04-11 17:36:27,312 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:27,312 - INFO - Processing row 9
+2025-04-11 17:36:27,313 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:27,313 - INFO - Processing row 10
+2025-04-11 17:36:27,313 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:27,313 - INFO - Processing row 11
+2025-04-11 17:36:27,314 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:27,314 - INFO - Processing row 12
+2025-04-11 17:36:27,314 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,315 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,315 - INFO - Processing row 13
+2025-04-11 17:36:27,315 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,315 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,315 - INFO - Processing row 14
+2025-04-11 17:36:27,316 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,316 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,316 - INFO - Processing row 15
+2025-04-11 17:36:27,317 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,317 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,317 - INFO - Processing row 16
+2025-04-11 17:36:27,317 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,318 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,318 - INFO - Processing row 17
+2025-04-11 17:36:27,318 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,318 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,318 - INFO - Processing row 18
+2025-04-11 17:36:27,319 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,319 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,319 - INFO - Processing row 19
+2025-04-11 17:36:27,319 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,320 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,320 - INFO - Processing row 20
+2025-04-11 17:36:27,320 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,320 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,321 - INFO - Processing row 21
+2025-04-11 17:36:27,321 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,322 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,322 - INFO - Processing row 22
+2025-04-11 17:36:27,322 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,323 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,323 - INFO - Processing row 23
+2025-04-11 17:36:27,323 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,323 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,324 - INFO - Processing row 24
+2025-04-11 17:36:27,324 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,324 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,324 - INFO - Processing row 25
+2025-04-11 17:36:27,325 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,325 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,325 - INFO - Processing row 26
+2025-04-11 17:36:27,326 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,327 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,327 - INFO - Processing row 27
+2025-04-11 17:36:27,327 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,328 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,328 - INFO - Processing row 28
+2025-04-11 17:36:27,328 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,329 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,329 - INFO - Processing row 29
+2025-04-11 17:36:27,329 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,329 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,329 - INFO - Processing row 30
+2025-04-11 17:36:27,330 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,330 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,331 - INFO - Processing row 31
+2025-04-11 17:36:27,331 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,331 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,331 - INFO - Processing row 32
+2025-04-11 17:36:27,332 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,332 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,332 - INFO - Processing row 33
+2025-04-11 17:36:27,332 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,332 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,333 - INFO - Processing row 34
+2025-04-11 17:36:27,333 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,333 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,333 - INFO - Processing row 35
+2025-04-11 17:36:27,334 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,334 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,334 - INFO - Processing row 36
+2025-04-11 17:36:27,334 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,334 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,334 - INFO - Processing row 37
+2025-04-11 17:36:27,335 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,335 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,335 - INFO - Processing row 38
+2025-04-11 17:36:27,335 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,335 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,336 - INFO - Processing row 39
+2025-04-11 17:36:27,337 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,337 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,337 - INFO - Processing row 40
+2025-04-11 17:36:27,338 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,339 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,339 - INFO - Processing row 41
+2025-04-11 17:36:27,339 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,339 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,339 - INFO - Processing row 42
+2025-04-11 17:36:27,340 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,340 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,340 - INFO - Processing row 43
+2025-04-11 17:36:27,341 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,341 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,341 - INFO - Processing row 44
+2025-04-11 17:36:27,342 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,342 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,342 - INFO - Processing row 45
+2025-04-11 17:36:27,343 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,343 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,343 - INFO - Processing row 46
+2025-04-11 17:36:27,344 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,344 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,344 - INFO - Processing row 47
+2025-04-11 17:36:27,344 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,344 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,345 - INFO - Processing row 48
+2025-04-11 17:36:27,345 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,345 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,346 - INFO - Processing row 49
+2025-04-11 17:36:27,346 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,346 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,346 - INFO - Processing row 50
+2025-04-11 17:36:27,347 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,347 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,347 - INFO - Processing row 51
+2025-04-11 17:36:27,347 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,347 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,347 - INFO - Processing row 52
+2025-04-11 17:36:27,348 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,348 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,348 - INFO - Processing row 53
+2025-04-11 17:36:27,348 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,348 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,349 - INFO - Processing row 54
+2025-04-11 17:36:27,349 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,349 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,349 - INFO - Processing row 55
+2025-04-11 17:36:27,349 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,350 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,350 - INFO - Processing row 56
+2025-04-11 17:36:27,350 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,351 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,351 - INFO - Processing row 57
+2025-04-11 17:36:27,351 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,351 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,352 - INFO - Processing row 58
+2025-04-11 17:36:27,352 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,352 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,352 - INFO - Processing row 59
+2025-04-11 17:36:27,352 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,353 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,353 - INFO - Processing row 60
+2025-04-11 17:36:27,353 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,354 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,354 - INFO - Processing row 61
+2025-04-11 17:36:27,354 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,355 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,355 - INFO - Processing row 62
+2025-04-11 17:36:27,355 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,356 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,356 - INFO - Processing row 63
+2025-04-11 17:36:27,356 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,356 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,357 - INFO - Processing row 64
+2025-04-11 17:36:27,357 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,357 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,357 - INFO - Processing row 65
+2025-04-11 17:36:27,357 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,358 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,358 - INFO - Processing row 66
+2025-04-11 17:36:27,358 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,358 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,358 - INFO - Processing row 67
+2025-04-11 17:36:27,359 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,359 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,359 - INFO - Processing row 68
+2025-04-11 17:36:27,359 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,359 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,360 - INFO - Processing row 69
+2025-04-11 17:36:27,360 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,360 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,361 - INFO - Processing row 70
+2025-04-11 17:36:27,361 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,362 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,363 - INFO - Processing row 71
+2025-04-11 17:36:27,363 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,363 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,363 - INFO - Processing row 72
+2025-04-11 17:36:27,364 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,364 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,364 - INFO - Processing row 73
+2025-04-11 17:36:27,365 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,365 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,366 - INFO - Processing row 74
+2025-04-11 17:36:27,366 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,366 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,367 - INFO - Processing row 75
+2025-04-11 17:36:27,367 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,367 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,367 - INFO - Processing row 76
+2025-04-11 17:36:27,367 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,368 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,368 - INFO - Processing row 77
+2025-04-11 17:36:27,368 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,368 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,368 - INFO - Processing row 78
+2025-04-11 17:36:27,369 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,369 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,369 - INFO - Processing row 79
+2025-04-11 17:36:27,369 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,370 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,370 - INFO - Processing row 80
+2025-04-11 17:36:27,370 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,371 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,371 - INFO - Processing row 81
+2025-04-11 17:36:27,371 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,372 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,372 - INFO - Processing row 82
+2025-04-11 17:36:27,372 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,373 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,373 - INFO - Processing row 83
+2025-04-11 17:36:27,373 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,373 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,374 - INFO - Processing row 84
+2025-04-11 17:36:27,374 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,374 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,375 - INFO - Processing row 85
+2025-04-11 17:36:27,375 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,375 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,375 - INFO - Processing row 86
+2025-04-11 17:36:27,376 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,376 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,376 - INFO - Processing row 87
+2025-04-11 17:36:27,377 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,377 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,377 - INFO - Processing row 88
+2025-04-11 17:36:27,377 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,377 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,378 - INFO - Processing row 89
+2025-04-11 17:36:27,378 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,378 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,378 - INFO - Processing row 90
+2025-04-11 17:36:27,378 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,379 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,379 - INFO - Processing row 91
+2025-04-11 17:36:27,379 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,379 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,379 - INFO - Processing row 92
+2025-04-11 17:36:27,380 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,380 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,380 - INFO - Processing row 93
+2025-04-11 17:36:27,381 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,381 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,381 - INFO - Processing row 94
+2025-04-11 17:36:27,382 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,382 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,382 - INFO - Processing row 95
+2025-04-11 17:36:27,383 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,383 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,383 - INFO - Processing row 96
+2025-04-11 17:36:27,383 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,384 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,384 - INFO - Processing row 97
+2025-04-11 17:36:27,384 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,384 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,385 - INFO - Processing row 98
+2025-04-11 17:36:27,385 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,386 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,386 - INFO - Processing row 99
+2025-04-11 17:36:27,387 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,388 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,388 - INFO - Processing row 100
+2025-04-11 17:36:27,388 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,388 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,389 - INFO - Processing row 101
+2025-04-11 17:36:27,389 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,389 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,390 - INFO - Processing row 102
+2025-04-11 17:36:27,391 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,392 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,393 - INFO - Processing row 103
+2025-04-11 17:36:27,393 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,393 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,394 - INFO - Processing row 104
+2025-04-11 17:36:27,394 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,395 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,396 - INFO - Processing row 105
+2025-04-11 17:36:27,397 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,397 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,397 - INFO - Processing row 106
+2025-04-11 17:36:27,398 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,398 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,398 - INFO - Processing row 107
+2025-04-11 17:36:27,399 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,399 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,399 - INFO - Processing row 108
+2025-04-11 17:36:27,400 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,400 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,400 - INFO - Processing row 109
+2025-04-11 17:36:27,402 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,403 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,404 - INFO - Processing row 110
+2025-04-11 17:36:27,404 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,404 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,405 - INFO - Processing row 111
+2025-04-11 17:36:27,405 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,406 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,407 - INFO - Processing row 112
+2025-04-11 17:36:27,408 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,408 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,408 - INFO - Processing row 113
+2025-04-11 17:36:27,409 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,409 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,410 - INFO - Processing row 114
+2025-04-11 17:36:27,410 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,410 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,410 - INFO - Processing row 115
+2025-04-11 17:36:27,410 - ERROR - Invalid CVSS score: 
+2025-04-11 17:36:27,411 - INFO - Successfully processed vulnerability: 
+2025-04-11 17:36:27,412 - INFO - Found 6 unique vulnerabilities
+2025-04-11 17:36:27,412 - INFO - Creating vulnerability summary table
+2025-04-11 17:36:27,453 - INFO - Summary table created successfully
+2025-04-11 17:36:27,454 - INFO - Creating table for vulnerability 1: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:27,455 - INFO - Creating table with heading: 1. SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:27,517 - INFO - Table created successfully for heading: 1. SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:27,518 - INFO - Added new page for next vulnerability
+2025-04-11 17:36:27,518 - INFO - Appending data for vulnerability SKAIDD-01
+2025-04-11 17:36:27,520 - INFO - Formatting affected resources table for 3 resources
+2025-04-11 17:36:27,522 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:27,527 - INFO - Successfully appended data for vulnerability SKAIDD-01
+2025-04-11 17:36:27,527 - INFO - Creating table for vulnerability 2: SSL Self-Signed Certificate
+2025-04-11 17:36:27,527 - INFO - Creating table with heading: 2. SSL Self-Signed Certificate
+2025-04-11 17:36:27,585 - INFO - Table created successfully for heading: 2. SSL Self-Signed Certificate
+2025-04-11 17:36:27,586 - INFO - Added new page for next vulnerability
+2025-04-11 17:36:27,586 - INFO - Appending data for vulnerability SKAIDD-02
+2025-04-11 17:36:27,589 - INFO - Formatting affected resources table for 2 resources
+2025-04-11 17:36:27,592 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:27,596 - INFO - Successfully appended data for vulnerability SKAIDD-02
+2025-04-11 17:36:27,596 - INFO - Creating table for vulnerability 3: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:27,596 - INFO - Creating table with heading: 3. TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:27,660 - INFO - Table created successfully for heading: 3. TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:27,660 - INFO - Added new page for next vulnerability
+2025-04-11 17:36:27,661 - INFO - Appending data for vulnerability SKAIDD-03
+2025-04-11 17:36:27,663 - INFO - Formatting affected resources table for 2 resources
+2025-04-11 17:36:27,665 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:27,669 - INFO - Successfully appended data for vulnerability SKAIDD-03
+2025-04-11 17:36:27,669 - INFO - Creating table for vulnerability 4: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:27,670 - INFO - Creating table with heading: 4. Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:27,734 - INFO - Table created successfully for heading: 4. Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:27,736 - INFO - Added new page for next vulnerability
+2025-04-11 17:36:27,737 - INFO - Appending data for vulnerability SKAIDD-04
+2025-04-11 17:36:27,740 - INFO - Formatting affected resources table for 2 resources
+2025-04-11 17:36:27,742 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:27,746 - INFO - Successfully appended data for vulnerability SKAIDD-04
+2025-04-11 17:36:27,747 - INFO - Creating table for vulnerability 5: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:27,747 - INFO - Creating table with heading: 5. SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:27,857 - INFO - Table created successfully for heading: 5. SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:27,860 - INFO - Added new page for next vulnerability
+2025-04-11 17:36:27,861 - INFO - Appending data for vulnerability SKAIDD-05
+2025-04-11 17:36:27,872 - INFO - Formatting affected resources table for 2 resources
+2025-04-11 17:36:27,908 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:27,921 - INFO - Successfully appended data for vulnerability SKAIDD-05
+2025-04-11 17:36:27,922 - INFO - Creating table for vulnerability 6: 
+2025-04-11 17:36:27,922 - INFO - Creating table with heading: 6. 
+2025-04-11 17:36:28,046 - INFO - Table created successfully for heading: 6. 
+2025-04-11 17:36:28,046 - INFO - Appending data for vulnerability SKAIDD-06
+2025-04-11 17:36:28,049 - INFO - Formatting affected resources table for 1 resources
+2025-04-11 17:36:28,050 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:28,054 - INFO - Successfully appended data for vulnerability SKAIDD-06
+2025-04-11 17:36:28,085 - INFO - Document saved successfully as 'output_document.docx'
+2025-04-11 17:36:28,085 - INFO - Document creation process completed successfully
+2025-04-11 17:36:28,086 - INFO - VA report generated successfully
+2025-04-11 17:36:28,086 - INFO - Merging documents
+2025-04-11 17:36:28,626 - INFO - Documents merged successfully
+2025-04-11 17:36:28,626 - INFO - Final report generated successfully
+2025-04-11 17:36:28,652 - INFO - 127.0.0.1 - - [11/Apr/2025 17:36:28] "POST / HTTP/1.1" 200 -
+2025-04-11 17:36:43,678 - INFO - Processing report for Al-Nabooda, External Network
+2025-04-11 17:36:43,795 - INFO - File uploaded: Firewall_Scan_6bndj0.csv
+2025-04-11 17:36:43,885 - INFO - Validating CSV columns
+2025-04-11 17:36:43,886 - INFO - All required columns found in CSV
+2025-04-11 17:36:45,699 - INFO - Cover page generated successfully
+2025-04-11 17:36:45,701 - INFO - Starting document creation process
+2025-04-11 17:36:45,743 - INFO - Created new document
+2025-04-11 17:36:45,746 - INFO - Setting document font to Helvetica, size 10.5
+2025-04-11 17:36:45,767 - INFO - Document font set successfully
+2025-04-11 17:36:45,767 - INFO - Using CSV file: dataset.csv
+2025-04-11 17:36:45,768 - INFO - Successfully opened CSV file
+2025-04-11 17:36:45,769 - INFO - CSV header read successfully with 8 columns
+2025-04-11 17:36:45,770 - INFO - Validating CSV columns
+2025-04-11 17:36:45,771 - INFO - All required columns found in CSV
+2025-04-11 17:36:45,772 - INFO - Processing row 1
+2025-04-11 17:36:45,776 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:45,776 - INFO - Processing row 2
+2025-04-11 17:36:45,777 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-11 17:36:45,777 - INFO - Processing row 3
+2025-04-11 17:36:45,778 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:45,778 - INFO - Processing row 4
+2025-04-11 17:36:45,779 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:45,779 - INFO - Processing row 5
+2025-04-11 17:36:45,780 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-11 17:36:45,780 - INFO - Processing row 6
+2025-04-11 17:36:45,783 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:45,783 - INFO - Processing row 7
+2025-04-11 17:36:45,784 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:45,785 - INFO - Processing row 8
+2025-04-11 17:36:45,797 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-11 17:36:45,798 - INFO - Processing row 9
+2025-04-11 17:36:45,800 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:45,801 - INFO - Processing row 10
+2025-04-11 17:36:45,802 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:45,803 - INFO - Processing row 11
+2025-04-11 17:36:45,810 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-11 17:36:45,811 - INFO - Processing row 12
+2025-04-11 17:36:45,813 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:45,813 - INFO - Processing row 13
+2025-04-11 17:36:45,814 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:45,814 - INFO - Processing row 14
+2025-04-11 17:36:45,814 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-11 17:36:45,815 - INFO - Processing row 15
+2025-04-11 17:36:45,816 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:45,826 - INFO - Processing row 16
+2025-04-11 17:36:45,831 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:45,836 - INFO - Processing row 17
+2025-04-11 17:36:45,838 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:45,845 - INFO - Processing row 18
+2025-04-11 17:36:45,852 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-11 17:36:45,853 - INFO - Processing row 19
+2025-04-11 17:36:45,858 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:45,860 - INFO - Processing row 20
+2025-04-11 17:36:45,861 - INFO - Successfully processed vulnerability: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:45,861 - INFO - Processing row 21
+2025-04-11 17:36:45,865 - INFO - Successfully processed vulnerability: SSL Self-Signed Certificate
+2025-04-11 17:36:45,867 - INFO - Processing row 22
+2025-04-11 17:36:45,869 - INFO - Successfully processed vulnerability: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:45,875 - INFO - Processing row 23
+2025-04-11 17:36:45,876 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:45,877 - INFO - Processing row 24
+2025-04-11 17:36:45,880 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:45,883 - INFO - Processing row 25
+2025-04-11 17:36:45,894 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:45,896 - INFO - Processing row 26
+2025-04-11 17:36:45,899 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:45,903 - INFO - Processing row 27
+2025-04-11 17:36:45,917 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:45,922 - INFO - Processing row 28
+2025-04-11 17:36:45,926 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:45,936 - INFO - Processing row 29
+2025-04-11 17:36:45,941 - INFO - Successfully processed vulnerability: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:45,942 - INFO - Processing row 30
+2025-04-11 17:36:45,944 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:45,946 - INFO - Processing row 31
+2025-04-11 17:36:45,952 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:45,954 - INFO - Processing row 32
+2025-04-11 17:36:45,959 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:45,960 - INFO - Processing row 33
+2025-04-11 17:36:45,965 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:45,966 - INFO - Processing row 34
+2025-04-11 17:36:45,967 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:45,968 - INFO - Processing row 35
+2025-04-11 17:36:45,969 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:45,973 - INFO - Processing row 36
+2025-04-11 17:36:45,976 - INFO - Successfully processed vulnerability: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:46,040 - INFO - Found 5 unique vulnerabilities
+2025-04-11 17:36:46,052 - INFO - Creating vulnerability summary table
+2025-04-11 17:36:46,296 - INFO - Summary table created successfully
+2025-04-11 17:36:46,302 - INFO - Creating table for vulnerability 1: SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:46,308 - INFO - Creating table with heading: 1. SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:46,596 - INFO - Table created successfully for heading: 1. SSL Certificate Cannot Be Trusted
+2025-04-11 17:36:46,600 - INFO - Added new page for next vulnerability
+2025-04-11 17:36:46,604 - INFO - Appending data for vulnerability VAS-01
+2025-04-11 17:36:46,611 - INFO - Formatting affected resources table for 8 resources
+2025-04-11 17:36:46,619 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:46,632 - INFO - Successfully appended data for vulnerability VAS-01
+2025-04-11 17:36:46,633 - INFO - Creating table for vulnerability 2: SSL Self-Signed Certificate
+2025-04-11 17:36:46,635 - INFO - Creating table with heading: 2. SSL Self-Signed Certificate
+2025-04-11 17:36:46,875 - INFO - Table created successfully for heading: 2. SSL Self-Signed Certificate
+2025-04-11 17:36:46,878 - INFO - Added new page for next vulnerability
+2025-04-11 17:36:46,879 - INFO - Appending data for vulnerability VAS-02
+2025-04-11 17:36:46,885 - INFO - Formatting affected resources table for 7 resources
+2025-04-11 17:36:46,910 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:46,997 - INFO - Successfully appended data for vulnerability VAS-02
+2025-04-11 17:36:47,027 - INFO - Creating table for vulnerability 3: TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:47,046 - INFO - Creating table with heading: 3. TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:47,223 - INFO - Table created successfully for heading: 3. TLS Version 1.1 Deprecated Protocol
+2025-04-11 17:36:47,224 - INFO - Added new page for next vulnerability
+2025-04-11 17:36:47,225 - INFO - Appending data for vulnerability VAS-03
+2025-04-11 17:36:47,230 - INFO - Formatting affected resources table for 7 resources
+2025-04-11 17:36:47,235 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:47,247 - INFO - Successfully appended data for vulnerability VAS-03
+2025-04-11 17:36:47,247 - INFO - Creating table for vulnerability 4: Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:47,248 - INFO - Creating table with heading: 4. Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:47,352 - INFO - Table created successfully for heading: 4. Palo Alto Networks PAN-OS 10.2.x < 10.2.12 / 11.0.x < 11.0.6 / 11.1.x < 11.1.5 / 11.2.x < 11.2.4 Vulnerability
+2025-04-11 17:36:47,353 - INFO - Added new page for next vulnerability
+2025-04-11 17:36:47,354 - INFO - Appending data for vulnerability VAS-04
+2025-04-11 17:36:47,365 - INFO - Formatting affected resources table for 7 resources
+2025-04-11 17:36:47,387 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:47,399 - INFO - Successfully appended data for vulnerability VAS-04
+2025-04-11 17:36:47,400 - INFO - Creating table for vulnerability 5: SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:47,403 - INFO - Creating table with heading: 5. SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:47,557 - INFO - Table created successfully for heading: 5. SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+2025-04-11 17:36:47,557 - INFO - Appending data for vulnerability VAS-05
+2025-04-11 17:36:47,561 - INFO - Formatting affected resources table for 7 resources
+2025-04-11 17:36:47,569 - INFO - Successfully formatted affected resources
+2025-04-11 17:36:47,581 - INFO - Successfully appended data for vulnerability VAS-05
+2025-04-11 17:36:47,639 - INFO - Document saved successfully as 'output_document.docx'
+2025-04-11 17:36:47,640 - INFO - Document creation process completed successfully
+2025-04-11 17:36:47,642 - INFO - VA report generated successfully
+2025-04-11 17:36:47,643 - INFO - Merging documents
+2025-04-11 17:36:48,352 - INFO - Documents merged successfully
+2025-04-11 17:36:48,353 - INFO - Final report generated successfully
+2025-04-11 17:36:48,396 - INFO - 127.0.0.1 - - [11/Apr/2025 17:36:48] "POST / HTTP/1.1" 200 -
+2025-04-11 18:49:03,146 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\script5.py', reloading
+2025-04-11 18:49:03,188 - INFO -  * Detected change in 'E:\\Report Automation Project - Copy\\script5.py', reloading

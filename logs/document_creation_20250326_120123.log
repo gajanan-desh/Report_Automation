@@ -1,0 +1,22 @@
+2025-03-26 12:01:23,854 - INFO - Starting web application
+2025-03-26 12:01:24,185 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-26 12:01:24,186 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-26 12:01:24,191 - INFO -  * Restarting with stat
+2025-03-26 12:21:33,495 - INFO -  * Restarting with stat
+2025-03-26 12:23:58,913 - INFO -  * Restarting with stat
+2025-03-26 12:25:57,435 - INFO -  * Restarting with stat
+2025-03-26 12:30:14,283 - INFO -  * Restarting with stat
+2025-03-26 12:31:55,882 - INFO -  * Restarting with stat
+2025-03-26 12:36:06,254 - INFO -  * Restarting with stat
+2025-03-26 12:37:38,614 - INFO -  * Restarting with stat
+2025-03-26 12:37:52,979 - INFO -  * Restarting with stat
+2025-03-26 12:57:27,809 - INFO -  * Restarting with stat
+2025-03-26 12:57:52,761 - INFO -  * Restarting with stat
+2025-03-26 13:00:36,931 - INFO -  * Restarting with stat
+2025-03-26 13:01:07,143 - INFO -  * Restarting with stat
+2025-03-26 13:01:24,873 - INFO -  * Restarting with stat
+2025-03-26 13:03:00,558 - INFO -  * Restarting with stat
+2025-03-26 13:04:33,420 - INFO -  * Restarting with stat
+2025-03-26 13:04:49,648 - INFO -  * Restarting with stat
+2025-03-26 13:04:58,540 - INFO -  * Restarting with stat
